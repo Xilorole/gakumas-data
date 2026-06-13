@@ -3,9 +3,9 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.129258+00:00",
-  "line_count": 34,
-  "needs_review": 2,
+  "exported_at": "2026-06-13T20:00:32.664556+00:00",
+  "line_count": 25,
+  "needs_review": 1,
   "lines": [
     {
       "index": 1,
@@ -14,30 +14,11 @@
       "text": "……プロデューサー。わたしたちが挑む\nオーディションは………"
     },
     {
-      "index": 1,
-      "type": "dialogue",
-      "speaker": "広",
-      "text": "……プロデューサー。わたしたちが挑む\nオーディションは………"
-    },
-    {
       "index": 2,
       "type": "dialogue",
       "speaker": "広",
       "text": "『QUARTET』。",
       "needs_review": true
-    },
-    {
-      "index": 2,
-      "type": "dialogue",
-      "speaker": "広",
-      "text": "『QUARTET』。",
-      "needs_review": true
-    },
-    {
-      "index": 3,
-      "type": "dialogue",
-      "speaker": "広",
-      "text": "ふふ……佑芽を、\nわたしの全力で煽ってきた、よ。"
     },
     {
       "index": 3,
@@ -52,18 +33,6 @@
       "text": "篠澤さんは……どうしてそう、\n自滅ボタンを連打するんです？"
     },
     {
-      "index": 4,
-      "type": "dialogue",
-      "speaker": "ろんしろ",
-      "text": "篠澤さんは……どうしてそう、\n自滅ボタンを連打するんです？"
-    },
-    {
-      "index": 5,
-      "type": "dialogue",
-      "speaker": "広",
-      "text": "友達が相手だからって、ほんのすこし\nでも手を抜かれたら、嫌だから。"
-    },
-    {
       "index": 5,
       "type": "dialogue",
       "speaker": "広",
@@ -74,18 +43,6 @@
       "type": "dialogue",
       "speaker": "広",
       "text": "本気の佑芽と、闘いたかったから。"
-    },
-    {
-      "index": 6,
-      "type": "dialogue",
-      "speaker": "広",
-      "text": "本気の佑芽と、闘いたかったから。"
-    },
-    {
-      "index": 7,
-      "type": "dialogue",
-      "speaker": "広",
-      "text": "ひりつく勝負が、したかったから。"
     },
     {
       "index": 7,
@@ -98,18 +55,6 @@
       "type": "dialogue",
       "speaker": "広",
       "text": "ふふん。"
-    },
-    {
-      "index": 8,
-      "type": "dialogue",
-      "speaker": "広",
-      "text": "ふぶふん。"
-    },
-    {
-      "index": 9,
-      "type": "dialogue",
-      "speaker": "ろんしろ",
-      "text": "……本当に、あなたという人は……"
     },
     {
       "index": 9,

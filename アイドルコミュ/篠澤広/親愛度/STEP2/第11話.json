@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:22:11.715695+00:00",
+  "exported_at": "2026-06-13T19:21:59.610143+00:00",
   "line_count": 53,
   "needs_review": 0,
   "lines": [
@@ -249,7 +249,7 @@
     },
     {
       "index": 41,
-      "type": "narration",
+      "type": "dialogue",
       "speaker": "広",
       "text": "だいすき。"
     },

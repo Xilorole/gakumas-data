@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.134659+00:00",
+  "exported_at": "2026-06-13T19:21:59.881468+00:00",
   "line_count": 18,
   "needs_review": 0,
   "lines": [
@@ -98,7 +98,7 @@
     },
     {
       "index": 16,
-      "type": "narration",
+      "type": "dialogue",
       "speaker": "広",
       "text": "だめ。嬉しすぎて……\nふぅ、ってなっちゃうから。"
     },
