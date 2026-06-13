@@ -1,0 +1,347 @@
+{
+  "session": "hiro_04",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.103909+00:00",
+  "line_count": 56,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "さあ、レッスンを始めるぞ！"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "一同",
+      "text": "はい！"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "篠澤は、今日から特別メニューになる。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "特別メニュー？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "おまえのプロデューサーと\n話し合ったんだ。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "走らせるたびに倒れるのでは、\nレッスンにならんからな。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーは、なんて？"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "何年も地下牢につながれていた\nお姫様のように扱えと言われた。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……そうなんだ。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "お姫様……"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "HPが1しかないから、慎重に\n指導しないと死ぬとも言っていた。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "プロデューサーいわく、\n普通に登下校をするだけでも、"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "篠澤にとっては\nハードトレーニングなのだと。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "さすがプロデューサー。正確な見立て。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "誇らしそうな顔をやめろ。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "そういうわけで、特別メニューだ。\nー一確認しろ。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はい。……ふむふむ……これは……"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "高齢者用のリハビリメニュー？"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "ずっと気を遣った表現を\nしていたのに台無しだよ。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "不満か？"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "不満じゃないけど……"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "早く、もっとハードで\n苦しいレッスンがしたい。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "初日から思っていたが……\n根性はあるのだよな。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "ふっ、そんなに\nアイドルになりたいのか？"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "………………………………？"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "なぜそこで悩むんだ。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "アイドルになりたくて、\n学園に入ったのだろう？"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは……"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルを目指すために入学した。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "同じように聞こえるがな？\nまったく、よくわからん生徒だよ。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "ここまでにしておこう。\nまあ……頑張ったな。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はぁ……はぁ……っ……"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……ふふふふっ……"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ご機嫌ですね。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……きてたんだ。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "心配で迎えにきました。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "トレーナー、無理はさせないようにと\nお願いしたはずですが。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "軽いストレッチしかさせてないぞ。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……では、この……フルマラソンを\n完走したかのような有様は？"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "軽いストレッチをした結果だ。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "限界きりぎりまでがんばった。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "…………お疲れさまでした。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "なあ、プロデューサー。\nこう言っちゃなんだが……"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "彼女をアイドルにするのは\n無理じゃないか？"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ダンストレーナー",
+      "text": "まったく見込みがないと思うぞ。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そんなことは最初から\nわかっていたことです。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "すべて承知の上で、\n引き受けた仕事です。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ー一篠澤さん。\n今日のレッスンは、いかがでしたか？"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……今は、ただただ苦しい。\n生と死のはざまをたゆたっている。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "担当アイドルに言われたら怖い人台詞\n第一位が日々更新されていきますね。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "本当に死なないでくださいよ？"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ごめんね、プロデューサー。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし……\nこの学園に、入ってよかった。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なら、よかった。\n……死に際の台詞じゃないですよね？"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今日のプロデュース状況を\nメモしておこう。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "本人はいたって楽しそうだ。\n少しずつでも、進歩はしている様子。"
+    }
+  ]
+}

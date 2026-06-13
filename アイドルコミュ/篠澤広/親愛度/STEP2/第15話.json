@@ -1,0 +1,216 @@
+{
+  "session": "hiro_15",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.129258+00:00",
+  "line_count": 34,
+  "needs_review": 2,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサー。わたしたちが挑む\nオーディションは………"
+    },
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサー。わたしたちが挑む\nオーディションは………"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『QUARTET』。",
+      "needs_review": true
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『QUARTET』。",
+      "needs_review": true
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……佑芽を、\nわたしの全力で煽ってきた、よ。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……佑芽を、\nわたしの全力で煽ってきた、よ。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんは……どうしてそう、\n自滅ボタンを連打するんです？"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんは……どうしてそう、\n自滅ボタンを連打するんです？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "友達が相手だからって、ほんのすこし\nでも手を抜かれたら、嫌だから。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "友達が相手だからって、ほんのすこし\nでも手を抜かれたら、嫌だから。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本気の佑芽と、闘いたかったから。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本気の佑芽と、闘いたかったから。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ひりつく勝負が、したかったから。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ひりつく勝負が、したかったから。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふん。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふぶふん。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……本当に、あなたという人は……"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……本当に、あなたという人は……"
+    },
+    {
+      "index": 10,
+      "type": "choice",
+      "text": "花海姉妹の\n影響ですか？"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちがう。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もともとわたしは、こういう人。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "しってるくせに。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "自分で相手を強くしたからには、\n勝つように。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "できなかったときは……・\nわかっていますね？"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……わたしを\n喜ばせるためじゃなくて……"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本気で言ってるのが、わかるよ。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "がんばらないと……\n今度こそ見限られちゃうかも。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーが集めてくれた……\nたくさんのファンたち。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今日、わたしのために……\n来てくれてる。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ずるいくらいに……\nわたしに有利な……オーディション。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちっともアイドルに向いてない\nわたしだけど……これなら……"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わんちゃん、ある、かも。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "みんなから……力をもらって……"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "佑芽に、勝ってくるね。"
+    }
+  ]
+}

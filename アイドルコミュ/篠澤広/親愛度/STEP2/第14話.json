@@ -1,0 +1,280 @@
+{
+  "session": "hiro_14",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.127715+00:00",
+  "line_count": 45,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ふっふっふっふ……"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "あたしの勝ちぃ～～～～～っ！"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "撫子",
+      "text": "くっ！。こ、このあたくしが……！\n初星学園のアイドルなんかにぃっ！"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "んーーっ、いい勝負だったあぁ！"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "撫子",
+      "text": "ふ、ふ～んッ！　いい気になって\nいられるのも、いまのうちですわ！"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "撫子",
+      "text": "お姉さまたちが、きっとあたくしの\n仇を討ってくださいますものっ！"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "撫子",
+      "text": "覚えていらっしゃいませぇ～～～～～！"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "うんッ、まったね～～～～～～～♪"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……佑芽が咲季みたいなことしてる。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "あっ、広ちゃん！　あたしを\n応援しにきてくれたの？"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "敵情視察。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、\n『FINALE』で優勝することにした。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ーーーーーーえ。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "………………………………………………"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "そっかあ～～～～～～～～～～ッ！"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんも、\nあたしのライバルだもんね！"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈も。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "千奈ちゃんも『N.I.A』に\n参加してるのっ！？"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちっちっちっちっ……どうやら佑芽は、\nランキングを見てない様子。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はいこれ。見よ……\nわたしたちのすごいランクを。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ええ〜〜ッ！？　ほんとにすごい！？\n広ちゃんも……千奈ちゃんも……"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "知ってたよ……\nふたりが追いかけてくるって。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "待ってたよ！\nふたりが追いついてくるのを！"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "嬉しい～～～～～～～～～～～ッ！"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "広ちゃん！\nさっそくオーディションで勝負しよう！"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いいよ。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やっと、佑芽にその顔で\n見てもらえるようになった。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、嬉しい。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんは、うまくいかないのが\n好きなんでしょ？"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "あたしが勝って、う〜んと\n悔しがらせてあげるね！"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが、もしも佑芽に勝てたら……\nとっても嬉しくなって……喜んで。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それから、特大のため息をつくと思う。\nふぅぅ～～～～…………って。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "text": "なっ……な、なにぃぃ…………"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "きっと、すごく、すごく……・\n涙が出るほどくやしくて。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "楽しい、よ。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "うぐぅ～～～つ……\n想像しただけで叫びたくなるぅ……"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なら、わたしに負けられない、ね。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "負けられないよっ！　お姉ちゃんとの\n勝負と同じくらい……"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんには負けられない！"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "その意気。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そういう目をしている佑芽が、\nだいすき。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの親友で、ライバル。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふつうのオーディションじゃ、\nいまのわたしに勝ち目なんてない。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけど……『N.I.A』でなら。\nプロデューサーと、いっしょなら。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが勝つ、よ。"
+    }
+  ]
+}

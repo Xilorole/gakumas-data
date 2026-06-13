@@ -1,0 +1,118 @@
+{
+  "session": "hiro_18",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.134659+00:00",
+  "line_count": 18,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さん、我々が参加する\nオーディションはー一一一"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『FINALE』です。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やっと、だね。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈と……佑芽と……わたしとで、\n優勝をかけて競い合う。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "学園最底辺だったわたしたちが、\n『N.I.A』を席巻してるなんて。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "こんな夢みたいな状況を、\nプロデューサーは、予想していた？"
+    },
+    {
+      "index": 7,
+      "type": "choice",
+      "text": "はい"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "予想していましたよ……花海佑芽さんに\n勝ったあの瞬間から。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わりと最近。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "当時の心境を正直に吐露します、が。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『すごいな。本当に勝って\nしまったぞ』と、思いました。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とんでもない暴言が飛び出した。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そのくらいの大金星だった\nということです。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "決戦の前に、テンションを\n下げたくないのですが……"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたを……思いっ切り\n褒めてもいいでしょうか？"
+    },
+    {
+      "index": 16,
+      "type": "narration",
+      "speaker": "広",
+      "text": "だめ。嬉しすぎて……\nふぅ、ってなっちゃうから。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "勝って、帰ってきたら……\n……たくさん褒めて、ね。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いってきます、プロデューサー。"
+    }
+  ]
+}

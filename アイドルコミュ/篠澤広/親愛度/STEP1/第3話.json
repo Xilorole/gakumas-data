@@ -1,0 +1,503 @@
+{
+  "session": "hiro_03",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.101673+00:00",
+  "line_count": 82,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "あさり先生",
+      "text": "皆さん。授業を終える前に、"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "あさり先生",
+      "text": "プロデューサーとしての大切な\n心構えについて、一言だけ。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "あさり先生",
+      "text": "担当アイドルを深く理解すること！\n基本にして、極意ですよ。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "……………………なんて難しいんだ。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "えーっ！　広ちゃん、\nプロデューサーが付いたのォ！"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "う、羨ましいですわ～っ！　落ちこぼれ\n仲間だと思っておりましたのにぃ！"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ぐぬぬぅ……お友達に、一歩先を\n行かれてしまった気分ですわっ！"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "どんな人？　どんな人っ？"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしにとって、\nすごく、いいプロデューサーだと思う。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "好き。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "えええ！？"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんのお口からそんな甘酸っぱい\nお言葉が聞けるだなんてぇっ！"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "うわーうわー、どうしよう千奈ちゃん！\nあたしまでドキドキしてきたぁ！"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "わ、わわわ、\nわたくしだって同じですわ！！"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃん、プロデューサーさんの\nどんなところが好きなのっ？"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……と。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "この学園で会った人たちの中で、\nいちばん……わたしのことを。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "い、いちばん？"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "わたしのことを？？？"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "低く評価しているところ。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのことを、いまにも見限って\nきそうな眼差しが好き。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "んんんっ？　あれあれあれぇっ？？？"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "……なにやら雲行きが\n怪しくなってまいりましたわ……"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "そのプロデューサーさんで大丈夫なの？"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "大丈夫。引き受けたからには\n全力を尽くすって言ってくれた。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "1ヶ月だけのお試し契約だから……"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "来月になったら、\nわたしは捨てられちゃうかも。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "ちっとも大丈夫じゃないぃっ！！"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "幸せそうに言う台詞\nじゃありませんわーっ！！"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ふぇえ……これが恋ゆえの盲目\nというやつですの……？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "どうしよう千奈ちゃん！\nあたしハラハラしてきた……！"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "花海さん！\n気をしっかり持ってくださいませ！"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さん！　わたくしたち、\nいつでも相談に乗りますわっ！"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "お友達ですもの！"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、ありがとう。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーから、今週の課題と、\n今月の課題をもらったんだ。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "佑芽のおかげで、週課は達成できた。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "なにかしたっけ？"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今週の課題は、\n『先週よりも健康になる』こと。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの食事は改善された。\nあなたのおかげ。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ありがとう。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "………えへへ。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "お礼なら、作ってくれた\nお姉ちゃんに言ってあげてっ。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうする。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "今月の課題はなんですの？"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『立てるようになる』こと。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "いま立ってるじゃん。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまのわたしは、\nちゃんと立ってないんだって。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "起立して、静止する。\nアイドルの基本ができてないって。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とても難しい課題。\nわたし、月末までに……"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "片足立ちを10秒維持できるように\nならないといけない。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "できないの？"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "できない。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "なんで？？？？？？？？？"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ふふふ……花海さんは運動おんちを\n甘く見過ぎですわ。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "できないものはできないのです。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わかる。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "たとえプロデューサーがわたしに、\n強力な催眠を施して。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『腕立て伏せを10回しろ』って\n残虐な命令をしたとしても。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "1回もできない自信がある。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "……たとえが不穏かつ具体的ですわね。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなわたしを、千奈に助けて欲しい。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "もちろんですわ。でも、\nわたくし、なにをすれば……？"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "お手本、見せて欲しい。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたの立っている姿、\nとても綺麗だから。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "え、ええ〜っ！\nそんな……照れちゃいますわ！"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "お手本でしたわね。\n普通に立てばよろしいですの？"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "お望みなら片足立ちでも\nなんでもいたしますわっ！"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まずは真っすぐ立っているところを、\n間近で見たい。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "こ、こうですの？"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ほんとだ。普通に立ってる\nだけなのに、綺麗に見えるね。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "えへへ……礼儀作法のお稽古を\nしていたおかげでしょうか。"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すごい。脚を押しても\nちっともふらふらしない。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "筋肉が付いているようには見えないのに\n……不思議だなぁ。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "お、おふたりとも！\nおさわりは許してませんわ！"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あとで何度も見返すために、\n動画を撮影してもいい？"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "構いませんけども……・"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "関節の動きを観察したい。\n上着とスカートを脱いで欲しい。"
+    },
+    {
+      "index": 80,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "風紀委員の皆様に\nしかられちゃいますわぁーつっつっ！？"
+    },
+    {
+      "index": 81,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今日の授業では、\n大事なことを学んだ。"
+    },
+    {
+      "index": 82,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『担当アイドルを深く理解する』……\n諦めるわけにはいかない。"
+    }
+  ]
+}

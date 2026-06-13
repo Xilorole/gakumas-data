@@ -1,0 +1,471 @@
+{
+  "session": "hiro_08",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.113761+00:00",
+  "line_count": 77,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "みなさぁーーーーん！\nありがとうございましたぁ！"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……はぁ……っ……"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "生のライブ、はじめて観た。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……アイドルの卵として、\nあるまじき台詞ですね。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "進路を決める前に、\n観ておくべきものでは？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "当時のわたしがライブに参加したら、\n無事ではすまない。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "…………以前の篠澤さんだったなら、\n途中で倒れていたかもしれませんね。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そう。だから、やっと、観られた。\nすぐ、間近で……ふふ。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "さて……"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今日は、レッスンの一環として、\n花海さんのライブを観たわけですが。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "感想をどうぞ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すごかった。佑芽、きらきらしてた。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あれが、わたしの友達。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "嬉しそうですね。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。大満足。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "他には？"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……………………？　他、って？"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "たとえば……悔しい、とか。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どうして……わたしが、\n佑芽のライブを観て、悔しくなるの？"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "入学してからずっと、同じグループで\nレッスンを受けていたでしょう。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。わたしと、千奈と、佑芽。\nずっと一緒だった。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "花海さんだけが急成長し、\n初ライブを成功させた。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なにか思うところがあるのでは。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "佑芽は、最初からすごかった。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "誰よりも速いのに、\nおっちょこちょいで、そそっかしくて。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "よーいどんで転んじゃった、\nうさぎさん。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしより先にデビューするのも、\nライブをするのも、"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "当たり前のことだと思う。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だから……\n悔しいとか、そういうのは……………"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そういうのは………………………………"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さん？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……どうしよう。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、悔しいかもしれない。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "か、かもしれない……とは？"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "佑芽はすごい。\nわたしは……ちっともすごくない。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なのに、悔しいのは、変。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "変じゃないですよ。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "身近な誰かに、先を越されたら悔しい。\nそういうものです。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そう、なの？　……わからない。\n負けたりとか、なかったから。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……知らなかった……"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "大好きなことで負けるの、\nすごく苦しいね。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "身体が熱くて、心臓が痛くて。\n……そわそわする。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それはよかった。"
+    },
+    {
+      "index": 44,
+      "type": "choice",
+      "text": "……アイドル、好きなんですね"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……そうみたい。\nいま、はじめて気づいた。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "好き……アイドルが。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なら、今日のレッスンは大成功です"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いつの日か、花海さんに\n負けないライブができるようにーーーー"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ー一っと、どうしました？"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ライブをする。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "は？　だ、誰が？"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いつ？"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "明日。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーがなんとかする。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "はっ……あー………ええと……ゴホン！"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ーー一一なぜ？"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やりたいから。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "面白そうだから。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "悔しいから。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふん。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……なんてままならない仕事なんだ。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "羨ましい。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。\nわたし、あのとき言ったよ。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "任せて、って。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そうでしたね……！"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "新鮮で、苦しくて、ままならない。\nそんな日々を約束した。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、明日ライブできる？"
+    },
+    {
+      "index": 71,
+      "type": "choice",
+      "text": "で……でき……できま……す"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "苦しそう。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "おかげさまで……\n趣味を楽しんでいますよ……"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "仲間。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、明日も……\n一緒に楽しもうね。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "明日のことを考える前に、\n一度、レポートをまとめなおそう……"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なんとかすると言ってしまった……！\nぐうううううう…………！"
+    }
+  ]
+}

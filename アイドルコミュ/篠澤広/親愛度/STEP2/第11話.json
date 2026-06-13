@@ -1,0 +1,327 @@
+{
+  "session": "hiro_11",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.121822+00:00",
+  "line_count": 53,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『NEXT　IDOL　AUDITION』……\n……わたしが出るの？"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんの次のステップとして、\n理想的な目標でしょう？"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どういうところが？"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "現時点での勝機がほぼないところです。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……もう一声。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『N.I.A』最終日の大イベント。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『FINALE』で優勝すれば……新人\nアイドルとして大きな箱が付きます。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、わたしの予想が正しければ……"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーは、わたしを\n地獄に叩き込もうとしてる。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "地獄かどうかはわかりませんが。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんには『N.I.A』を制覇した\n実績をもって……"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "有力な新人アイドルとして\n名を馳せてもらうつもりです。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おぉ……おぉぉ〜〜…………"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ようやくライブができるように\nなったけど。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまのわたしは……・\nちっともすごいアイドルじゃない。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "優勝できる力はない。オーディションに\n参加する資格も、あんまりない。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なのに、ここから……\n一気に上っていく。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "不利をぜんぶひっくり返して……\nわたしが勝つ。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーがわたしにさせようと\nしているのは、そういうこと。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "地獄のですろ一ど。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "できると思ってる？"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "きっと無理でしょう。\n茨だらけの困難な道です。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……いい、ね。\n優勝できる可能性は、どのくらい？"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "とても……とても低い……が、\nゼロではありません。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ゼロじゃない、の？＿すごいアイドル\n……たくさん出るのに。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『N.I.A』は、アイドルと\nプロデューサーのタッグマッチ、\nだそうです。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ふたりで挑みましょう。\n支えます。いままでよりも強く。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサーは、ずるい。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ふふ、不思議。\n勝てっこないって思ってたのに。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふたりなら、勝てるかも。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いい、ね。わくわくしてきた。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "同じ気持ちです。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "さぁ、辛く困難でままならない道の……\nステップ2をはじめましょう。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まずはどうするの？"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『FINALE』の参加条件を\n満たす必要があります。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ファンに投票してもらって……\n『N.I.A』ランキングを上げていく。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのファン……・\n変わり者しかいない、よ。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "確かに、いまはそうかもしれませんね。\n欠点が多く、知名度もない一一"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "無名のアイドル・篠澤広が好きだと\n応援してくれる奇特な方々。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "皆さんを、どう思っていますか？"
+    },
+    {
+      "index": 41,
+      "type": "choice",
+      "text": "…"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もっと、もっと、\nわたしを好きになってもらいたい。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『N.I.A』でのライブを観にきてほしい。\nわたしの話を、してほしい。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのファンになってよかったって、\n思ってほしい。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なら一一"
+    },
+    {
+      "index": 46,
+      "type": "choice",
+      "text": "メジャーになりましょう"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広のファンが、変わり者だと\n呼ばれなくなるまで。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……なにをすればいい？"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ファンクラブの設立と、\nプロモーション。そして一一"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "オーディションに、勝つ。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "その通り。いまの篠澤さんが参加できる\nオーディションで、"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "勝利を積み重ねていきましょう。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……すっごく、むずかしそう！"
+    }
+  ]
+}

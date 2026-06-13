@@ -1,0 +1,407 @@
+{
+  "session": "hiro_09",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.115961+00:00",
+  "line_count": 66,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ちゃんと観客が入ってる。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、どうやったの？"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "思い立った翌日にライブなんて、\nできるわけないのに。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……自覚があって、\nあんなワガママを……？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーなら、\nなんとかしてくれるかなって。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ………やっばり\nなんとかしてくれた。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "他のプロデューサーに頼みこんで、\n前座に入れてもらったんです。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、\nわたしの他に友達がいたの？"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデューサーと担当アイドルは\n友達同士ではありません。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふたりきりでライブを観にいく関係。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "レッスンの一環です。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ふーん。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "学内のごく小さなライブで、観客も\n少なく、さらにその前座とはいえ。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ライブはライブです。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが失敗したら、\nたくさんの人に迷惑がかかる。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーたちにも、わたしの\n後でライブをする、アイドルにも。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "観に来てくれた人たちにも。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だからアイドルは、絶対に、\nライブを失敗しちゃいけない。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちゃんとわかってる。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんは、ようやくまともな\nレッスンを始めたばかり。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ステージに立つには\n実力が不足しています。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうだね。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "多くの欠点が克服できておらず、\n練習通りにやればいいとーー一"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "育を叩いて送り出すことはできません。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "練習通りにやると失敗する状況。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "このライブは、いうなれば\nプロデューサーとしての……"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "信用と信頼を担保にした\nギャンブルです。二度はできない。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なんでいまのわたしに賭けちゃったの？"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "面白いから。やりたいから。\n悔しいから。そして……・"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "やるべきだ、と一一\n何故か、思ってしまったからです。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "非合理。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いまさらでしょう。\n合理的に考えていたなら……"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広をプロデュースしていません。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本番前なのに、プロデューサーは\nアイドルの悪口ばかり言う。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プレッシャーが増えることばかり言う。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのプロデューサーが、\nあなたでよかった。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いってきます。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ただいま、プロデューサー。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……すごく楽しかった。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのライブ、どうだった？"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "素晴らしい！本当によかった……！\n可も不可もない出来ですよ！"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……わたし、褒められてる？"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろんです。これならばーー"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "小さなライブの前座として、最低限の\n役割は果たせたといえるでしょう！"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えへへ……こんなにプロデューサーが\n褒めてくれるの、はじめて。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "分の悪い賭けに勝ちましたから。\nこんなに楽しいことはない。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "大きな収穫もありました。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "収穫？"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんの『アイドルの才能』に\nついてです。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたはどんな逆境でも臆さない。\n揺らがない。噂かない。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……だって、そのために\nアイドルになったから。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "むしろ窮地であればあるほど\n実力以上の力を発揮する人だ。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "自分でもびっくり。\n練習よりも、ずっとうまく歌えた。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "これがわかったことが、\n一番の収穫でしょうね。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でも、ピンチじゃなくなったら……"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまよりもっと、\nだめだめなわたしになると思う。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "自分で言っていたではないですか。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そんな日は来ません。アイドルを続ける\n限り、この先ずっと窮地です。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ほんとだ。問題ないね。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そうでしょう？　そういうわけでーー"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今回のライブは大成功です。\n一一感想をどうぞ。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すっごくうれしい！"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ふぅ。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデュース状況を\nメモしておこう。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なんとかなった……………篠澤さんと\n自分自身を、お疲れ様と労いたい。"
+    }
+  ]
+}

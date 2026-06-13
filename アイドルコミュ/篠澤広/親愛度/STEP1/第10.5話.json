@@ -1,0 +1,179 @@
+{
+  "session": "hiro_10.5",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.120048+00:00",
+  "line_count": 28,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ええ〜っ！？　広ちゃんプロデューサー\nさんと本契約したのォ！？"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……お試し契約なんて、\n最初からなかったんだって。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本当は、わたしと会ったその日から、\n一蓮托生だったんだって。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "トップアイドルを育てる夢より、\nわたしと一緒がいいんだって。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "うわぁうわぁ〜♡\nそれってさぁ、愛の告白だよねっ！"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ふぁぁぁぁ…………とぉ〜っても\n甘いノロケを聞かされていますわ〜♡"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけど……夢を謗めたプロデューサーの\n成績は、順調に下がってる。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "他のプロデューサーからも、色々……・\nまっとうなことを言われてるっぽい。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたほどの人がどうして、って……\n篠澤広だけを担当するのは、\nよくない判断ですよ、って。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "まあっ、なんということでしょう……\nでは……・"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーが、夢を叶えるために、\n他のアイドルを連れてくる、かも。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうしたら……わたしは、\n遊びだけの女になっちゃうね。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "えええ～！？　プロデューサーさん、\n浮気はだめですよ～～～～～～～！？"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ふ、複数のアイドルをプロデュース\nするのは、ごく普通のことですわっ。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "聞いたことがありますもの。100人以上\nのアイドルを担当している方がいると。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "100人！？　え、えぇ〜！？\nーーじゃなくてぇ！　広ちゃん！！"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "伝えなきゃ！　プロデューサーさんの\n夢はわたしが叶えるって！！"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "——俺の夢を？　あなたごときが？\nは……身の程知らずな。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの好きなプロデューサーなら、\n冷たい眼差しで、きっとそう言う。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だから、いまは、言えない。言わない。\n……わくわくしてきた、ね。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "黒井",
+      "text": "クックック……。\nハーッハハ！"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "黒井",
+      "text": "ついに来たのだ。我が極月学園が\n初星学園を貴器するときが！"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "黒井",
+      "text": "四音、ここに呼ばれた意味はわかるな？"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "四音",
+      "text": "……月花姉様には声を？"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "黒井",
+      "text": "いいや、一番星が出てこない以上、\n月花を呼び戻すまでもない。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "黒井",
+      "text": "それに……やつらを潰すための策は、\nすでに打ってある。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "四音",
+      "text": "承知しました、理事長。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "四音",
+      "text": "患かな初星の連中は、この白草四音が\n始末してみせましょう。"
+    }
+  ]
+}

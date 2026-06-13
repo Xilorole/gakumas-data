@@ -1,0 +1,388 @@
+{
+  "session": "hiro_02",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.098949+00:00",
+  "line_count": 63,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "おはようございます、篠澤さん。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おはよう、プロデューサー。\nどうしているの？"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "登校前に話して\nおきたいことがありましたので。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……一晩明けて、\n身体の調子はいかがですか？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……筋肉痛がすごい。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "倒れたのは単純な\n疲労が原因とのことでしたね。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、わたし、運動不足だから。\n体力も筋力も、ぜんぜんない。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルのレッスンに\nちっとも付いていけなくて……"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "終わったあと、倒れちゃった。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、要改善。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そのようですね。さて……"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデュースを引き受けたからには、\n全力を尽くします。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、お願いします。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まずは報告から。篠澤さんの\n座学免除の手続きをしてきました。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今後、一部の授業には\n出席せずともよくなります。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうなんだ。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "空いた時間は、どうすればいい？"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そのぶんレッスンを一一と、\n言いたいところですが。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんの場合、レッスンを\n増やしてもこなせません。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしもそう選う。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "空き時間は休養とイメージ\nトレーニングに充ててください。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いめーじ、とれ一にんぐ？"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "目をつむって、\n頭の中でレッスンをするんです。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "お手本を思い浮かべて、\n真似をしてみるのがいいでしょう。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "体力が減らないレッスン。\n……合理的。わたしに合ってる。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "お手本は、アイドルの動画？"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それもいいですね。\nしかし、ここは初星学園です。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "すぐ身近にも、お手本となる人が\nたくさんいると思いますよ。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "確かに……目の前で\n観察した方が効果的。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やってみる。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "よろしい。続いて、確認があります。\n篠澤さんの食事習慣についてです。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが不健康だから、心配してる？"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "健康診断の結果が\nよくありませんでしたからね。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんのプロデュースをするに\nあたって、もっとも不安なのは……"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしに才能がなくて\nアイドルになれないこと？"
+    },
+    {
+      "index": 36,
+      "type": "choice",
+      "text": "あなたが……また倒れることです"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサー。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えっと……ごめんなさい。心配させた。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いえ。そういうわけですので、\n食事習慣について確認させてください。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いいよ。ちょうど朝ごはんの時間\nだから、一緒に食べよう。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……篠澤さん、これは？"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "トップアイドル養成ごはん。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは深く反省した。\nアイドルには、健全な肉体が必要。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "このごはんとドリンクで、\n健康になる。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "後で成分分析をさせてください。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いいけど……\nプロデューサー、疑い深いね。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……当然の警戒だと思いますが。\nその、味はどうなのですか？"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とっても不思議な味。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "食事でストレスをためるのは\n本未転倒ですよ。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、わたしはね。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちっともアイドルに向いてなくて、\nなにをやってもうまくいかなくて。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "心配されるばかりで、\n誰にも期待されない今が。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一番下から一歩ずつ、\n上っていこうとしてる今が。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とても幸せ。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だから、大丈夫。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……プロデュースを引き受けた今も、\nあなたのことがわかりません。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ただ……1つだけ共感できることが\nあるとするなら。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "するなら？"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "困難な仕事は、とても楽しい。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "張り切っていきましょう、お互いに。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うんっ！"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今日のプロデュース状況を\nメモしておこう。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "とにかく、レッスンに耐えうる\n体力を早急につけてもらわねば……！"
+    }
+  ]
+}
