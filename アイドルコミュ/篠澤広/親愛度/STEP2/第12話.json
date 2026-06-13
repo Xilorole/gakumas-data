@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.123606+00:00",
+  "exported_at": "2026-06-13T12:22:11.717532+00:00",
   "line_count": 45,
   "needs_review": 0,
   "lines": [
@@ -119,7 +119,7 @@
       "index": 19,
       "type": "dialogue",
       "speaker": "広",
-      "text": "……盛ってる？わたし、こんなに……"
+      "text": "……盛ってる？　わたし、こんなに……"
     },
     {
       "index": 20,

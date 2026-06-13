@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.121822+00:00",
+  "exported_at": "2026-06-13T12:22:11.715695+00:00",
   "line_count": 53,
   "needs_review": 0,
   "lines": [
@@ -95,7 +95,7 @@
       "index": 15,
       "type": "dialogue",
       "speaker": "広",
-      "text": "いまのわたしは……・\nちっともすごいアイドルじゃない。"
+      "text": "いまのわたしは……\nちっともすごいアイドルじゃない。"
     },
     {
       "index": 16,
@@ -249,8 +249,9 @@
     },
     {
       "index": 41,
-      "type": "choice",
-      "text": "…"
+      "type": "narration",
+      "speaker": "広",
+      "text": "だいすき。"
     },
     {
       "index": 42,

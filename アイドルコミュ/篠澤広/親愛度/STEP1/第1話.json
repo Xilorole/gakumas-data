@@ -3,9 +3,9 @@
   "title": "篠澤広 第1話",
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.096119+00:00",
-  "line_count": 73,
-  "needs_review": 1,
+  "exported_at": "2026-06-13T12:22:11.688942+00:00",
+  "line_count": 72,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
@@ -26,27 +26,21 @@
       "text": "あの、大丈夫ですか？"
     },
     {
-      "index": 4,
+      "index": 5,
       "type": "dialogue",
       "text": "……………………………………"
     },
     {
-      "index": 5,
-      "type": "dialogue",
-      "text": "…………………"
-    },
-    {
       "index": 6,
-      "type": "dialogue",
+      "type": "narration",
       "speaker": "広",
-      "text": "………………きゅう。"
+      "text": "………………………………きゅう。"
     },
     {
       "index": 7,
       "type": "dialogue",
       "speaker": "広",
-      "text": "……………………………………きゅう。",
-      "needs_review": true
+      "text": "………………………………きゅう。"
     },
     {
       "index": 8,
@@ -135,7 +129,7 @@
     {
       "index": 22,
       "type": "dialogue",
-      "text": "……………………………………"
+      "text": "…………………………………………"
     },
     {
       "index": 23,
@@ -219,7 +213,7 @@
       "index": 36,
       "type": "dialogue",
       "speaker": "広",
-      "text": "………昭れる。"
+      "text": "……照れる。"
     },
     {
       "index": 37,
@@ -237,7 +231,7 @@
       "index": 39,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "それでも本来ならはば\n不合格になるはずです。"
+      "text": "それでも本来ならば\n不合格になるはずです。"
     },
     {
       "index": 40,
@@ -255,13 +249,13 @@
       "index": 42,
       "type": "dialogue",
       "speaker": "学園長",
-      "text": "見込みがある！＿＿この学園で\nトップアイドルを目指すがよい！"
+      "text": "見込みがある！　この学園で\nトップアイドルを目指すがよい！"
     },
     {
       "index": 43,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ーー一って。"
+      "text": "ーーって。"
     },
     {
       "index": 44,
@@ -285,13 +279,13 @@
       "index": 47,
       "type": "dialogue",
       "speaker": "広",
-      "text": "おじいちゃんじゃなくくて、\nあなたが正しいと思う。自信もって。"
+      "text": "おじいちゃんじゃなくて、\nあなたが正しいと思う。自信もって。"
     },
     {
       "index": 48,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "……あ、ありがとっうございます？"
+      "text": "……あ、ありがとうございます？"
     },
     {
       "index": 49,
@@ -321,7 +315,7 @@
       "index": 53,
       "type": "dialogue",
       "speaker": "広",
-      "text": "プロデューサー……・"
+      "text": "プロデューサー……"
     },
     {
       "index": 54,
@@ -345,7 +339,7 @@
       "index": 57,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "篠澤さんの事情。\n気にはなりますが……・"
+      "text": "篠澤さんの事情。\n気にはなりますが……"
     },
     {
       "index": 58,
@@ -363,7 +357,7 @@
       "index": 60,
       "type": "dialogue",
       "speaker": "広",
-      "text": "いやになったら、和契約解除すればいい。"
+      "text": "いやになったら、契約解除すればいい。"
     },
     {
       "index": 61,
@@ -399,7 +393,7 @@
       "index": 66,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "……とりあえすずすず、1ヶ月。"
+      "text": "……とりあえず、1ヶ月。"
     },
     {
       "index": 67,
@@ -423,7 +417,7 @@
       "index": 70,
       "type": "dialogue",
       "speaker": "広",
-      "text": "本気で、全力で、がんはばはるよ。"
+      "text": "本気で、全力で、がんばるよ。"
     },
     {
       "index": 71,

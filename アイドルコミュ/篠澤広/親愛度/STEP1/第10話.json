@@ -3,8 +3,8 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.118360+00:00",
-  "line_count": 77,
+  "exported_at": "2026-06-13T12:22:11.711260+00:00",
+  "line_count": 78,
   "needs_review": 0,
   "lines": [
     {
@@ -467,6 +467,12 @@
       "type": "dialogue",
       "speaker": "広",
       "text": "わたし、もう元気になった、から。"
+    },
+    {
+      "index": 78,
+      "type": "narration",
+      "speaker": "広",
+      "text": "デートの続き、しよ。"
     }
   ]
 }
