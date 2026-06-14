@@ -70,8 +70,8 @@ LLM 補正したコミュ（会話劇）を、構造化 JSON として保存す�
 }
 ```
 
-- `type`: `dialogue`（台詞） / `narration`（ナレーション） / `choice`（選択肢）
-- `speaker`: 話者名（`narration`/`choice` では省略）
+- `type`: `dialogue`（台詞） / `choice`（選択肢）
+- `speaker`: 話者名（`choice` では省略）
 - `needs_review`: OCR/補正で確定しきれなかった行にのみ `true`
 
 ## 更新方法
@@ -83,4 +83,29 @@ LLM 補正したコミュ（会話劇）を、構造化 JSON として保存す�
 #   GAKUMAS_EXPORT_DIR=../gakumas-data
 #   GAKUMAS_EXPORT_PUSH=true
 uv run gakumas export <session>     # 該当話の JSON を生成し、commit & push
+```
+
+export 時に `scripts/build_manifest.py` が自動で走り、`index.json`（ビューア用の索引）を
+同じ commit に含める。手動で作り直すなら:
+
+```bash
+python scripts/build_manifest.py     # 全 JSON を走査して index.json を再生成
+```
+
+## ビューア（GitHub Pages）
+
+`docs/` に依存ゼロ・ビルド不要の静的ビューアを置く。`index.json` を読んでコミュ一覧を作り、
+話を選ぶと該当 JSON を取得して台詞を表示する。
+
+- **公開元は `main` ブランチの「root」**（`/docs` 配信ではない）。データ JSON はリポジトリ
+  ルート配下にあり、`/docs` 配信だと配れないため。ビューアは `…github.io/gakumas-data/docs/`。
+- GitHub Action は不要。データもビューアも同じ `main` に push 済み。Settings → Pages で
+  Source を `main` / `/ (root)` に設定するだけ。
+- ローカル確認: `python -m http.server` をリポジトリルートで起動し、`/docs/` を開く。
+
+```
+docs/
+├── index.html   骨組み（CSS は後回し、class のみ）
+└── app.js       index.json と各 JSON を fetch して描画（依存なし）
+index.json       全 transcript の軽量メタ索引（自動生成）
 ```
