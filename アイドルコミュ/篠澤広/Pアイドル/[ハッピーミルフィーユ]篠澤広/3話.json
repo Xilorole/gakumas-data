@@ -1,0 +1,227 @@
+{
+  "session": "hiro_happymille_3",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.923130+00:00",
+  "line_count": 36,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ここが、プロデューサーが\n暮らしている部屋。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、ずっときてみたかった。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……いくらわたしと仲良しだからって。\nよかった、の？"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "担当アイドルを、つれてきちゃって。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……こしゃくな作戦で、\n他の選択肢を潰された結果です。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ばればれな作戦に乗った時点で、\nプロデューサーも同罪。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それは、そうですね……\nおっしゃる通り。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、わたしの真似だ。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "一刻も早く料理が上達したいのは、\n本当なんでしょう？"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なら、雑談している場合ではない。\nさっそく特訓しましょう一一"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふむふむ……ほほう……片付いてるね。\nプロデューサーらしい。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ー一などと言っている間に、\n部屋を探検しないでください。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いいですか。料理中、\n気を付けるべきことは、4つ。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "レシピ通り作ること。味見をすること。\n予定通りに作ること。集中すること。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わかっているはずなんだけど、千奈と\n佑芽が面白いことをはじめるから。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしもやらなきゃ、って、なる。\nそれがね。すごく楽しい。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "でしょうね。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……たまご焼き、完成。\nちょっと焦げてる、けど。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "美味しくできましたね。\nできるではないですか、料理。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……わたしに胃袋をつかまれそう？"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それは思い上がりすぎですね。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……パンケーキ、完成。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……順調に成長してきた。\nそろそろ包丁を使いたいところ。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "たわ言はやめてください。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "せめて常人並みの握力を手に入れてから\n言ってくださいね。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……想定していた会話とだいぶ違う。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "これはこれで……いいね。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサー。\n今日は、ありがとう。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "どういたしまして。\nあなたが『本当に作りたいもの』……"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "作れそうですか？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん………"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "この経験は、きっと役に立つ、よ。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えっと、プロデューサー。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "2月14日に、渡すものがある、から。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "受け取って、ね。"
+    }
+  ]
+}

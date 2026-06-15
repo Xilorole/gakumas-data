@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.127715+00:00",
+  "exported_at": "2026-06-15T14:06:32.803752+00:00",
   "line_count": 45,
   "needs_review": 0,
   "lines": [
@@ -52,7 +52,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "うんッ、まったね～～～～～～～♪"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "………………………………………………"
     },
     {
@@ -136,7 +136,7 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "知ってたよ……\nふたりが追いかけてくるって。"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "広ちゃん！\nさっそくオーディションで勝負しよう！"
     },
     {
@@ -208,7 +208,7 @@
       "index": 34,
       "type": "dialogue",
       "speaker": "広",
-      "text": "きっと、すごく、すごく……・\n涙が出るほどくやしくて。"
+      "text": "きっと、すごく、すごく……\n涙が出るほどくやしくて。"
     },
     {
       "index": 35,
@@ -219,7 +219,7 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "うぐぅ～～～つ……\n想像しただけで叫びたくなるぅ……"
     },
     {

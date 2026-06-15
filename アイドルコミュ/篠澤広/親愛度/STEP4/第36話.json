@@ -1,0 +1,340 @@
+{
+  "session": "hiro_36",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.562692+00:00",
+  "line_count": 55,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "『Hatsuboshi　IDOL　FESTIVAL』——"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "初星学園一のアイドルを決める大祭は、\n今冬より生まれ変わった。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "アイドルの頂点『一番星』を生み出す\n世界有数のイベントにじゃ！！！"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "そして……ご来場の方々。\n長らくお待たせした。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "これよリ——\n『一番星』授与式を執り行う。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "篠澤広！"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "text": "――はい。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "現『一番星』一一十王星南！"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "はい！"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "寄跡を起こしたわね。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……うん。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ステージが始まる直前まで。ううん……\n歌っている間もきっと。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "勝てるとは、思ってなかった。\n勝利なんて、信じてなかった。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "……アイドルらしからめ発言ね。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしもそう思う。佑芽が、\nほんとうのアイドルになったいま。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "きっとわたしが、ここで一番……\n不純なアイドル。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "夢中で……必死で……\n手を伸ばしただけ。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "けど、ね。\n今日、この会場で、一番……"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "負けられない理由があったのは、\nわたし。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふたりとファンの人生を賭けて、\n歌っていたのは、わたし。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "そう……自己申告通り。あなた、\n神さまなんかじゃなかったわね。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "可愛い悪魔よ。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……うれしい。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "かつてあなたは……この場所から、\nわたしたちに、こう教えてくれた。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『一番星』とは、学園で、\nもっとも多くを背負う者。\n浴れる想いを込めて歌う者。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゃあ、わたしだね。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ふっ……ええ！　認めるわ——"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "あなたこそが『一番星』よ！"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……わたしが、アイドルを……\nはじめて見たとき。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "この証は、あなたの胸で輝いていた。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが憧れたアイドルは、\nあなたに敗れ、\nくやしそうに祝福していた。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ずっと、あなたに言いたいことが\nあった。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "会場のみんなと一緒に、聞いてくれる？"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "……もちろんよ。ーーどうぞ。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ありがとう。じゃあ、いくよ。\nすぅー一……"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "悔しいに決まっているでしょう！！！！"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "うぅぅうぅぅぅ～～～～～～～～～！！"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "——次は勝つわ。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……！　もう二度と勝てない！"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "最悪の買い言葉をありがとう。\nアイドル失格ね。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、自分でもそう思う。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "——ほら、しっかり立って、\n足の震えを止めて。\n皆さんに挨拶なさい。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "これからはあなたが、\n『一番星』なのだから。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ごめん……げんかいが近い。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふぅ……皆さん。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ごらんの通り——"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは、きっと、\n歴代最弱の『一番星』だと思う。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "これからも、アイドル失格な\n言動を繰り返すと思う。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "歴代最高の『一番星』から\n受け継いだ称号を、"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "泥まみれにしていく自信がある。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "先輩や、同級生や、\nこれから入学してくる後輩たちは、\nそんなわたしを見て……"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ままならないねって\n呆れるかもしれない。\nふざけるなよって怒るかもしれない。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今日、勝ったのはわたし。\nわたし風情に負ける皆さんが悪い。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "くやしかったら、かかってこい。\n取り返したかったら、挑んでこい。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『一番星』篠澤広が、受けて立つ、よ。"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "session": "hiro_31",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.386198+00:00",
+  "line_count": 80,
+  "needs_review": 2,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "text": "ふうう～～～～～～～～…………………",
+      "needs_review": true
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今回も……勝った。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "前回よりも、さらに良かったですよ。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ライバルたちが良い刺激を\nもたらしてくれましたか？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……佑芽と、千奈のおかげ。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『H.I.F』で競い合うって、約束した。",
+      "needs_review": true
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本物のアイドルが、わたしと千奈を、\nライバルだって思ってくれてる。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "またひとつ……ううん、たくさん。\n負けられない理由が増えた。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そうやって積み上がっていくものが、\nアイドルの魅力になる。そう思います。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "日々の中で、積み上がっていくもの。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの中に、\n最初からあったものじゃなくて。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし自身の力でもなくて。\nみんなから、もらったもの。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "きっとこれも……星南が言ってた……\n数値にできない、不思議な力。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "むしろ私は、こう願っているのよー一"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "あなたが私に、お手本を見せて\nくれないかしら……と、ね。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あんなに悩んでたくせに……\n自分が一番、積み上げてる。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "我々にとって一番身近な\nトップアイドルが、\nお手本を見せてくれましたね。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "これも、しっかり、取り入れていこう。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "勝つために、奇跡を起こすために、\nなんでもやろう。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "負けたら終わりのデスゲーム、だけど。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "生まれてからいままでで、一番、\nままならなくて怖い日々、だけど。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたと一緒なら、しあわせ。"
+    },
+    {
+      "index": 24,
+      "type": "choice",
+      "text": "俺もです"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あっ、いま、いい雰囲気になってる？"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "たったいま、消え失せましたね。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "text": "ぶー。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ミーティングを続けましょう。\n今回のリザルトですが……"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "“Vocal”、上がった、でしょ？"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "自信たっぷりですね。\n実際、その通りです。\n素晴らしい歌声でした。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "特訓したから……3人で。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "我ら補習組、ひとときの再結成。\nレッスンの効果はばつぐん。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "よほど気に入っているんですね、\nその呼び名。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……千奈と佑芽は、いつも\n悔しがってた、けど。わたしは……"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ここからはじまった、って、\n感じがする……補習組、すき。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いっそその名前のまま、\n臨時ユニットを組みますか？"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いい考え。きっと楽しい。それも……"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『H.I.F』が終わってから、ね。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……期待していますよ。\nあなたがたのユニットライブを。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "さて、『選抜試験」もあとひとつを\n残すのみとなりました。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そろそろ本戦での戦略について\n話しておきましょう。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "んっ、よろしくお願いします。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "新生『H.I.F』は2ラウンドに\n分かれていて、"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "各アイドルは、\n課題曲と自由曲を歌います。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "共通の課題曲を、\nいかに歌いこなすかが大事。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "その通り。先ほどのライブを見る限り、\n問題なく戦えそうですね。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……\n今日はすごく褒めてくれる。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……口説いてる？"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いいえ、まったく。\nただ……本心ですよ。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……そうなんだ。じゃあいいか。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん篠澤広の歌唱力は、いまだ\nトップアイドルレベルとは言えません。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まとう『神聖』を加味すれば……\nあるいは、といったところでしょうか。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、『選抜試験』がはじまったとき、"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの勝機は、\n『0ではない』程度だった。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまは、どう？"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "0.9％ほど……いまさらながら、\n数字にするのはナンセンスですね。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わかりやすくていい。\nあとちょっと、だね。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ええ……あとすこしで、\nふたたび命が賭けられる数字になる。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そのためには……"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "自由曲。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "わかっているようですね。\n篠澤広が歌う自由曲こそが、"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "寄跡を起こすための、最後のピース。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの持ち歌の中から……\nなにを選ぶのかが、大事。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "夢を叶えるために、\nギリギリまで研ぎ澄ます。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "text": "わたしの灼熱を……こめていく。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのことが大好きな、\n変わり者のひとたちとの思い出も。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "大切な友達との約束も……\n大切な趣味と、夢も。"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたとわたしの……道のりも。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ぜんぶ、こめて歌う。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "俺は……いや、我々は。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "夢を捨て、趣味に走った愚者。\nそう思われているようです。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふっ、ざんねんながら見当違い。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまのわたしたちは、\n夢も、趣味も、楽しんでる。"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "他のプロデューサーや、\nアイドルたちからすれば、"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なんとも中途半端で、真剣味に欠ける、\n腹立たしい存在かもしれません。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すべて皆さんのおっしゃる通り。\nなにも言い返せない、ね。"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "真面目に夢に取り組む彼ら・彼女らを\n抜き去ろうというのなら。"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "我々は、すべてを賭けなくては。"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。"
+    },
+    {
+      "index": 80,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そういうところが、大好き。"
+    },
+    {
+      "index": 81,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "これから一緒に……\nあの火の中に、飛び込もう、ね。"
+    }
+  ]
+}

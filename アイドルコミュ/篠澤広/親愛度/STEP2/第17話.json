@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.132775+00:00",
+  "exported_at": "2026-06-15T14:06:32.903780+00:00",
   "line_count": 67,
   "needs_review": 0,
   "lines": [
@@ -113,7 +113,7 @@
       "index": 18,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ふふ、ランダム封入って……・\n……罪深い、ね。"
+      "text": "ふふ、ランダム封入って……\n……罪深い、ね。"
     },
     {
       "index": 19,
@@ -249,7 +249,7 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "会長も言ってたでしょ。\nぜんぶ含めて、千奈ちゃんの実力だよ。"
     },
     {
@@ -292,7 +292,7 @@
       "index": 48,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "まあ……"
+      "text": "まぁ……"
     },
     {
       "index": 49,

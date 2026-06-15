@@ -1,0 +1,472 @@
+{
+  "session": "hiro_22",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.070781+00:00",
+  "line_count": 77,
+  "needs_review": 3,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さん……調子はいかがですか？"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……すこし回復した。もう大丈夫。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ダメそうですね。\nもう少し休んでいきましょう。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ぶー……せっかくのデートなのに。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "デートではなく息抜きです。\n選抜試験が始まれば、"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ゆっくりと過ごす時間は、\n取れなくなるでしょう。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そういうわけで、休憩しながら\nミーティングをしましょう。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……………デート中なのに、\nとんでもないこと言い出した。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "息抜きです。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "息抜き中でも『ミーティングを\nしましょう』はひどい。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたじゃなかったら、怒ってた、よ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "怒っていなくてよかった。議題ですが、\n十王星南さんについてです。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしと一緒なのに……別の女の話……"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ライバルの話です。\nいいですか、広さん。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "「一番星」を奪るためには、\n「一番星」を倒さなければならない。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わかってる。『一番星』十王星南……\n学園で一番、すごいアイドル。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしたちは、あのひとに\n挑まなくちゃいけない。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "彼女の実力……\n目に焼き付いていますか？"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もちろん。プロデューサーとの\nデートで見聞きしたことは……"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一生忘れない、よ。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "夏の『H.I.F』を一緒に観たときの\nことですね。デートではなく。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "初星学園一のアイドルを決める\n夏の祭典。ーー感想は？"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南も……佑芽も……咲季も……\nみんなみんなすごかった。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とっても……悔しかった、な。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どうしてわたしは、\n客席にいるんだろう……って。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どうしてあのステージに、わたしは\n立っていないんだろう……って。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "実力が足りなくて、選抜試験を\n受けなかったからでしょう。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "その通り。だから……次こそは。\n選抜試験を突破して、本戦に出る。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すごいアイドルたちと競い合って、\nわたしが勝つ。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一番すごかった……星南にも。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "彼女は歴代『一番星』の中でも、\n有数の実力者です。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まずは、必ず出場してくるであろう\n彼女に勝つ算段を付けましょう。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "text": "学園一のアイドルを、目印にして進む。\nおこがましいけど……妥当な考え。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "問題は……わたしの\n勝率が0パーセントなこと。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "0を1にするのは……\nとても、とても難しい。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、打開策、なにも思いつかない……\nプロデューサーには、考えがある？"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん、たくさんありますよ。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おお……さすが。頼もしい。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なら、それ、やれるだけ、やろう。\n効果がありそうなものから、順番に。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "作戦その1は、なに？"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "十王星南さんご本人から、\nアドバイスをいただきましょう。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えー……あなたを倒したいので、\n俺の広ちゃんに助言してよって言うの？"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "後輩であるあなたの頼みなら、\n快く本気の助言をくれるはず。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一瞬呆れちゃったけど……確かに、\n星南ならそう言うかも。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "面識があるんですか？"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。プロデューサーと出逢ってから、\nちょっと経ったくらいのころ……"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はじめまして、十王星南会長。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "回時",
+      "text": "あら、はじめまして一一篠澤広さん。\n星南でいいわ。なにか御用かしら？",
+      "needs_review": true
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゃあ星南って呼ぶ。\nあなたも、広って呼んで。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南は、アイドルの才能や実力を\n見抜けるって聞いた。本当？"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ええ、本当よ。誰から聞いたの？"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "学園長のおじいちゃん。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "text": "そ、そう。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのアイドルとしての才能と\n実力も、見える？"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "回半",
+      "text": "もちろん。あなたの現時点での実力と、\n潜在能力、どちらも視えるわ。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "回時",
+      "text": "候津広のアイドルパワーは、そうね、\n潜在能力を加味すると数値にして一一"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "潜在能力には興味がない。\nいまの実力だけを視てほしい。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "それなら、潜在能力を加味しない、\nあなたのアイドルパワーはーー"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "4よ。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "text": "4よ……"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……低いっぽいのはわかった。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おじいちゃんからのアドバイス、\nやってみていい？"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "え？　ええ……どうぞ？"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゃあ、そのまま見ててね……"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "text": "はああああああ……………………"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "回時",
+      "text": "なっ……アイドルパワーが\n上昇しているですって……？"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "｜",
+      "text": "10、20、40……そ、そんな……\nまだ上がるというの……？",
+      "needs_review": true
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "――はぁっ。ふぅぅ～……どう？\nわたしの数値、いくつになった？"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "驚いた……400まで上がったわ。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "昌間",
+      "text": "アイドルパワーを……\nコントロールするなんて……",
+      "needs_review": true
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "広……あなた、いったい何者？"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふっ。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "趣味でアイドルをやっている者だ、よ。"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……妄想かなにかの話ですか？"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "現実にあったほんとうの話。\nわたしと星南の出会い。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南は、わたしにとって……\nゆかいな先輩。"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ノリがよくて、すき。"
+    }
+  ]
+}

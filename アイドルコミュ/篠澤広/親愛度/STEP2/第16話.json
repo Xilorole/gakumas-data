@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.130691+00:00",
+  "exported_at": "2026-06-15T14:06:32.871029+00:00",
   "line_count": 30,
   "needs_review": 0,
   "lines": [
@@ -101,7 +101,7 @@
       "index": 16,
       "type": "dialogue",
       "speaker": "広",
-      "text": "………佑芽。"
+      "text": "……佑芽。"
     },
     {
       "index": 17,
@@ -148,7 +148,7 @@
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "……………………………………………………"
     },
     {
@@ -184,7 +184,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "こ、こんにゃろ～～～～～～～っ！"
     }
   ]

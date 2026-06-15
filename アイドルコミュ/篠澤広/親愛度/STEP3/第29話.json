@@ -1,0 +1,485 @@
+{
+  "session": "hiro_29",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.314807+00:00",
+  "line_count": 79,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "あっ、広ちゃんだ！\nおっはよ〜〜〜っ！"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "おはようございます、篠澤さんっ！"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "佑芽……千奈……\nたいへんなことになった。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんがこんなに動揺している\nところ、はじめて見たかも……！"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "いったいどうなさいましたの！？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南がトップアイドルになったって、\nほんとう？"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "佐芽",
+      "text": "本当で～～～～～～～～～～っす♪"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "はいっ！\n星南お姉さまは、一夜にしてーー"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "アイドルの頂点はーー一"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "あなたたちの夢は、ここにある！"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "アイドルの頂点へと\n上り詰めたのですわ〜〜〜♪"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "今日はみんな、\nその話題でもちきりなんだよ！"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "伝説のアイドルの皆さんに、\n十王星南が勝利宣言をしたって！"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "うふふ、今冬の『H.I.F』は、\n例年よりもずっとずうっと……"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ハイレベルな大会になりそうですわ。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "なにせ現『一番星』がトップアイドルに\nなったのですもの。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "もしもいまの星南お姉さまに\n勝てたなら……その御方は、正真正銘。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "トップアイドルですわ〜〜〜〜〜〜♪"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "こひゅっ……"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はー……はー……\nあばばばばばば……"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃん！？"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "顔色が……顔色が……\n真っ青ですわ……！"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふ、ふふ……ふふふふ……"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "命を賭けた瞬間……\nハードルが天元突破した。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "はああああああ……！\nハアアアアアアア………！！"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ。あなたの魅力、\n上がってるの、かも。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "思い返せば……予兆はあった、けど。\nまさか……あれが伏線だったなんて……"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "さすがにわからない。うごごごご……"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "志つ……\nやっぱりわたし……持ってる、ね。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "というわけで……\nのっぴきならない状況。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "大怪獣とハイテンションの佑芽が\n同時に襲来したかのような衝撃。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、どうしよう。破滅の予感。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたは以前、わたしが星南に勝てる\n確率は2％もあるって言った。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南がトップアイドルになって、\nパワーアップして。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまは、どう？"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……0ではありません。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……0じゃないんだ。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すごい、ね、わたし。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そうでしょう？\n自慢の担当アイドルなんです。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "トップアイドルを向こうに回して、\n競技性の高い新生『H.I.F」で一一"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ー一勝つ可能性がわずかにある。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "入学したばかりの頃、わたしはまともに\nレッスンを受けられなかった、ね。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルとして、\nステージに上がるなんて……"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "無理だってみんなが言った。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "出逢ったばかりの頃、あなたには\nアイドルとして見所がなかった。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "使うつもりのない学力と、\n美しい外見だけが取り柄だった。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ままならない日々だった、ね。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "胃痛と困惑に悩まされる日々でした。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あそこから……ここまで来たよ。\nあなたと一緒に。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とんでもない奇跡。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "では、もう一度、お願いします。\nそれだけのことです。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、簡単に言う。……わたしは、ね。\n身の程知らずにも……"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "学園一のアイドルに\nなるつもりだった。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『一番星』になってはじめて……"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "誰もが認めるすごいアイドルに\nなって、はじめて……"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『みんなと同じ夢』を口にする資格が\n得られる。……そう思ってた。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それはそれは……十王星南に予定を\n狂わされてしまいましたね。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ほんとうに、そう。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "みんなの憧れ。初星学園のNo.1は、\nそういうことする。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし……十段飛ばしで、\n夢に挑戦する羽目になっちゃった。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "素晴らしい窮地です。そのおかげで……\n十王星南流に言うならば……"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広のアイドルパワーが、\n急激に上昇しつつある。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "楽しそう。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "趣味ですから。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "趣味ならしょうがない。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "さあ！　まずはより難易度の増した\n『選抜試験』を突破しなければ！"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "負ければ終わり。わたしたちの夢も、\n趣味も……なにもかも。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『H.I.F』……初星学園最大のお祭り。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしたちにとっては、\nデスゲーム、だね。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "楽しそうですね。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だって……趣味だから。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "苫しくて、ままならない、\nわたしが望んだ日々だから。"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でも、ね。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "失いたくない、な。\nなくしたくない、な。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "かつてない窮地の中で\n『サンフェーデッド』を歌った……"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あの日と同じ感覚が……\nより強い焦燥か、胸で燃えている。"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "わずかな勝機は、そこにあります。"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "デスゲームを乗り越えた篠澤広が、\n『H.I.F』を和き尽くし一一"
+    },
+    {
+      "index": 80,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一番星をつかみ取る、よ！"
+    }
+  ]
+}

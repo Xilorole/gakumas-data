@@ -1,0 +1,485 @@
+{
+  "session": "hiro_24",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.140391+00:00",
+  "line_count": 79,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ただいま。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "おかえりなさい、広さん。\nー一とうでしたか？"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南がパワーアップしてた。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それはよかった。\nより苦境に立たされましたね。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……ふふ。あとね、\nこんなアドバイスをもらったよー一"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ほう……『神格』を上げなさい、と。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南は……プロデューサーと似た言葉を\n使う、ね。ふしぎ。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "不思議でもなんでもない。誰かさんの\n神々しいライブを観たのなら。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "………………もう。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "その、それで……どうしよう。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは変わり者のファンたちに、\n女神とか……呼ばれてる、けとど。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そう感じてもらおう……とか、\n思ったこと、ない、よ。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしがなりたいのは……\nかわいいアイドル。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やっとライブができるようになって、\n『N.I.A』で優勝して。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ようやく、この台詞をプロデューサーに\n言う日がきた。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドル・篠澤広の方針、\nわたしの希望とちょっと違うよね？"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ほう……ついに……\nそれを言いましたね。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふふ……わたしのぶんざいで、\n大きく出てみた。そのへんどうなの。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんのなりたい\nアイドルというのは……"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "みんなに、広ちゃんかわいい……って、\n感じてもらえるような……わたし。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ものすごく可愛いと思いますが。\n控えめに言って最高だと思いますが。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサーの愛は……\nじゅうぶん伝わってる。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そ、それはそれとして……"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサーと千奈と佑芽しか、\n面と向かって言ってくれない。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "他のみんな、綺麗とか、神秘的、とか。\n神々しい……とか。嬉しいけど……"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "最初に望んだものとはちょっと違う。\n『神格』を上げろって言うけど……"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それって……かわいい？"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "むぅ……なに笑ってるの？"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ようやく……アイドルらしい悩みを\n持ってくれたな、と。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "成長した証拠ですよ。嬉しいです。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……そうなんだ。\n解決する方法は、ある？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "問題がまたひとつ増えちゃった、はけど。\nどうしよう、プロデューサー。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そうですね……"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ここで一度、篠澤広の原点に立ち戻る、\nというのはどうでしょう。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの原点？\nえっ……なに？　このチケットは？"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "フェスのチケットです。あなたの\n大好きなアイドル『owl』が出ます。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "！？　……しってたの？\nプロデューサーに、話してないのに。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "このひとが……わたしがはじめて見た\n……アイドルだって。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "広さんのパパが教えてくれました。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたがアイドルになりたいと\n話を切り出したとき。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "この動画を見せられたのだ、と。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……あの、ね。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "その日、誰かが……端末で、\n日本のアイドルを見てた。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……本当に、ぐうぜん……\n視界のはしに……ライブがうつって。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは、はじめて、アイドルを見た。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……かわいかった。\nすごく……とっても。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それが、きっかけ。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "昨年度、夏に行われた『H.I.F』ですね。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……初星学園の卒業生。\n当時の3年生。owl先輩。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すき……とっても。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "彼女のライブに行きます。明日。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ーーーーーーーーーーーーーーーーーー"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……なんで急にそういうこと言うの。\n心の準備とか、あるのに。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『ライブをする。明日』と、\n無茶ぶりをされたことがありまして。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……やり返されるとは思わなかった。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いい、よ。……ライブ、行こう。\n行きたい。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけど、ごめんね。\nせっかくのデートなのに……"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……わたし、胸がいっぱいで……\n余裕ない、かも。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "素晴らしいライブでしたね、広さん。\nフェスの後半に、もう一度出番が一一"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "………………………………………………"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "広さん？　広さん？　まさか……！？"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いきてる。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "驚かせないでください……！"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ライブがよすぎて……あやうく心臓が\n止まるところだった。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "こちらの寿命も縮みましたよ……"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はぁ……ふぅ……ふふ……\nowl先輩……もっとかわいくなってた。"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やっと……生ライブ、観られた。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "感無量。大満足。\n人生トップテンに入る感激。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "よかったですね。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。ありがとう、プロデューサー。\n連れてきてくれて……"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "どういたしまして。\nでは、会いにいきましょう。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……だれに？"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "owlさんに。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "？？？？　ちょっと待って……\nライブの余韻で頭が回ってない。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とんでもないことを言った？"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "問題解決のきっかけを探すために\n来たんでしょう？"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "直接アドバイスをもらいましょうよ。\n篠澤広のオリジンに。"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ふふ……プロデューサーは…………\nプロデューサーは……………………"
+    },
+    {
+      "index": 80,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あくまぁ……っ。"
+    }
+  ]
+}

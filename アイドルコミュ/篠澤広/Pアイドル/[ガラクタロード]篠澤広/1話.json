@@ -1,0 +1,323 @@
+{
+  "session": "hiro_garakuta_1",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.740580+00:00",
+  "line_count": 52,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そこでプロデューサーが、ね。\nこう言った。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『篠澤広がライブをします。\nこれから、ここで』……って。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "一同",
+      "text": "うわあ……………………"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……さすがのわたしも………‥\nちょっとキレそうだった。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……でも、許す。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いっしょに、\nピンチになってくれた、から。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "一同",
+      "text": "うわぁ～～～～～～～～～♡"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "いつもながら篠澤さんのお話は……\n刺激的ですわね……！"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "いまさらだけど……いいの？"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "プロデューサーさんと広ちゃんの\n大切な思い出を……"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ぜんぶ、あたしたちに話しちゃって。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、いい。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "友達にしか教えない、秘密の話。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それに、ね。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ぜんぶ、じゃ、ない。\nちゃんと、ある、から。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈と佑芽にも教えてない……\nわたしだけの思い出。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（プロデューサーにも教えてない……\nわたしの気持ち）"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……こちらからも質問を。\nなぜ、アイドルだったんですか？"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "話すのが下手で、伝えるのが下手で、\n身体が弱くて、すぐ倒れる。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなわたしに、いちばん向いてないと\n思ったから。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どんなに成功しても、安定も、\n安泰もない仕事だから。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（いつか聞かれるだろうって\n思ってたから）"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（用意していた回答を伝えた）"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（嘘なんてひとつもない、\n本心からの答え）"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（あのひとは、すこしだけ\nためらってから……＊"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "その条件を満たす職業は、\n他にもあるはずです。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なぜ、アイドルという仕事が\n面白そうだと？"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（するどい。さすがわたしの\nプロデューサー……だけど）"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（いつもなら……担当アイドルに……\nここまで踏み込まないよ、ね）"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（そんなしちゅえーしょんに、どきどき\nしていたからかもしれない……"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "…………………………笑わない？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（つい、そう言っちゃった）"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "笑いません。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あの、ね。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "…………かわいくなりたかった。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（こんなに恥ずかしいのは……\n……はじめて）"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（このひとは、わたしの秘密を聞いて、\nどう感じたんだろう？）"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（考えるとどんどん顔が熱くなって……\nアタマがぐるぐるして……）"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（刺激的すぎる初体験にほんろう\nされていたわたしに、あのひとは）"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いい動機ですね。応援しますよ。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（笑って、そう言ってくれた）"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（それだけじゃない。\nごともあろうに＃……）"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "お試し契約などという制度は、\nありません。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "最初から本契約をしていて、\nすでに一連返生だということです。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（とんでもないことを言いだした。\nあ、これは佑芽たちにも教えたかも）"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（とっくにしってたけど。わたしの\nプロデューサーはかなりの性悪）"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（そういうところが……すき）"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（だから……）"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あと半年、よろしくお願いします。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（そのお願いは、はぐらかした）"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（だって……）"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（ずーっと一緒だから、ね）"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.138777+00:00",
+  "exported_at": "2026-06-15T14:06:33.003560+00:00",
   "line_count": 72,
   "needs_review": 0,
   "lines": [
@@ -41,7 +41,7 @@
       "index": 6,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "お伝えすることが……ありますが……・\n整理する時間を……ください……"
+      "text": "お伝えすることが……ありますが……\n整理する時間を……ください……"
     },
     {
       "index": 7,
@@ -215,7 +215,7 @@
       "index": 35,
       "type": "dialogue",
       "speaker": "広",
-      "text": "そうなんだ。ふふ……・"
+      "text": "そうなんだ。ふふ……"
     },
     {
       "index": 36,
@@ -293,7 +293,7 @@
       "index": 48,
       "type": "dialogue",
       "speaker": "広",
-      "text": "わたしに、なにか……・\n大事なお願いがある？"
+      "text": "わたしに、なにか……\n大事なお願いがある？"
     },
     {
       "index": 49,

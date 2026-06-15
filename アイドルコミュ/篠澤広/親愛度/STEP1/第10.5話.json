@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.120048+00:00",
+  "exported_at": "2026-06-15T14:06:32.670456+00:00",
   "line_count": 28,
   "needs_review": 0,
   "lines": [
@@ -53,7 +53,7 @@
       "index": 8,
       "type": "dialogue",
       "speaker": "広",
-      "text": "他のプロデューサーからも、色々……・\nまっとうなことを言われてるっぽい。"
+      "text": "他のプロデューサーからも、色々……\nまっとうなことを言われてるっぽい。"
     },
     {
       "index": 9,
@@ -65,7 +65,7 @@
       "index": 10,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "まあっ、なんということでしょう……\nでは……・"
+      "text": "まあっ、なんということでしょう……\nでは……"
     },
     {
       "index": 11,

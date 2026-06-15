@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.109133+00:00",
+  "exported_at": "2026-06-15T14:06:32.496468+00:00",
   "line_count": 82,
   "needs_review": 0,
   "lines": [
@@ -106,7 +106,7 @@
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "佑芽上半",
+      "speaker": "佑芽",
       "text": "ヘビーユーザーが満足してたよって、\nお姉ちゃんに伝えておくねっ！"
     },
     {
@@ -233,7 +233,7 @@
       "index": 38,
       "type": "dialogue",
       "speaker": "佑芽",
-      "text": "一一一一事情はわかったよ。"
+      "text": "＿＿＿＿事情はわかったよ。"
     },
     {
       "index": 39,
@@ -305,7 +305,7 @@
       "index": 50,
       "type": "dialogue",
       "speaker": "広",
-      "text": "いたぁ！！！！！"
+      "text": "いたぁ！！！！"
     },
     {
       "index": 51,
@@ -347,13 +347,13 @@
       "index": 57,
       "type": "dialogue",
       "speaker": "広",
-      "text": "……ッ……！！　ッ…………！！\nいたたたたたたたたた！！！！！！"
+      "text": "……ッ……！！　ツ……………！！\nいたたたたたたたたた！！！！！"
     },
     {
       "index": 58,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "ひぃぃ…………\n見ているだけで涙が出てきますわぁ……"
+      "text": "ひぃぃ………\n見ているだけで涙が出てきますわぁ……"
     },
     {
       "index": 59,
@@ -448,7 +448,7 @@
     {
       "index": 74,
       "type": "dialogue",
-      "speaker": "佑芽上疾半",
+      "speaker": "佑芽",
       "text": "ほっ……効果があったなら、\nよかったよ～。"
     },
     {

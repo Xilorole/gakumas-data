@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.101673+00:00",
+  "exported_at": "2026-06-15T14:06:32.397913+00:00",
   "line_count": 82,
   "needs_review": 0,
   "lines": [
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "……………………なんて難しいんだ。"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "うわーうわー、どうしよう千奈ちゃん！\nあたしまでドキドキしてきたぁ！"
     },
     {
@@ -178,7 +178,7 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "ちっとも大丈夫じゃないぃっ！！"
     },
     {
@@ -263,7 +263,7 @@
       "index": 43,
       "type": "dialogue",
       "speaker": "佑芽",
-      "text": "………えへへ。"
+      "text": "……えへへ。"
     },
     {
       "index": 44,
@@ -473,7 +473,7 @@
       "index": 78,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "構いませんけども……・"
+      "text": "構いませんけども……"
     },
     {
       "index": 79,

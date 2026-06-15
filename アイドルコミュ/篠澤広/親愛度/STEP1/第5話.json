@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.106309+00:00",
+  "exported_at": "2026-06-15T14:06:32.462779+00:00",
   "line_count": 84,
   "needs_review": 0,
   "lines": [
@@ -274,7 +274,7 @@
       "index": 45,
       "type": "dialogue",
       "speaker": "広",
-      "text": "………むう。"
+      "text": "……むぅ。"
     },
     {
       "index": 46,

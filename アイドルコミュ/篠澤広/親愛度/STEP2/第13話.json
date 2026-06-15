@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.125803+00:00",
+  "exported_at": "2026-06-15T14:06:32.770447+00:00",
   "line_count": 69,
   "needs_review": 0,
   "lines": [
@@ -35,7 +35,7 @@
       "index": 5,
       "type": "dialogue",
       "speaker": "広",
-      "text": "千奈がわたしのファン……・\nなんだか……恥ずかしい。"
+      "text": "千奈がわたしのファン……\nなんだか……恥ずかしい。"
     },
     {
       "index": 6,
@@ -83,7 +83,7 @@
       "index": 13,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "お友達がファンというのは……・\nくすぐったいですわ。"
+      "text": "お友達がファンというのは……\nくすぐったいですわ。"
     },
     {
       "index": 14,

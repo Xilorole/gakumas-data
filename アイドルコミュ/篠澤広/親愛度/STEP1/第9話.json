@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.115961+00:00",
+  "exported_at": "2026-06-15T14:06:32.601384+00:00",
   "line_count": 66,
   "needs_review": 0,
   "lines": [
@@ -172,7 +172,7 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "信用と信頼を担保にした\nギャンブルです。二度はできない。"
     },
     {
@@ -185,7 +185,7 @@
       "index": 30,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "面白いから。やりたいから。\n悔しいから。そして……・"
+      "text": "面白いから。やりたいから。\n悔しいから。そして……"
     },
     {
       "index": 31,

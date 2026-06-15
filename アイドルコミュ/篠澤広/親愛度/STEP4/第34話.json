@@ -1,0 +1,479 @@
+{
+  "session": "hiro_34",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.490806+00:00",
+  "line_count": 78,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "では、篠澤さん……また後ほど。\n行きましょう、香名江。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "香名江",
+      "text": "はい、お嬢様。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "香名江",
+      "text": "――篠澤様。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "香名江",
+      "text": "生徒会選挙では\nお世話になりました、が。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "香名江",
+      "text": "今回は敵同士です。お覚悟を。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……わたしには、\n素敵なプロデューサーがいる、けど。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈にも、心強い仲間がいた。\n強敵だ、ね。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "はいっ！\nわたくし、自慢ではありませんがーー"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ひとりではなんにもできませんもの！"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふん……わたしだって、ひとりでは\nなんにもできない自信がある。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "お揃いですわね』"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "香名江",
+      "text": "おふたりとも……いつもの雰囲気に\n戻ってしまわれましたね。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "あら、いけませんわ……\n決戦前ですのに。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "大丈夫……\nいつものノリはそのままに。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちゃんと……ひりひりしてる、よ。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈。ーーまたあとで。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "おはよう、広。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あ、星南だ。\nもしかして……わたしを待ってた？"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ええ。本戦でまみえる前に、\nあなたと話しておきたくて。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ー一ありがとう。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なんのお礼？"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "色々よ。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "まずは……この私に、限界を超える\nヒントを与えてくれたこと。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "？　……まったく心当たりがない。\nもしかして……"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はあああああああ………………"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "これ？"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……効果あったんだ、これ。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "もちろんよー一\nと、言いたいところだけれど。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "実際のところは、どうかしらね。\n依然として、私の数値は変わらない。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "それでも、もう、悩むことはないわ。\n全力で走り続けるだけよ。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "あなたを含む、\n素晴らしいライバルたちを見習ってね。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまの星南は……前よりずっと、\n自信と魅力が溢れてる。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "トップアイドル、っぽい。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "フフ……そう、嬉しいわ。\nまったくもう……"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "お礼をしている最中なのに、感謝の\n気持ちが増えてしまったじゃない。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "他にもある、の？"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "まだまだあるねわ9\nこの場では伝えきれないけれど……"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "たとえば……『N.I.A』で優勝し、"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "先日の千奈との対バンで\n素晴らしいライブをし、"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "この『H.I.F』をさらに\n盛り上げてくれたこと。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "テレビ出演の件、\nあれは千奈の功績。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あんなふうに想いをぶつけられて……\n燃えないわけ、ない。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "生徒会選挙でも……そうだった。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "みんなを巻き込んで、惹きつけて……\n盛り上げて。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いつの間にか、\nみんなが千奈を大好きになってる。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それが……\nわたしたちの世代の生徒会長。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ええ……途方もなく大きくて、\n愛らしい、女王の器。けれど……"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "勝つのは私よ。あなたにも、\n誰にも、負けはしない。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "？？？",
+      "text": "そ〜れはど〜かなぁ〜〜〜〜〜？"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "この声は……"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わ……owl先輩。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "はぁ～い、owlちゃんで～っす♪\nしばらくぶりだねん、ひーろちゃん♡"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はいっ。……今日は、いつもの感じ。\nなんです、ね。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ひ、広……？　私への態度と……\nずいぶん違うのね……？"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "お〜す。ひっさしぶり〜、星ぇ〜南。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "お久しぶりです。いまは……\nowl先輩、と、お呼びすれば？"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "いっや〜、おそれおーくも\nトップアイドル十王星南サマに対して、\n先輩風なんて吹かせられないっすよー♪"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "フフ……相変わらずですね。\n100プロのホープが、どうしてここに？"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "去年私を負かした、\n君が負けるところを見に。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "おっしゃっていましたねーー\n『それはどうかな』と。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "今日、私に勝てるアイドルがいると、\nそうお思いですか？"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "初星学園最強アイドルは十王星南。\n……そうでなければ困るのです。\n我々の立つ瀬がない。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "で・も・ね♪"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わ、わっ。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "せっかく買った宝くじの当選番号を、\n確認しないバカはいないでしょぉ〜？"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、宝くじ？"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "うんっ、君が星南に勝ったならーー\n私がめちゃくちゃスカッとする！"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "1等3億円なんて、\nメじゃないほどの価値があるよーん！"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふぅぅぅ……わたしの好きな人たち、\nみんなプレッシャーをかけてくる。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "窮地ほど燃えるんでしょう？\nハードルを上げて欲しいんでしょう？"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、ぜひ、お願いします。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "おっけぇ〜♪　事態がままならない\nほどにテンションが上がる君に！"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "憧れの私から、\n激励の言葉を贈るのです。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "『負けたらキライになっちゃうゾ♡』"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うぅっ……かわいい……つらい……\n重い……ままならない……"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……ありがとう、先輩。\nおかげで初心を思い出した。"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "憧れを胸に、不可能に挑む。"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それはとても辛くて……\n幸せで、楽しい、ね。"
+    }
+  ]
+}

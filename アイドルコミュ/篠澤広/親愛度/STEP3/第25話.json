@@ -1,0 +1,489 @@
+{
+  "session": "hiro_25",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.174983+00:00",
+  "line_count": 79,
+  "needs_review": 7,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサー。いまから……\nowl先輩に会いに行く、けど。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……ライブより緊張してる。\nひとりじゃむり。付いてきて。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "お願い。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……広さんのこんな様子は、\nはじめて見ますね。新鮮です。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……プロデューサーが、\nわたしの窮地を楽しんでる……"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "意外と余裕あります？"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなことはない。\n限界きりぎりの精神状態。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ノックしますよ。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "待って……心の準備が……"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あっひどい……待ってくれない……"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "text": "――どうぞ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……失礼します。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "はじめまして、篠澤広さん。owlです。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あっ……あっ……篠澤広……です。\nその……ライブ、かわいかった、です。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "ありがとうございます。私も、\n『N.I.A』の優勝ライブを拝見しました。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……恐縮。……はぁ～……ふぅ～……"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "あなたのプロデューサーから\n聞きました。アドバイスが欲しいと。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（おぉ……owl先輩、ステージと\nイメージがぜんぜん違う……）"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "私を好いてくれた後輩に、\nきちんとした回答をしたいのです。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "きっと幻滅させてしまいます。\nそれでもいいですか？"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ぜひ。お願いします。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "text": "前置きが多くて、ごめんなさい。\nもうひとつだけ……"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "アイドルに正解はないと思うのです。\nどうか鵜呑みにせず聞いてください。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もちろん。あなたは……とても誠実に\n答えようとしてくれている。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "お願いします、owl先輩。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "私は、owlというアイドルを、チームで\n創った作品だと考えているのです。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "OoWI",
+      "text": "プロデュース、マネジメント、\n作詞作曲、振り付け等々……",
+      "needs_review": true
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたの役割は？"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "例えるならアイドルアバター『owl』\nの外装担当にして、操縦者。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "OoWI",
+      "text": "私自身のパーソナリティと『owl』は、\n別物で、切り離されているのです。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なら……ポップなメロディを\n元気いっぱいに歌う『owl』ちゃんは。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "みんなにかわいい……って、\n褒められても、うれしくない？"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "OoWI",
+      "text": "チームで創った作品を褒められるのは、\n嬉しいのです。強い達成感があります。",
+      "needs_review": true
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "それと……",
+      "needs_review": true
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それと？"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "歌詞の半分ほどは、私が書いていて……\n想いを込めて、歌っています。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "ファンに、そこを褒められることは……\nあまり多くないのですが。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "素敵な歌詞だとは思ってた、けど。\nあまり気にしたこと、なかった。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "そうでしょう？\nあくまであなたに刺さったのは一一"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とってもかわいい『owl』ちゃん。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "OoWI",
+      "text": "アイドル……エンタテインメント、\nあらゆる創作物は……",
+      "needs_review": true
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "OoWI",
+      "text": "受け手が認識し、解釈することで、\nはじめて完成するもの。",
+      "needs_review": true
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "『私』が込めた想いなど、\n刺さらなかったファンにとっては、\n溶けた隠し味にすぎません。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『わたし』は『アイドル』の\n一構成要素にすぎない……"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたは、それでいいの？"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "それがいいんです。強がりではなく。\nあなたが感じているそのギャップは、"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "アイドルにとって、よくある悩み。\n解決方法は……人それぞれですが。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "先輩は……どうやった、の？"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "OoWI",
+      "text": "ライブの後は、必ず……\nチーム全員で打ち上げをします。",
+      "needs_review": true
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "OoWI",
+      "text": "お互いの良き仕事を、たくさん、\nたくさん……讃え合うのです。",
+      "needs_review": true
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……素敵な仲間。……そっか。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とても参考になった。\n鵜呑みにはしない。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ありがとう、owl先輩。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "どういたしまして、広さん。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "oWI",
+      "text": "あなたが星南に勝ったなら、\nこう伝えておいてください。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "owl",
+      "text": "やーい♡\n後輩に負けてどんな気持ち〜♪"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……ふふ。\n一言一句たがわずに、伝える。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "オリジンとの対話。\n成果はありましたか？"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ばっちり。すべての問題は解決した。\nと、いうか。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はじめから、問題なんてなかった。\n先輩と話して、それに気づいた。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『わたし』と『篠澤広』のギャップ。\nそんなありふれた悩み……"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのことが大好きで、一番わかって\nいるひとが、見過ごすわけないよ、ね。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いつものプロデューサーの手口。わたし\nに納得させるため、あえて遠回りする。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……だからもう、悩まない。\nそのうちなんとかする。あなたが。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なんとかしましょう。近々。では……\n例の『神格』の上げ方については？"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それもプロデューサーが\nなんとかする。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なんとかしましょう。いま、ここで。"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えっすごい。言ってみただけなのに。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "さすがに見当がつかない……\nいま……ここで……どうやって？"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "思い出してください。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたが俺の目前で、\nはじめて奇跡を起こした日のことを。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……あなたの目の前で……奇跡を……\n……………………………………あ。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "自分でも"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "自分でもびっくり。\n練習よりも、ずっとうまく歌えた。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "アレ、もう一回やりましょう。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わぁ……あ……なんだか……"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "すごく…‥すごくうれしい………\n嫌な予感がしてきた。"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "text": "篠澤広の『神格』を上げる方法。\n狙って奇跡を起こす方法は……"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "我々が共に、\n窮地へと飛び込むことです！"
+    }
+  ]
+}

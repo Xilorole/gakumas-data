@@ -1,0 +1,226 @@
+{
+  "session": "hiro_sunfaded_1",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:34.292732+00:00",
+  "line_count": 36,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。続き、しよ。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "続きとは……篠澤広・強化プランの\nことでしょうか。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなプラン名は、はつみみ。\nでもたぶんそれ。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたとわたし、\nふたりの夢を叶えるための第一歩。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『H.I.F』で、勝つ。わたしが。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そのための作戦会議、しよう。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広が、夢への通過点として、\nプリマステラ\n『一番星』を目指す。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ハハ……おさらいをするたびに、\n正気を疑いますね。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーの乾いた笑い、\nだいすき。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いろんな感情がこもってて、いいね。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ネガティブな感情が多めなんですが。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたの笑顔を、毎日見せてください。\n……こんなプロポーズ、どう？"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "最悪です。その似てない物真似は\nやめるようにと言ったはず。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "その眼つき……どきどきする、ね。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "text": "ハァ……"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、ごめんね。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしもそう思う、よ。\n正気じゃない……って。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でも、やりたいから。\nやるって決めたから。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やる。一緒に。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "これほどの苦難の道を歩く機会なんて、\nそうそうないでしょうから。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "絶対に楽しい。保証する。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけど……\n今回は、楽しいだけじゃ、だめ。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "最後まで、歩ききらないと。\nいまのわたしじゃ、無理っぽい。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "寄跡を起こさないと、無理でしょうね。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーは、\n色々作戦があるって言ってた。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "教えて。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いいでしょう。これから少し難解な話を\nしますので……‥"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もしわからなかったら、\nそう言ってくださいね。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おー……これを自慢するの、\nきらいだけど、あえて言う。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしがプロデューサーよりも\n学歴が上だって、忘れてる？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "とんでもない。それでは、\n大卒の天才少女・篠澤広さん。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "一言だけで、当ててみてください。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どんとこい。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広のイメージを悪化させて、\n『H.I.F』での勝率を下げましょう。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わ……ほんとうに、わけがわからない。"
+    }
+  ]
+}

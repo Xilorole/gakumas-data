@@ -1,0 +1,257 @@
+{
+  "session": "hiro_contrast_1",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.632670+00:00",
+  "line_count": 41,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今日は、なにをするの？"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "最近の篠涯さんは、\nなんとか……辛うじて……"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーが……"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "苦しそうに\nわたしを褒めるときの顔、好き。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そこで、新たな課題を与えます。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "つめたく無視するときの目も、いいね。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデューサーの\n好きなところではなく、"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広というアイドルの魅力について、\n言語化してみてください。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの……アイドルとしての、魅力。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あるのかな……？"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あるからこそ、ファンに\nなってくれた人たちがいます。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あの人たちは変わり者だから……"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "変わり者のファンたちに\n好かれるのを、どう思いますか？"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うれしい。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なら……皆さんが篠澤さんの\nどこに魅力を感じているのか。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "自分でわかっていなければ。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……そうだね。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やる気、出てきた……けど。\nむずかしい……"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしがしってる、篠澤広の……\nアイドルとしての、野力。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ううん……なんだろう。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……頭がいいところ？"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんのファンは、\n篠澤さんのことを……"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "頭がいいとは、\n思っていないのでは？"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーの言葉は、\nいつも切れ味がいい。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゃあ……なんだろう。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "身体が弱くて、\nダンスと歌がだめだめなところ？"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それは弱点です。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルの弱点は、武器であり長所。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのプロデューサーが\nそう言ってた。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "その危うい武器は、\nなるべく早く卒業しましょう。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "他にもあるかな……わたしの魅力。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えっと……"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "じっとこちらを見て、どうしました？"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "か……顔が……"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "かわいい、ところ？"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そうですね。強い武器だと思います。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん………"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "自分のいいところを言葉にするの。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "恥ずかしい、ね。"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "session": "hiro_happymille_2",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.884896+00:00",
+  "line_count": 38,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "では……さっそく明日から、\n料理の特訓を一一"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今日。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今日やる。特訓。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ふむ、『一刻も早く』……でしたね。\nなら、今日から始めましょうか。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ふっふっふっふ！\n残念でしたね、プロデューサーさん！"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "話は聞かせてもらいましたわ一一\n篠澤さん。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "今日！　共有スペースのキッチンは\n使っちゃだめで一す♪"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、使っちゃだめだって。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……ええと。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "学内で生徒が自由に使える\nキッチンはここだけですけども！"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "使っちゃだめで一す♪"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、どうしようプロデューサー。\n困っちゃったね。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "困ってしまいましたね……花海さん、\n倉本さん、理由をうかがっても？"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "はいっ！　それはですねぇー一一一"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "なんだっけ、千奈ちゃん。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "もう……花海さんたら。\n先ほど打ち合わせをしたばかりですわ。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "そう、おふたりがここを使っては\nいけない理由は一一……"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "……………………なんでしたっけ？"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈、佑芽。こっち、こっち。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "……ふむふむ。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "……思い出しましたわっ。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "聞いてくださいませ、プロデューサー。\nわたくしと花海さんは、なんと一一"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんと喧嘩中なのです！"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "たったいま、仲良く密談を……"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "うふふ、なんのことやら\nわかりませんわ。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "喧嘩中だよね～？　広ちゃん。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そう……明日まで喧嘩中。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "明日までって……\nまた、ピンポイントな。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "料理勝負で喧嘩の決着を\n付けることにしたという設定。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "というわけでプロデューサーさん！"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "今日はあたしたちがここで\n料理の特訓をするので一一"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "使っちゃだめで一す♪"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "さあ、どうしようプロデューサー。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どこか他に、秘密の特訓が\nできるところ。あるかな。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あー…………ないですね。\n残念、今日は諦めましょう。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……わたし、いい場所しってるよ。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーの家。"
+    }
+  ]
+}

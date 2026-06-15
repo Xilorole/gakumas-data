@@ -1,5 +1,299 @@
 [
   {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[みちなるひろがる]篠澤広/1話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[みちなるひろがる]篠澤広",
+      "1話"
+    ],
+    "session": "hiro_michinaru_1",
+    "exported_at": "2026-06-15T14:06:34.069028+00:00",
+    "line_count": 43,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[みちなるひろがる]篠澤広/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[みちなるひろがる]篠澤広",
+      "2話"
+    ],
+    "session": "hiro_michinaru_2",
+    "exported_at": "2026-06-15T14:06:34.106357+00:00",
+    "line_count": 31,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[みちなるひろがる]篠澤広/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[みちなるひろがる]篠澤広",
+      "3話"
+    ],
+    "session": "hiro_michinaru_3",
+    "exported_at": "2026-06-15T14:06:34.143904+00:00",
+    "line_count": 35,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ガラクタロード]篠澤広/1話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ガラクタロード]篠澤広",
+      "1話"
+    ],
+    "session": "hiro_garakuta_1",
+    "exported_at": "2026-06-15T14:06:33.740580+00:00",
+    "line_count": 52,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ガラクタロード]篠澤広/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ガラクタロード]篠澤広",
+      "2話"
+    ],
+    "session": "hiro_garakuta_2",
+    "exported_at": "2026-06-15T14:06:33.776716+00:00",
+    "line_count": 32,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ガラクタロード]篠澤広/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ガラクタロード]篠澤広",
+      "3話"
+    ],
+    "session": "hiro_garakuta_3",
+    "exported_at": "2026-06-15T14:06:33.812771+00:00",
+    "line_count": 40,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[コントラスト]篠澤広/1話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[コントラスト]篠澤広",
+      "1話"
+    ],
+    "session": "hiro_contrast_1",
+    "exported_at": "2026-06-15T14:06:33.632670+00:00",
+    "line_count": 41,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[コントラスト]篠澤広/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[コントラスト]篠澤広",
+      "2話"
+    ],
+    "session": "hiro_contrast_2",
+    "exported_at": "2026-06-15T14:06:33.669594+00:00",
+    "line_count": 44,
+    "needs_review": 5
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[コントラスト]篠澤広/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[コントラスト]篠澤広",
+      "3話"
+    ],
+    "session": "hiro_contrast_3",
+    "exported_at": "2026-06-15T14:06:33.704822+00:00",
+    "line_count": 48,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[サンフェーデッド]篠澤広/1話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[サンフェーデッド]篠澤広",
+      "1話"
+    ],
+    "session": "hiro_sunfaded_1",
+    "exported_at": "2026-06-15T14:06:34.292732+00:00",
+    "line_count": 36,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[サンフェーデッド]篠澤広/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[サンフェーデッド]篠澤広",
+      "2話"
+    ],
+    "session": "hiro_sunfaded_2",
+    "exported_at": "2026-06-15T14:06:34.329301+00:00",
+    "line_count": 41,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[サンフェーデッド]篠澤広/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[サンフェーデッド]篠澤広",
+      "3話"
+    ],
+    "session": "hiro_sunfaded_3",
+    "exported_at": "2026-06-15T14:06:34.367399+00:00",
+    "line_count": 48,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ハッピーミルフィーユ]篠澤広/1話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ハッピーミルフィーユ]篠澤広",
+      "1話"
+    ],
+    "session": "hiro_happymille_1",
+    "exported_at": "2026-06-15T14:06:33.849259+00:00",
+    "line_count": 36,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ハッピーミルフィーユ]篠澤広/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ハッピーミルフィーユ]篠澤広",
+      "2話"
+    ],
+    "session": "hiro_happymille_2",
+    "exported_at": "2026-06-15T14:06:33.884896+00:00",
+    "line_count": 38,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ハッピーミルフィーユ]篠澤広/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ハッピーミルフィーユ]篠澤広",
+      "3話"
+    ],
+    "session": "hiro_happymille_3",
+    "exported_at": "2026-06-15T14:06:33.923130+00:00",
+    "line_count": 36,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ミラクルナナウ(ﾟ∀ﾟ)]篠澤広/1話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ミラクルナナウ(ﾟ∀ﾟ)]篠澤広",
+      "1話"
+    ],
+    "session": "hiro_miracle_1",
+    "exported_at": "2026-06-15T14:06:34.180839+00:00",
+    "line_count": 41,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ミラクルナナウ(ﾟ∀ﾟ)]篠澤広/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ミラクルナナウ(ﾟ∀ﾟ)]篠澤広",
+      "2話"
+    ],
+    "session": "hiro_miracle_2",
+    "exported_at": "2026-06-15T14:06:34.218184+00:00",
+    "line_count": 48,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[ミラクルナナウ(ﾟ∀ﾟ)]篠澤広/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[ミラクルナナウ(ﾟ∀ﾟ)]篠澤広",
+      "3話"
+    ],
+    "session": "hiro_miracle_3",
+    "exported_at": "2026-06-15T14:06:34.255009+00:00",
+    "line_count": 36,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[光景]篠澤広/1話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[光景]篠澤広",
+      "1話"
+    ],
+    "session": "hiro_koukei_1",
+    "exported_at": "2026-06-15T14:06:33.959502+00:00",
+    "line_count": 30,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[光景]篠澤広/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[光景]篠澤広",
+      "2話"
+    ],
+    "session": "hiro_koukei_2",
+    "exported_at": "2026-06-15T14:06:33.995972+00:00",
+    "line_count": 52,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/Pアイドル/[光景]篠澤広/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "Pアイドル",
+      "[光景]篠澤広",
+      "3話"
+    ],
+    "session": "hiro_koukei_3",
+    "exported_at": "2026-06-15T14:06:34.031960+00:00",
+    "line_count": 38,
+    "needs_review": 0
+  },
+  {
     "path": "アイドルコミュ/篠澤広/親愛度/STEP1/第10.5話.json",
     "segments": [
       "アイドルコミュ",
@@ -9,7 +303,7 @@
       "第10.5話"
     ],
     "session": "hiro_10.5",
-    "exported_at": "2026-06-13T12:08:31.120048+00:00",
+    "exported_at": "2026-06-15T14:06:32.670456+00:00",
     "line_count": 28,
     "needs_review": 0
   },
@@ -23,7 +317,7 @@
       "第10話"
     ],
     "session": "hiro_10",
-    "exported_at": "2026-06-13T19:21:59.331683+00:00",
+    "exported_at": "2026-06-15T14:06:32.635886+00:00",
     "line_count": 78,
     "needs_review": 0
   },
@@ -66,7 +360,7 @@
       "第3話"
     ],
     "session": "hiro_03",
-    "exported_at": "2026-06-13T12:08:31.101673+00:00",
+    "exported_at": "2026-06-15T14:06:32.397913+00:00",
     "line_count": 82,
     "needs_review": 0
   },
@@ -94,7 +388,7 @@
       "第5話"
     ],
     "session": "hiro_05",
-    "exported_at": "2026-06-13T12:08:31.106309+00:00",
+    "exported_at": "2026-06-15T14:06:32.462779+00:00",
     "line_count": 84,
     "needs_review": 0
   },
@@ -108,7 +402,7 @@
       "第6話"
     ],
     "session": "hiro_06",
-    "exported_at": "2026-06-13T12:08:31.109133+00:00",
+    "exported_at": "2026-06-15T14:06:32.496468+00:00",
     "line_count": 82,
     "needs_review": 0
   },
@@ -150,7 +444,7 @@
       "第9話"
     ],
     "session": "hiro_09",
-    "exported_at": "2026-06-13T12:08:31.115961+00:00",
+    "exported_at": "2026-06-15T14:06:32.601384+00:00",
     "line_count": 66,
     "needs_review": 0
   },
@@ -164,7 +458,7 @@
       "第11話"
     ],
     "session": "hiro_11",
-    "exported_at": "2026-06-13T19:21:59.610143+00:00",
+    "exported_at": "2026-06-15T14:06:32.704427+00:00",
     "line_count": 53,
     "needs_review": 0
   },
@@ -192,7 +486,7 @@
       "第13話"
     ],
     "session": "hiro_13",
-    "exported_at": "2026-06-13T12:08:31.125803+00:00",
+    "exported_at": "2026-06-15T14:06:32.770447+00:00",
     "line_count": 69,
     "needs_review": 0
   },
@@ -206,7 +500,7 @@
       "第14話"
     ],
     "session": "hiro_14",
-    "exported_at": "2026-06-13T12:08:31.127715+00:00",
+    "exported_at": "2026-06-15T14:06:32.803752+00:00",
     "line_count": 45,
     "needs_review": 0
   },
@@ -220,7 +514,7 @@
       "第15話"
     ],
     "session": "hiro_15",
-    "exported_at": "2026-06-13T20:00:32.664556+00:00",
+    "exported_at": "2026-06-15T14:06:32.836817+00:00",
     "line_count": 25,
     "needs_review": 1
   },
@@ -234,7 +528,7 @@
       "第16話"
     ],
     "session": "hiro_16",
-    "exported_at": "2026-06-13T12:08:31.130691+00:00",
+    "exported_at": "2026-06-15T14:06:32.871029+00:00",
     "line_count": 30,
     "needs_review": 0
   },
@@ -248,7 +542,7 @@
       "第17話"
     ],
     "session": "hiro_17",
-    "exported_at": "2026-06-13T12:08:31.132775+00:00",
+    "exported_at": "2026-06-15T14:06:32.903780+00:00",
     "line_count": 67,
     "needs_review": 0
   },
@@ -290,7 +584,7 @@
       "第20話"
     ],
     "session": "hiro_20",
-    "exported_at": "2026-06-13T12:08:31.138777+00:00",
+    "exported_at": "2026-06-15T14:06:33.003560+00:00",
     "line_count": 72,
     "needs_review": 0
   },
@@ -304,8 +598,232 @@
       "第21話"
     ],
     "session": "hiro_21",
-    "exported_at": "2026-06-13T12:08:31.141601+00:00",
+    "exported_at": "2026-06-15T14:06:33.037145+00:00",
     "line_count": 69,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第22話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第22話"
+    ],
+    "session": "hiro_22",
+    "exported_at": "2026-06-15T14:06:33.070781+00:00",
+    "line_count": 77,
+    "needs_review": 3
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第23話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第23話"
+    ],
+    "session": "hiro_23",
+    "exported_at": "2026-06-15T14:06:33.106350+00:00",
+    "line_count": 79,
+    "needs_review": 32
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第24話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第24話"
+    ],
+    "session": "hiro_24",
+    "exported_at": "2026-06-15T14:06:33.140391+00:00",
+    "line_count": 79,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第25話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第25話"
+    ],
+    "session": "hiro_25",
+    "exported_at": "2026-06-15T14:06:33.174983+00:00",
+    "line_count": 79,
+    "needs_review": 7
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第26話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第26話"
+    ],
+    "session": "hiro_26",
+    "exported_at": "2026-06-15T14:06:33.211238+00:00",
+    "line_count": 79,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第27話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第27話"
+    ],
+    "session": "hiro_27",
+    "exported_at": "2026-06-15T14:06:33.246731+00:00",
+    "line_count": 67,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第28話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第28話"
+    ],
+    "session": "hiro_28",
+    "exported_at": "2026-06-15T14:06:33.280452+00:00",
+    "line_count": 58,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第29話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第29話"
+    ],
+    "session": "hiro_29",
+    "exported_at": "2026-06-15T14:06:33.314807+00:00",
+    "line_count": 79,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP3/第30話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP3",
+      "第30話"
+    ],
+    "session": "hiro_30",
+    "exported_at": "2026-06-15T14:06:33.350701+00:00",
+    "line_count": 79,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP4/第31話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP4",
+      "第31話"
+    ],
+    "session": "hiro_31",
+    "exported_at": "2026-06-15T14:06:33.386198+00:00",
+    "line_count": 80,
+    "needs_review": 2
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP4/第32話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP4",
+      "第32話"
+    ],
+    "session": "hiro_32",
+    "exported_at": "2026-06-15T14:06:33.420810+00:00",
+    "line_count": 74,
+    "needs_review": 1
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP4/第33話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP4",
+      "第33話"
+    ],
+    "session": "hiro_33",
+    "exported_at": "2026-06-15T14:06:33.455966+00:00",
+    "line_count": 47,
+    "needs_review": 2
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP4/第34話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP4",
+      "第34話"
+    ],
+    "session": "hiro_34",
+    "exported_at": "2026-06-15T14:06:33.490806+00:00",
+    "line_count": 78,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP4/第35話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP4",
+      "第35話"
+    ],
+    "session": "hiro_35",
+    "exported_at": "2026-06-15T14:06:33.526678+00:00",
+    "line_count": 83,
+    "needs_review": 2
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP4/第36話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP4",
+      "第36話"
+    ],
+    "session": "hiro_36",
+    "exported_at": "2026-06-15T14:06:33.562692+00:00",
+    "line_count": 55,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/親愛度/STEP4/第37話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "親愛度",
+      "STEP4",
+      "第37話"
+    ],
+    "session": "hiro_37",
+    "exported_at": "2026-06-15T14:06:33.597422+00:00",
+    "line_count": 71,
     "needs_review": 0
   }
 ]

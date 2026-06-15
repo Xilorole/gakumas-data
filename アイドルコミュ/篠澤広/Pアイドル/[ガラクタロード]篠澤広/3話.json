@@ -1,0 +1,250 @@
+{
+  "session": "hiro_garakuta_3",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.812771+00:00",
+  "line_count": 40,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふぅ……はぁ……はぁ……ふふ……"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "レッスンお疲れさまでした。\n段々と良くなってきましたね。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……がんばった、から。\nねきらいの時間がほしい。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ご希望はありますか？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゃあ……プロデューサー。\n広ちゃんと思い出を語り合う会、しよ。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もうしたではないですか。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、今度はわたしが……"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "恥ずかしい秘密をプロデューサーに\nよって暴露されちゃう番。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "しなくていいです。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルとプロデューサーは、\n対等な関係。公平に行こう。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "この前と同じ要領で……はい、どうぞ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ふぅ…………では。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それなりに長い期間、広さんの\nプロデュースをしてきましたが。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "一番良かったプロデュースは？"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "悩ましい。わたしの人生で……\nいちばんむずかしい質問かも。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたのプロデュースは、いつも……\n良いと悪いが表裏一体。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしを苦しめて、\n喜ばせるものばかり。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それが篠澤広にとって、\nベストなプロデュースですからね。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "たまに……おっふ、\nこれはやりすぎ……ってなる、よ？"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "すべて乗り越えてきたではないですか。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……\n最初はわたしに付き合って、"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "仕方なく無茶ぶりしてくれているの\nかな、って思ってた。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなことはなかった。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたは好きでやってる。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん、好きでやっています。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……うん。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あの、ね。あなたがわたしにしてくれた\n一番素敵なプロデュースは……きっと。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "篠澤広に、\nあなたの夢をわけてくれたこと。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それは……\nプロデュースではないでしょう。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "担当アイドルに、体よく、\nわがままを押し付けただけです。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だとしても、構わない。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "趣味は夢に劣らないって、\nそうあなたは言ってくれたけど。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本物のアイドルに触れるたび、\nわたしは夢が羨ましくなっていった。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたがくれた夢は……"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの趣味を、\nもっと輝かせてくれた、よ。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ありがとう。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "text": "ハ……バカなことを。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "急に……やめてください……\n他愛のない雑談のつもりだったのに。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ー一こちらこそ。ありがとう、広さん。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。夢も……趣味も、\n楽しんでいこう、ね。"
+    }
+  ]
+}

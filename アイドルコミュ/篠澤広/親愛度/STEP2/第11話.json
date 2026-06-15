@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T19:21:59.610143+00:00",
+  "exported_at": "2026-06-15T14:06:32.704427+00:00",
   "line_count": 53,
   "needs_review": 0,
   "lines": [
@@ -227,7 +227,7 @@
       "index": 37,
       "type": "dialogue",
       "speaker": "広",
-      "text": "わたしのファン……・\n変わり者しかいない、よ。"
+      "text": "わたしのファン……\n変わり者しかいない、よ。"
     },
     {
       "index": 38,
