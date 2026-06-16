@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:32.803752+00:00",
+  "exported_at": "2026-06-16T07:16:39.645827+00:00",
   "line_count": 45,
   "needs_review": 0,
   "lines": [
@@ -167,7 +167,7 @@
       "index": 27,
       "type": "dialogue",
       "speaker": "広",
-      "text": "やっと、佑芽にその顔で\n見てもらえるようになった。"
+      "text": "やっと、佑芽に《《その顔》》で\n見てもらえるようになった。"
     },
     {
       "index": 28,

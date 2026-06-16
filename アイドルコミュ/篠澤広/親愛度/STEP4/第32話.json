@@ -3,9 +3,9 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.420810+00:00",
+  "exported_at": "2026-06-16T07:16:37.989757+00:00",
   "line_count": 74,
-  "needs_review": 1,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
@@ -29,7 +29,7 @@
       "index": 4,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "おめでとうございます！\n見事『選抜試験』を突破しましたね。"
+      "text": "おめでとうございます！\n見事{『選抜試験』|セレクション}を突破しましたね。"
     },
     {
       "index": 5,
@@ -268,7 +268,7 @@
       "index": 44,
       "type": "dialogue",
       "speaker": "星南",
-      "text": "それが『一番星』の責務よ。"
+      "text": "それが『{一番星|プリマステラ}』の責務よ。"
     },
     {
       "index": 45,
@@ -303,15 +303,14 @@
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "喘",
-      "text": "それがプロデューサーの処世術よ。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "それがプロデューサーの処世術よ。"
     },
     {
       "index": 51,
       "type": "dialogue",
       "speaker": "星南",
-      "text": "スポンサーに阿らなければ\n始まらないわ！"
+      "text": "スポンサーに{阿|おもね}らなければ\n始まらないわ！"
     },
     {
       "index": 52,

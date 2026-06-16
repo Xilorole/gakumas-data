@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.812771+00:00",
+  "exported_at": "2026-06-16T07:16:38.964237+00:00",
   "line_count": 40,
   "needs_review": 0,
   "lines": [
@@ -185,7 +185,7 @@
       "index": 30,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "担当アイドルに、体よく、\nわがままを押し付けただけです。"
+      "text": "担当アイドルに、{体|てい}よく、\nわがままを押し付けただけです。"
     },
     {
       "index": 31,

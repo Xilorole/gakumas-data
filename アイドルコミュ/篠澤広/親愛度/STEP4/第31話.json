@@ -3,15 +3,14 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.386198+00:00",
+  "exported_at": "2026-06-16T07:16:38.031821+00:00",
   "line_count": 80,
-  "needs_review": 2,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "text": "ふうう～～～～～～～～…………………",
-      "needs_review": true
+      "text": "ふぅぅ～～～～～～～～～～…………"
     },
     {
       "index": 2,
@@ -41,8 +40,7 @@
       "index": 6,
       "type": "dialogue",
       "speaker": "広",
-      "text": "『H.I.F』で競い合うって、約束した。",
-      "needs_review": true
+      "text": "『H.I.F』で競い合うって、約束した。"
     },
     {
       "index": 7,
@@ -160,6 +158,7 @@
     {
       "index": 27,
       "type": "dialogue",
+      "speaker": "広",
       "text": "ぶー。"
     },
     {
@@ -238,7 +237,7 @@
       "index": 40,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "さて、『選抜試験」もあとひとつを\n残すのみとなりました。"
+      "text": "さて、{『選抜試験』|セレクション}もあとひとつを\n残すのみとなりました。"
     },
     {
       "index": 41,
@@ -316,7 +315,7 @@
       "index": 53,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ふふ、『選抜試験』がはじまったとき、"
+      "text": "ふふ、『{選抜試験|セレクション}』がはじまったとき、"
     },
     {
       "index": 54,

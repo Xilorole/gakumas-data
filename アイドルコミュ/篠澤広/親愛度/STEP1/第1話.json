@@ -3,7 +3,7 @@
   "title": "篠澤広 第1話",
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T19:21:59.070159+00:00",
+  "exported_at": "2026-06-16T07:16:40.207421+00:00",
   "line_count": 71,
   "needs_review": 0,
   "lines": [
@@ -106,7 +106,7 @@
       "index": 19,
       "type": "dialogue",
       "speaker": "広",
-      "text": "わたし、篠澤……広。"
+      "text": "わたし、{篠澤|しのさわ}……{広|ひろ}。"
     },
     {
       "index": 20,

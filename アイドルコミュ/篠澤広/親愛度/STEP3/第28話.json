@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.280452+00:00",
+  "exported_at": "2026-06-16T07:16:38.157896+00:00",
   "line_count": 58,
   "needs_review": 0,
   "lines": [
@@ -149,7 +149,7 @@
       "index": 25,
       "type": "dialogue",
       "speaker": "広",
-      "text": "『一番星』篠澤広に、こうご期待。"
+      "text": "{『一番星』|プリマステラ}篠澤広に、こうご期待。"
     },
     {
       "index": 26,
@@ -239,7 +239,7 @@
       "index": 40,
       "type": "dialogue",
       "speaker": "広",
-      "text": "わたしが、『一番星』に、\nなれなかったら？"
+      "text": "わたしが、{『一番星』|プリマステラ}に、\nなれなかったら？"
     },
     {
       "index": 41,

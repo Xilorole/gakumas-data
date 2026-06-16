@@ -3,16 +3,15 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.106350+00:00",
+  "exported_at": "2026-06-16T07:16:39.287824+00:00",
   "line_count": 79,
-  "needs_review": 32,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "昌間",
-      "text": "こんにちは、広。\n『N.I.A』優勝、おめでとう。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "こんにちは、広。\n『N.I.A』優勝、おめでとう。"
     },
     {
       "index": 2,
@@ -29,23 +28,20 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "『H.I.F』本戦で一一生意気な後輩に、\nお手本を見せてもらったの。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "『H.I.F』本戦で一一生意気な後輩に、\nお手本を見せてもらったの。"
     },
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "どんな壁だって壊せるんだって……\nそう教わった。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "どんな壁だって壊せるんだって……\nそう教わった。"
     },
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "やれやれ……まったく。\n大幅に予定が変わってしまったわ。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "やれやれ……まったく。\n大幅に予定が変わってしまったわ。"
     },
     {
       "index": 7,
@@ -62,21 +58,19 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "こほん、それで一一……\n私に用があったのではないの？",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "こほん、それで一一……\n私に用があったのではないの？"
     },
     {
       "index": 10,
       "type": "dialogue",
       "speaker": "広",
-      "text": "わたし、\n『一番星』を目指すことにした。"
+      "text": "わたし、\n『{一番星|プリマステラ}』を目指すことにした。"
     },
     {
       "index": 11,
       "type": "dialogue",
-      "text": "次の『H.I.F』で、星南を倒す。\n千奈と佑芽も、やっつける。",
-      "needs_review": true
+      "text": "次の『H.I.F』で、星南を倒す。\n千奈と佑芽も、やっつける。"
     },
     {
       "index": 12,
@@ -99,9 +93,8 @@
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "もちろん構わないわ。後進の育成は、\n十王星南の責務だもの。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "もちろん構わないわ。後進の育成は、\n十王星南の責務だもの。"
     },
     {
       "index": 16,
@@ -112,9 +105,8 @@
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "私は、誰にも負けはしない。\nかかっていらっしゃい、広。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "私は、誰にも負けはしない。\nかかっていらっしゃい、広。"
     },
     {
       "index": 18,
@@ -131,9 +123,8 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "大切な会話を屋上でするのって、\nかっこいいでしょう？",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "大切な会話を屋上でするのって、\nかっこいいでしょう？"
     },
     {
       "index": 21,
@@ -144,9 +135,8 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "歌唱力の強化よ。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "歌唱力の強化よ。"
     },
     {
       "index": 23,
@@ -181,9 +171,8 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "回半",
-      "text": "ええ。私があなたの\nプロデューサーなら、そうする。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "ええ。私があなたの\nプロデューサーなら、そうする。"
     },
     {
       "index": 29,
@@ -194,9 +183,8 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "占半",
-      "text": "あなたの潜在能力について\n触れるけれど、構わないかしら？",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "あなたの{潜在能力|ポテンシャル}について\n触れるけれど、構わないかしら？"
     },
     {
       "index": 31,
@@ -207,16 +195,14 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "篠澤広の潜在能力は、“Vocal”が\nもっとも高く、伸びやすいから。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "篠澤広の{潜在能力|ポテンシャル}は、“Vocal”が\nもっとも高く、伸びやすいから。"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "『H.I.F』までに鍛えるのなら、\n歌唱力がオススメよ。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "『H.I.F』までに鍛えるのなら、\n歌唱力がオススメよ。"
     },
     {
       "index": 34,
@@ -227,16 +213,14 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "どういたしまして。私の特技、\n信じてくれない子もいるのだけれど。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "どういたしまして。私の特技、\n信じてくれない子もいるのだけれど。"
     },
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "広、あなたは頼ってくれるのね。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "広、あなたは頼ってくれるのね。"
     },
     {
       "index": 37,
@@ -277,15 +261,14 @@
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "回時",
+      "speaker": "星南",
       "text": "オカルト………………ふ、ふっ。"
     },
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "ロジカルに詰めて、最後の一押しは\n……神頼み、というところかしら？",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "ロジカルに詰めて、最後の一押しは\n……神頼み、というところかしら？"
     },
     {
       "index": 45,
@@ -302,23 +285,20 @@
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "ー一そう。なら、私は、\nあなたの力にならなければね。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "ー一そう。なら、私は、\nあなたの力にならなければね。"
     },
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "もう1つ、アドバイスを\nしたいのだけれど。その前に……",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "もう1つ、アドバイスを\nしたいのだけれど。その前に……"
     },
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "ちょっと見ていてくれるかしら。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "ちょっと見ていてくれるかしら。"
     },
     {
       "index": 50,
@@ -335,9 +315,8 @@
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "以前、あなたが見せてくれた\nアイドルパワーのコントロールよ！",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "以前、あなたが見せてくれた\nアイドルパワーのコントロールよ！"
     },
     {
       "index": 53,
@@ -379,14 +358,13 @@
       "index": 59,
       "type": "dialogue",
       "speaker": "学園長",
-      "text": "おぬしのアイドルとしての魅力じゃろ？\nホレ、しっかり上がっとるじゃないか。"
+      "text": "おぬしのアイドルとしての魅力じゃろ？\nホレ、しっかり《《上がっとる》》じゃないか。"
     },
     {
       "index": 60,
       "type": "dialogue",
-      "speaker": "語半",
-      "text": "上がっていません！",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "上がっていません！"
     },
     {
       "index": 61,
@@ -397,9 +375,8 @@
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "馬半",
-      "text": "まったく話にならなかったのよ。\nだからあなたに聞いているのだけど……",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "まったく話にならなかったのよ。\nだからあなたに聞いているのだけど……"
     },
     {
       "index": 63,
@@ -428,16 +405,14 @@
     {
       "index": 67,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "ハァ……なら、一緒に悩んで頂戴。\n広、あなたへの最後のアドバイスは一一",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "ハァ……なら、一緒に悩んで頂戴。\n広、あなたへの最後のアドバイスは一一"
     },
     {
       "index": 68,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "数値では表せない、\nアイドルとしての力を鍛えることよ。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "数値では表せない、\nアイドルとしての力を鍛えることよ。"
     },
     {
       "index": 69,
@@ -448,30 +423,26 @@
     {
       "index": 70,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "『H.I.F』で私を追い詰めた、\nわけのわからない、咲季の底力。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "『H.I.F』で私を追い詰めた、\nわけのわからない、咲季の底力。"
     },
     {
       "index": 71,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "ファンを問答無用で魅了する、\nトップアイドルが備える固有のなにか。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "ファンを問答無用で魅了する、\nトップアイドルが備える固有の《《なにか》》。"
     },
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "占半",
-      "text": "『N.I.A』の優勝ライブを観て、\n気付いたの。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "『N.I.A』の優勝ライブを観て、\n気付いたの。"
     },
     {
       "index": 73,
       "type": "dialogue",
-      "speaker": "占半",
-      "text": "篠澤広がステージで纏う『神格』も\nまた、それなのだと。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "篠澤広がステージで纏う『神格』も\nまた、それなのだと。"
     },
     {
       "index": 74,
@@ -483,7 +454,7 @@
       "index": 75,
       "type": "dialogue",
       "speaker": "星南",
-      "text": "偶像としての『神格』を上げて、\n奇跡を起こしなさい！"
+      "text": "{偶像|アイドル}としての『神格』を上げて、\n奇跡を起こしなさい！"
     },
     {
       "index": 76,
@@ -494,23 +465,20 @@
     {
       "index": 77,
       "type": "dialogue",
-      "speaker": "｜",
-      "text": "フフフ！\nそれがわかれば苦労していないわ！",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "フフフ！\nそれがわかれば苦労していないわ！"
     },
     {
       "index": 78,
       "type": "dialogue",
-      "speaker": "回時",
-      "text": "むしろ私は、こう願っているのよー一",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "むしろ私は、こう願っているのよー一"
     },
     {
       "index": 79,
       "type": "dialogue",
-      "speaker": "回回間",
-      "text": "あなたが私に、お手本を見せて\nくれないかしら……と、ね。",
-      "needs_review": true
+      "speaker": "星南",
+      "text": "あなたが私に、お手本を見せて\nくれないかしら……と、ね。"
     }
   ]
 }

@@ -3,9 +3,9 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.669594+00:00",
+  "exported_at": "2026-06-16T06:56:14.154900+00:00",
   "line_count": 44,
-  "needs_review": 5,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "広ちゃん、どうしたの？　改まって。"
     },
     {
@@ -172,7 +172,7 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "手朱",
+      "speaker": "手毬",
       "text": "は？　あなたの魅力？\nなんで私に聞くの？"
     },
     {
@@ -190,30 +190,26 @@
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "手竹",
-      "text": "好きじゃないし。",
-      "needs_review": true
+      "speaker": "手毬",
+      "text": "好きじゃないし。"
     },
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "手短",
-      "text": "というか、よくしらないし。\n魅力なんて聞かれても……困る。",
-      "needs_review": true
+      "speaker": "手毬",
+      "text": "というか、よくしらないし。\n魅力なんて聞かれても……困る。"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "手乱｜",
-      "text": "私にとって、あなたは……",
-      "needs_review": true
+      "speaker": "手毬",
+      "text": "私にとって、あなたは……"
     },
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "手乱｜",
-      "text": "いっつも調子を狂わせてくる、\n変なやつだよ。",
-      "needs_review": true
+      "speaker": "手毬",
+      "text": "いっつも調子を狂わせてくる、\n変なやつだよ。"
     },
     {
       "index": 35,
@@ -255,8 +251,7 @@
       "index": 41,
       "type": "dialogue",
       "speaker": "学園長",
-      "text": "輝かしい経歴やすをすべて投げ捨て、\nアイドルへと転身したいまもなお……",
-      "needs_review": true
+      "text": "輝かしい経歴やすをすべて投げ捨て、\nアイドルへと転身したいまもなお……"
     },
     {
       "index": 42,

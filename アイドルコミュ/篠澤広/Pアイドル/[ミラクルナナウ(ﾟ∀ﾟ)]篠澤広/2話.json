@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:34.218184+00:00",
+  "exported_at": "2026-06-16T07:16:38.764836+00:00",
   "line_count": 48,
   "needs_review": 0,
   "lines": [
@@ -208,7 +208,7 @@
       "index": 34,
       "type": "dialogue",
       "speaker": "広",
-      "text": "大阪まで遠笠して、ライブをする。\nそれが、ね。"
+      "text": "大阪まで遠征して、ライブをする。\nそれが、ね。"
     },
     {
       "index": 35,

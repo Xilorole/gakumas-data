@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:34.292732+00:00",
+  "exported_at": "2026-06-16T07:16:38.679657+00:00",
   "line_count": 36,
   "needs_review": 0,
   "lines": [
@@ -47,7 +47,7 @@
       "index": 7,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "篠澤広が、夢への通過点として、\nプリマステラ\n『一番星』を目指す。"
+      "text": "篠澤広が、夢への通過点として、\n『{一番星|プリマステラ}』を目指す。"
     },
     {
       "index": 8,

@@ -3,9 +3,9 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.174983+00:00",
+  "exported_at": "2026-06-16T07:16:39.207613+00:00",
   "line_count": 79,
-  "needs_review": 7,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
@@ -93,7 +93,7 @@
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "ありがとうございます。私も、\n『N.I.A』の優勝ライブを拝見しました。"
     },
     {
@@ -105,7 +105,7 @@
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "あなたのプロデューサーから\n聞きました。アドバイスが欲しいと。"
     },
     {
@@ -117,13 +117,13 @@
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "私を好いてくれた後輩に、\nきちんとした回答をしたいのです。"
     },
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "きっと幻滅させてしまいます。\nそれでもいいですか？"
     },
     {
@@ -140,7 +140,7 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "アイドルに正解はないと思うのです。\nどうか鵜呑みにせず聞いてください。"
     },
     {
@@ -158,15 +158,14 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "私は、owlというアイドルを、チームで\n創った作品だと考えているのです。"
     },
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "OoWI",
-      "text": "プロデュース、マネジメント、\n作詞作曲、振り付け等々……",
-      "needs_review": true
+      "speaker": "owl",
+      "text": "プロデュース、マネジメント、\n作詞作曲、振り付け等々……"
     },
     {
       "index": 28,
@@ -183,7 +182,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "OoWI",
+      "speaker": "owl",
       "text": "私自身のパーソナリティと『owl』は、\n別物で、切り離されているのです。"
     },
     {
@@ -201,16 +200,14 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "OoWI",
-      "text": "チームで創った作品を褒められるのは、\n嬉しいのです。強い達成感があります。",
-      "needs_review": true
+      "speaker": "owl",
+      "text": "チームで創った作品を褒められるのは、\n嬉しいのです。強い達成感があります。"
     },
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "oWI",
-      "text": "それと……",
-      "needs_review": true
+      "speaker": "owl",
+      "text": "それと……"
     },
     {
       "index": 35,
@@ -221,7 +218,7 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "歌詞の半分ほどは、私が書いていて……\n想いを込めて、歌っています。"
     },
     {
@@ -239,7 +236,7 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "そうでしょう？\nあくまであなたに刺さったのは一一"
     },
     {
@@ -251,21 +248,19 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "OoWI",
-      "text": "アイドル……エンタテインメント、\nあらゆる創作物は……",
-      "needs_review": true
+      "speaker": "owl",
+      "text": "アイドル……エンタテインメント、\nあらゆる創作物は……"
     },
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "OoWI",
-      "text": "受け手が認識し、解釈することで、\nはじめて完成するもの。",
-      "needs_review": true
+      "speaker": "owl",
+      "text": "受け手が認識し、解釈することで、\nはじめて完成するもの。"
     },
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "『私』が込めた想いなど、\n刺さらなかったファンにとっては、\n溶けた隠し味にすぎません。"
     },
     {
@@ -283,13 +278,13 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "それがいいんです。強がりではなく。\nあなたが感じているそのギャップは、"
     },
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "アイドルにとって、よくある悩み。\n解決方法は……人それぞれですが。"
     },
     {
@@ -301,16 +296,14 @@
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "OoWI",
-      "text": "ライブの後は、必ず……\nチーム全員で打ち上げをします。",
-      "needs_review": true
+      "speaker": "owl",
+      "text": "ライブの後は、必ず……\nチーム全員で打ち上げをします。"
     },
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "OoWI",
-      "text": "お互いの良き仕事を、たくさん、\nたくさん……讃え合うのです。",
-      "needs_review": true
+      "speaker": "owl",
+      "text": "お互いの良き仕事を、たくさん、\nたくさん……讃え合うのです。"
     },
     {
       "index": 51,
@@ -333,13 +326,13 @@
     {
       "index": 54,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "どういたしまして、広さん。"
     },
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "oWI",
+      "speaker": "owl",
       "text": "あなたが星南に勝ったなら、\nこう伝えておいてください。"
     },
     {
@@ -364,7 +357,7 @@
       "index": 59,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ばっちり。すべての問題は解決した。\nと、いうか。"
+      "text": "ばっちり。《《すべての問題》》は解決した。\nと、いうか。"
     },
     {
       "index": 60,

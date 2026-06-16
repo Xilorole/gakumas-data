@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.350701+00:00",
+  "exported_at": "2026-06-16T07:16:38.072341+00:00",
   "line_count": 79,
   "needs_review": 0,
   "lines": [
@@ -35,7 +35,7 @@
       "index": 5,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "まだ『選抜試験」だというのに……"
+      "text": "まだ『{選抜試験|セレクション}』だというのに……"
     },
     {
       "index": 6,
@@ -275,7 +275,7 @@
       "index": 45,
       "type": "dialogue",
       "speaker": "佑芽",
-      "text": "あたしも観てたよ、『選抜試験』」。\n広ちゃんのライブ。"
+      "text": "あたしも観てたよ、『{選抜試験|セレクション}』。\n広ちゃんのライブ。"
     },
     {
       "index": 46,
@@ -436,7 +436,7 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "佐芦",
+      "speaker": "佑芽",
       "text": "も～、ふたり仲良く先に行っちゃって、\nさみしかったんだからね～？"
     },
     {

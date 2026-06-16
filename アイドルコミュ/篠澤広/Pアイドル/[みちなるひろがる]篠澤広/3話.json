@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:34.143904+00:00",
+  "exported_at": "2026-06-16T07:16:38.844782+00:00",
   "line_count": 35,
   "needs_review": 0,
   "lines": [
@@ -93,7 +93,7 @@
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "うわぁ～～～～～～～～～～♡"
     },
     {
@@ -136,12 +136,12 @@
       "index": 22,
       "type": "dialogue",
       "speaker": "星南",
-      "text": "ちなみに千奈のプロデューサーである\n私はNo.10。"
+      "text": "《《ちなみに千奈のプロデューサー》》である\n私はNo.10。"
     },
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "あたし12～～～～～！！！\nぎりぎりランク外だぁ～～～～！！"
     },
     {

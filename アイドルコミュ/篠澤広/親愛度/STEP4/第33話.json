@@ -3,23 +3,19 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.455966+00:00",
+  "exported_at": "2026-06-16T07:16:37.947733+00:00",
   "line_count": 47,
-  "needs_review": 2,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "トコ＿um。各ug",
-      "text": "『H.I.F』本戦を間近に控えたその日。",
-      "needs_review": true
+      "text": "『H.I.F』本戦を間近に控えたその日。"
     },
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ちちで",
-      "text": "倉本千奈の新曲一一\n『ときめきのソルフェージュ』の\nお披露目ライブが、全国生放送された。",
-      "needs_review": true
+      "text": "倉本千奈の新曲一一\n『ときめきのソルフェージュ』の\nお披露目ライブが、全国生放送された。"
     },
     {
       "index": 3,
@@ -79,7 +75,7 @@
       "index": 12,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "初星学園一のアイドル、\n『一番星』に挑戦いたします！"
+      "text": "初星学園一のアイドル、\n『{一番星|プリマステラ}』に挑戦いたします！"
     },
     {
       "index": 13,
@@ -157,7 +153,7 @@
       "index": 25,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "初星学園で、アイドルとして、\nもっとも長く、もっとも近くで、\n共に研錯してきたあなた。"
+      "text": "初星学園で、アイドルとして、\nもっとも長く、もっとも近くで、\n共に{研鑽|けんさん}してきたあなた。"
     },
     {
       "index": 26,

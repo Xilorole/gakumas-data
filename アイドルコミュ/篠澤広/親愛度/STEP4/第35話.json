@@ -3,9 +3,9 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.526678+00:00",
+  "exported_at": "2026-06-16T07:16:37.865042+00:00",
   "line_count": 83,
-  "needs_review": 2,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
@@ -125,7 +125,7 @@
       "index": 20,
       "type": "dialogue",
       "speaker": "広",
-      "text": "『一番星』になる方法、教えて。"
+      "text": "{『一番星』|プリマステラ}になる方法、教えて。"
     },
     {
       "index": 21,
@@ -197,7 +197,7 @@
       "index": 32,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "手紙ですよ。あなたの元学友からの。"
+      "text": "手紙ですよ。あなたの《《元学友》》からの。"
     },
     {
       "index": 33,
@@ -215,7 +215,7 @@
       "index": 35,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "広さんが読んで、どう思うのか——\nわかりません。でも読んでください。"
+      "text": "広さんが読んで、どう思うのかーー\nわかりません。《《でも読んでください》》。"
     },
     {
       "index": 36,
@@ -338,9 +338,7 @@
     {
       "index": 57,
       "type": "dialogue",
-      "speaker": "＿症",
-      "text": "そうして、いま。",
-      "needs_review": true
+      "text": "そうして、いま。"
     },
     {
       "index": 58,
@@ -365,9 +363,7 @@
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "＿uu半",
-      "text": "あなたを応援して、いいかな？",
-      "needs_review": true
+      "text": "あなたを応援して、いいかな？"
     },
     {
       "index": 63,
@@ -468,7 +464,7 @@
       "index": 79,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ほんとは、ね。『一番星』になって\nから、言うつもりだった。"
+      "text": "ほんとは、ね。{『一番星』|プリマステラ}になって\nから、言うつもりだった。"
     },
     {
       "index": 80,

@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:34.069028+00:00",
+  "exported_at": "2026-06-16T07:16:38.923391+00:00",
   "line_count": 43,
   "needs_review": 0,
   "lines": [
@@ -167,7 +167,7 @@
       "index": 27,
       "type": "dialogue",
       "speaker": "広",
-      "text": "大規模で派手派手なオーディションに\nなりそう。"
+      "text": "《《大規模で派手派手なオーディションに》》\n《《なりそう。》》"
     },
     {
       "index": 28,
@@ -203,7 +203,7 @@
       "index": 33,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ふふふ……ハードな状況。\nプロデューサーの胃は大丈夫？"
+      "text": "ふふふ……ハードな{状況|しちゅえーしょん}。\nプロデューサーの胃は大丈夫？"
     },
     {
       "index": 34,

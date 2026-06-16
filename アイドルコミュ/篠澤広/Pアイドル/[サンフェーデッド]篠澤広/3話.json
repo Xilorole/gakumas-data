@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:34.367399+00:00",
+  "exported_at": "2026-06-16T06:56:14.786327+00:00",
   "line_count": 48,
   "needs_review": 0,
   "lines": [
@@ -34,13 +34,13 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "こんなのサァ、もう！　もう……っ！"
     },
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "結婚の約束だよねぇ～～～～～～♪"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "うわぁ……いいなぁ……"
     },
     {
@@ -184,7 +184,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "まだまだ、た～っくさん、あるもんね！"
     },
     {

@@ -3,14 +3,14 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.597422+00:00",
+  "exported_at": "2026-06-16T07:16:39.084775+00:00",
   "line_count": 71,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "あっ、千奈ちゃん！\n広ちゃんのところ、一緒に行こうよ！"
     },
     {
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "佐芽",
+      "speaker": "佑芽",
       "text": "――……うん。"
     },
     {
@@ -71,7 +71,7 @@
       "index": 11,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "大舞台であんなことを\n言い放った「『一番星』は、\n歴代ではじめてでしょう。"
+      "text": "大舞台であんなことを\n言い放った『{一番星|プリマステラ}』は、\n歴代ではじめてでしょう。"
     },
     {
       "index": 12,
@@ -344,7 +344,7 @@
       "index": 57,
       "type": "dialogue",
       "speaker": "広",
-      "text": "寄跡を封印したわたしに、\nつとまるのかな、『一番星』。"
+      "text": "奇跡を封印したわたしに、\nつとまるのかな、『{一番星|プリマステラ}』。"
     },
     {
       "index": 58,
@@ -374,7 +374,7 @@
       "index": 62,
       "type": "dialogue",
       "speaker": "広",
-      "text": "プロデューサー。\n『一番星』になった、から。"
+      "text": "プロデューサー。\n{『一番星』|プリマステラ}になった、から。"
     },
     {
       "index": 63,

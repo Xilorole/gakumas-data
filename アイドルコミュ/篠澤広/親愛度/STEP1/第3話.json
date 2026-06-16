@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:32.397913+00:00",
+  "exported_at": "2026-06-16T07:16:39.884645+00:00",
   "line_count": 82,
   "needs_review": 0,
   "lines": [
@@ -233,7 +233,7 @@
       "index": 38,
       "type": "dialogue",
       "speaker": "広",
-      "text": "佑芽のおかげで、週課は達成できた。"
+      "text": "佑芽のおかげで、{週課|うぃーくりーみっしょん}は達成できた。"
     },
     {
       "index": 39,

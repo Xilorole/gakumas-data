@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.111380+00:00",
+  "exported_at": "2026-06-16T07:16:40.008292+00:00",
   "line_count": 65,
   "needs_review": 0,
   "lines": [
@@ -53,7 +53,7 @@
       "index": 8,
       "type": "dialogue",
       "speaker": "広",
-      "text": "うん、これで5月の月課を達成。\n……ふぅ。"
+      "text": "うん、これで5月の{月課|まんすりーみっしょん}を達成。\n……ふぅ。"
     },
     {
       "index": 9,

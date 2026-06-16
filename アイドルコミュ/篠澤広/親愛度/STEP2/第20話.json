@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.003560+00:00",
+  "exported_at": "2026-06-16T07:16:39.409181+00:00",
   "line_count": 72,
   "needs_review": 0,
   "lines": [
@@ -245,7 +245,7 @@
       "index": 40,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "広さんも、我々も……そんなことは\n気にしなくていいんです。"
+      "text": "広さんも、我々も……《《そんなこと》》は\n気にしなくていいんです。"
     },
     {
       "index": 41,

@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.704822+00:00",
+  "exported_at": "2026-06-16T07:16:38.332367+00:00",
   "line_count": 48,
   "needs_review": 0,
   "lines": [
@@ -179,7 +179,7 @@
       "index": 29,
       "type": "dialogue",
       "speaker": "広",
-      "text": "わたしの好きなところ、\nこんなふうに言ってた。"
+      "text": "《《わたしの好きなところ》》、\nこんなふうに言ってた。"
     },
     {
       "index": 30,
@@ -257,7 +257,7 @@
       "index": 42,
       "type": "dialogue",
       "speaker": "広",
-      "text": "よくわからないのが………わたしの魅力？"
+      "text": "よくわからないのが……わたしの魅力？"
     },
     {
       "index": 43,

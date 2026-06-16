@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:34.106357+00:00",
+  "exported_at": "2026-06-16T07:16:38.884624+00:00",
   "line_count": 31,
   "needs_review": 0,
   "lines": [
@@ -11,7 +11,7 @@
       "index": 1,
       "type": "dialogue",
       "speaker": "星南",
-      "text": "というわけで。"
+      "text": "と、いうわけで。"
     },
     {
       "index": 2,
