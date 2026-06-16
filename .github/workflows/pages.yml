@@ -1,0 +1,67 @@
+name: Deploy viewer to GitHub Pages
+
+# main への push でビューアをビルドし、データ JSON を同梱して Pages に公開する。
+# リポジトリ Settings → Pages の Source を「GitHub Actions」にしておくこと。
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: viewer/package-lock.json
+
+      - name: Install deps
+        working-directory: viewer
+        run: npm ci
+
+      - name: Build SPA
+        working-directory: viewer
+        run: npm run build
+
+      - name: Bundle data into dist
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp index.json viewer/dist/
+          # ルート直下のデータディレクトリだけを同梱（ツール系は除外）
+          for d in */ ; do
+            case "$d" in
+              viewer/|scripts/|node_modules/|.git/|.github/) continue ;;
+            esac
+            cp -R "$d" viewer/dist/
+          done
+          touch viewer/dist/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: viewer/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,15 @@
+.badge {
+  flex: none;
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--review-bg);
+  color: var(--review);
+  white-space: nowrap;
+}
+
+.onAccent {
+  background: rgba(255, 255, 255, 0.25);
+  color: #fff;
+}

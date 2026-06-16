@@ -92,20 +92,58 @@ export 時に `scripts/build_manifest.py` が自動で走り、`index.json`（�
 python scripts/build_manifest.py     # 全 JSON を走査して index.json を再生成
 ```
 
-## ビューア（GitHub Pages）
+## ビューア（React + Vite SPA / GitHub Pages）
 
-`docs/` に依存ゼロ・ビルド不要の静的ビューアを置く。`index.json` を読んでコミュ一覧を作り、
-話を選ぶと該当 JSON を取得して台詞を表示する。
+`viewer/` が **React + Vite + TypeScript** の SPA。`index.json` を読んでコミュ一覧（折りたたみ
+ツリー）を作り、話を選ぶと該当 JSON を取得して台詞を表示する。傍点（`《《…》》`）とルビ
+（`{漢字|よみ}`）もレンダリングする。**Storybook** でコンポーネント単位の調整ができる。
 
-- **公開元は `main` ブランチの「root」**（`/docs` 配信ではない）。データ JSON はリポジトリ
-  ルート配下にあり、`/docs` 配信だと配れないため。ビューアは `…github.io/gakumas-data/docs/`。
-- GitHub Action は不要。データもビューアも同じ `main` に push 済み。Settings → Pages で
-  Source を `main` / `/ (root)` に設定するだけ。
-- ローカル確認: `python -m http.server` をリポジトリルートで起動し、`/docs/` を開く。
+### デプロイの仕組み（重要）
+
+データ JSON はリポジトリルート（`アイドルコミュ/…`）にあり、SPA は `viewer/dist` にビルド
+される。この両方を配るため、**Pages の公開元は「GitHub Actions」**にする。`.github/workflows/
+pages.yml` が ① `viewer` をビルド → ② データ JSON を `dist` に同梱 → ③ Pages にデプロイする。
+
+> ⚠️ 一度だけ手動設定が必要: リポジトリ **Settings → Pages → Build and deployment →
+> Source = 「GitHub Actions」** に切り替える（旧来の `main` / `root` から変更）。
+
+- `main` への push でワークフローが走り、`…github.io/gakumas-data/` に**直接ビューアが開く**
+  （README は出ない）。SPA の `base` は `/gakumas-data/`。
+- ルーティングは **URL ハッシュ**（例 `#%E3%82%A2%E3%82%A4...`）。共有・ブックマーク・
+  リロードに耐える（SPA の 404 問題が起きない）。ライト/ダーク・絞り込み検索つき。
+
+### ローカル開発
+
+```bash
+cd viewer
+npm install
+npm run dev          # 開発サーバ。データ JSON はルートから自動配信（vite.config の橋渡し）
+npm run build        # 本番ビルド（型チェック + vite build → dist）
+npm run test         # 純ロジックの単体テスト（vitest）
+npm run storybook    # コンポーネントカタログ（http://localhost:6006）
+```
+
+### 構成（クリーンアーキテクチャ）
+
+DOM 非依存の純ロジック（`lib/`）と、描画コンポーネント（`components/`）を分離。状態は
+React フック（`hooks/`）に閉じ込め、テーマ等はトークン CSS で切り替える。
 
 ```
-docs/
-├── index.html   骨組み（CSS は後回し、class のみ）
-└── app.js       index.json と各 JSON を fetch して描画（依存なし）
-index.json       全 transcript の軽量メタ索引（自動生成）
+viewer/
+├── index.html
+├── vite.config.ts          base / dev データ橋渡し / vitest 設定
+├── .storybook/             Storybook 設定（テーマ切替デコレータつき）
+└── src/
+    ├── main.tsx  App.tsx   エントリ / 合成ルート
+    ├── types.ts            ドメイン型（Manifest / Transcript / Line）
+    ├── lib/                純関数: richtext(傍点/ルビ) · tree(階層化/絞り込み) · speaker · api
+    ├── hooks/              useManifest · useTranscript · useHashSelection · useTheme
+    └── components/         RichText · LineView · Tree · Sidebar · Header · Transcript
+                            （各 .tsx + .module.css + .stories.tsx）
+```
+
+データの索引 `index.json` はルートに置き、`scripts/build_manifest.py` が生成する（不変）。
+```
+index.json               全 transcript の軽量メタ索引（自動生成）
+scripts/build_manifest.py  index.json を再生成
 ```

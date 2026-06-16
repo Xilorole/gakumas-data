@@ -17,8 +17,9 @@ import json
 import sys
 from pathlib import Path
 
-# マニフェスト自身と、ビューア配下は走査対象から外す。
-_EXCLUDE_DIRS = {"docs", "scripts", ".git"}
+# マニフェスト自身と、ビューア(viewer)・補助スクリプト・CI 設定は走査対象から外す。
+# docs/assets は旧構成の名残。残しても無害。
+_EXCLUDE_DIRS = {"viewer", ".github", "assets", "docs", "scripts", "node_modules", ".git"}
 _MANIFEST_NAME = "index.json"
 
 # マニフェストに載せる軽量メタ（本文 lines は載せない）。
@@ -65,9 +66,7 @@ def main(argv: list[str]) -> int:
     root = Path(argv[1]).resolve() if len(argv) > 1 else Path(__file__).resolve().parent.parent
     entries = build_manifest(root)
     out = root / _MANIFEST_NAME
-    out.write_text(
-        json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-    )
+    out.write_text(json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"manifest: {out} ({len(entries)} entries)")
     return 0
 

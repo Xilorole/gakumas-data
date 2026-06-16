@@ -1,0 +1,21 @@
+/* 傍点（《《…》》）— 各文字の上に黒丸（ゲーム準拠） */
+.bouten {
+  text-emphasis: filled dot;
+  -webkit-text-emphasis: filled dot;
+  text-emphasis-position: over right;
+  -webkit-text-emphasis-position: over right;
+  /* 点が上の行に被らないよう余白を確保 */
+  padding-top: 0.2em;
+}
+
+/* ルビ（{漢字|よみ}） */
+.ruby {
+  ruby-position: over;
+}
+.rt {
+  font-size: 0.55em;
+  font-weight: 600;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+  user-select: none;
+}

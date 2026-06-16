@@ -1,0 +1,92 @@
+/* デザイントークン。ライト基準 + ダーク（OS 設定 / data-theme 手動）で上書き。 */
+
+:root {
+  color-scheme: light dark;
+
+  /* アクセント（水色） */
+  --accent: #1098ad;
+  --accent-soft: #0c8599;
+  --accent-bg: #e3fafc;
+  --accent-ring: rgba(34, 184, 207, 0.35);
+
+  /* 面・文字 */
+  --bg-grad-a: #eef6f9;
+  --bg-grad-b: #f6f9fb;
+  --surface: #ffffff;
+  --surface-2: #f1f5f8;
+  --border: #e2e8ef;
+  --text: #1c2733;
+  --text-muted: #67788a;
+  --shadow: 0 1px 2px rgba(20, 40, 60, 0.05), 0 8px 24px rgba(20, 40, 60, 0.06);
+  --shadow-soft: 0 1px 3px rgba(20, 40, 60, 0.06);
+
+  /* 種別 */
+  --choice-bg: #fff4e6;
+  --choice-border: #ffd8a8;
+  --choice-text: #b8741b;
+  --review: #f08c00;
+  --review-bg: #fff9db;
+
+  --radius: 14px;
+  --radius-sm: 9px;
+  --header-h: 64px;
+  --sidebar-w: 320px;
+  --maxw: 820px;
+
+  --font: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP",
+    "Yu Gothic", Meiryo, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* ダーク用トークン（mixin 代わりにカスタムプロパティだけ差し替える） */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --accent: #3bc9db;
+    --accent-soft: #66d9e8;
+    --accent-bg: #0b2b33;
+    --accent-ring: rgba(59, 201, 219, 0.35);
+
+    --bg-grad-a: #101b24;
+    --bg-grad-b: #0e151c;
+    --surface: #18222c;
+    --surface-2: #1f2b37;
+    --border: #2a3743;
+    --text: #e6edf3;
+    --text-muted: #93a4b5;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 10px 30px rgba(0, 0, 0, 0.35);
+    --shadow-soft: 0 1px 3px rgba(0, 0, 0, 0.3);
+
+    --choice-bg: #2a2417;
+    --choice-border: #4d3d1c;
+    --choice-text: #ffc078;
+    --review: #ffc078;
+    --review-bg: #2a2614;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --accent: #3bc9db;
+  --accent-soft: #66d9e8;
+  --accent-bg: #0b2b33;
+  --accent-ring: rgba(59, 201, 219, 0.35);
+
+  --bg-grad-a: #101b24;
+  --bg-grad-b: #0e151c;
+  --surface: #18222c;
+  --surface-2: #1f2b37;
+  --border: #2a3743;
+  --text: #e6edf3;
+  --text-muted: #93a4b5;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 10px 30px rgba(0, 0, 0, 0.35);
+  --shadow-soft: 0 1px 3px rgba(0, 0, 0, 0.3);
+
+  --choice-bg: #2a2417;
+  --choice-border: #4d3d1c;
+  --choice-text: #ffc078;
+  --review: #ffc078;
+  --review-bg: #2a2614;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+}

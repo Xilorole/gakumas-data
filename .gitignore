@@ -1,0 +1,6 @@
+# React + Vite ビューアの生成物
+viewer/node_modules/
+viewer/dist/
+viewer/storybook-static/
+
+.DS_Store
