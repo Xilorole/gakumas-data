@@ -1,0 +1,244 @@
+{
+  "session": "hiro_19",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:08:31.136384+00:00",
+  "line_count": 39,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーー…………………"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ…………勝った。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "褒めて。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ずっと見守ってきたのに……\n気の利いた褒め言葉が出てきません。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "オーディションの直前に、\n言おうとしてた褒め言葉は？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ぜんぶ……吹き飛んでしまいましたよ。"
+    },
+    {
+      "index": 7,
+      "type": "choice",
+      "text": "可愛いアイドルに\n……なりましたね"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……覚えててくれたんだ。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゅうぶん。その言葉だけでいい……\nその言葉だけがいい。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あの、ね。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーに……大切な報告と、\nお願いがある。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "聞いてくれる？"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん。なんでも言ってください。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゃあ、えっと……"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "会場に、パパとママがきてる。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……えっ。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一緒に……会ってくれる？"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんっ！"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃん！　……あっ。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "……お政魔してしまいましたか？"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……力尽きて、眠ってしまったんです。\n……激闘でしたね。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "はい……とても。……くやしくて。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "だけど、どうしてもお祝いをしたくて。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "次の機会に、しておきますわ。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "プロデューサーさん……広ちゃんから\n聞いてたのと、雰囲気が違いますね。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "どんなふうに言われているのか……\n……聞くのが怖いのですが。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "いまにも見限ってきそうな冷たい目。\n鬼みたいで、悪魔みたいで……"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "……そういうところが、好き。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……誤解です。半分ほどは。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ああぁ〜〜〜〜！\n聞いてたとおりの目になった〜〜〜！"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "は、花海さん！\n篠澤さんが起きちゃいますわ！"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "おっと危ない。じゃ、あたしたちは\nこれで失礼しまっす！"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんに伝えておいてください！"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "次こそは、負けませんわ！　――と。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "気が付きましたか？"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "途中から……聴こえてた、よ。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ライバルに、恵まれましたね。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……はじめてできた……"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "最高の友達。"
+    }
+  ]
+}

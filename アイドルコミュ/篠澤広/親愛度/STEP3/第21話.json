@@ -1,0 +1,423 @@
+{
+  "session": "hiro_21",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:39.369147+00:00",
+  "line_count": 69,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さん、\nミーティングをはじめましょう。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "text": "……………………………………………"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……なんですか、その不満そうな顔は。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "篠澤さんじゃなくて、広。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "広、って、呼んで。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……広さん。\nミーティングをはじめますよ。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うんっ。ふふ……プロデューサーの、\nその顔、すき。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まずは現状の共有からです。\nしのさ……広さん、お願いします。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは『NEXT　IDOL　AUDITION』で\n優勝した。そして……"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーと婚約した。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "してません。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "同じくらい、大事な話をした。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたのプロデューサーは、\nこう言ったんです。"
+    },
+    {
+      "index": 14,
+      "type": "choice",
+      "text": "トップアイドルに\nなってください"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……趣味のまま、\n夢を見たっていいでしょう、って。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの才能を否定しながら、\n面白そうなことを言ったね。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "返事は、いまも変わりませんか？"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もちろん。わたしもあなたと、\n同じ夢を見る。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もう、決めたから。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まったく……\n本当に、どうしようもない。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、嬉しそうに呆れてる。器用だね、\nプロデューサー。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、学園一のアイドルを目指す。\n{『一番星』|プリマステラ}を、目指す。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけどそれは、夢じゃない。\nあくまで中間目標。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "何度聞いても、\n身の程知らずな台詞ですね。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちらちっちっち……\nこの学園に入学してから、"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが身の程知らずじゃなかった\n瞬間なんて、ない、よ。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなわたしでも、アイドルだから。\n言えないことはある。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "言ってはならないことがある。だから、"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "この新しい夢を、あなたの前で、\nはっきり口にできるのは……だいぶ後。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "{『一番星』|プリマステラ}篠澤広に、こうご期待。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はぁ……はぁ……はぁ……"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "お疲れさまでした、広さん。\n体力測定の結果ですが……なんと。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "中学1年生の平均値にかろうじて、\nタッチしています。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おぉ……ものすごい成長。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "素晴らしい進歩です。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "アイドルとしては、\n依然として最低に近い数値ですが。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……上げてから落とされた。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "落としてなどいませんよ。\nあなたは、その――"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "アイドルとして最低の数値を持つ\n肉体で『N.I.A』を制したのですから。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "褒めているのかけなしているのか、\n判断が難しい、ね。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "両方ですよ。この会話は、\n現状共有の続きですから。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それなら……篠澤広の肉体について。\n現時点での結論は？"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "儚く華奢で……神秘的な印象は\nそのままに、とても健康になった。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "出逢った頃よりもずっと、\n可愛く綺麗になりましたよ。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーは……\n担当アイドルを褒めるとき、"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちっとも照れなくて、ずるい。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いいですか広さん。あなたのその――\nトップアイドルに勝る神秘的な外見。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "アイドルとして最低の数値を持つ肉体。\nこのふたつに、"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "一般アイドルレベルのパフォーマンスを\n身につけたのが、現在の篠澤広です。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサー。よっぽど……\nわたしの顔、好きなんだね。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広は、いまや信仰を集める\n{偶像|アイドル}に相応しい《《神格》》を備えています。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そう、ひとことで言うならば――"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "雰囲気トップアイドルです。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ーーーーーーーーーーーーーーーーーー"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "雰囲気……トップアイドル……\nこれはひどい悪口。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "我々にとって現在の目標は、\n冬の『H.I.F』での優勝ですが。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "広さんが「{一番星|プリマステラ}」になれる可能性は、\nいまのところ0パーセントです。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……正確な見立て。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『H.I.F』は競技性の高い大会。\n『N.I.A』とは状況が違いすぎる。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まったく勝ち目がない、ね。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ですから『H.I.F{選抜試験|セレクション}』までに――"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広の勝率を1パーセントにまで\n引き上げましょう！"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "素敵な結論。ちゃんとわかってる、よ。\n1パーセントにもできそうにないって。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "とても厳しい戦いです。弱小チームが、\n甲子園優勝を目指すほどの。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あの、ね。いまのわたしを見たら、\n去年のわたしは、びっくりすると思う。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "奇跡を起こしたんだね、って、\n楽しそうだね、って、笑うと思う。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……わたしたちの夢を\n叶えるには、たくさんの……"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "たくさんの奇跡が必要。だから、ね。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "さっそく……\n何度目かの奇跡を、起こしにいこ。"
+    }
+  ]
+}

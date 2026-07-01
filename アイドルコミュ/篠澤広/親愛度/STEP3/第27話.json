@@ -1,0 +1,412 @@
+{
+  "session": "hiro_27",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:39.126036+00:00",
+  "line_count": 67,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "べた一。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "………………………………………………"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ。べた一。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……………………離れてくれませんか。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だめ。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "――どうぞ。入っていいよ。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "失礼いたしまーー……はわぁ！？"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "おおおお、お邪魔してしまった\nでしょうか！？"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "誤解です倉本さん！？"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "お邪魔じゃない。ようこそ、千奈。\nわたしたちの……愛の巣へ。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "本気でやめてくれます？"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんな目でにらんでもだめ。\n今日のプロデューサーに拒否権はない。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "……あの、おふたりは……なにを？"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "text": "罰ゲーム、あーんど、ご褒美。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "昨日ね、わたし、プロデューサーに\nひどいことをされた、から。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ふぇえぇっ！？"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんに過酷な課題を\n与えたという意味です。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "課題をクリアしたご褒美と、\nひどい課題を出した罰ゲーム。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "両方、一緒に、やってるところ。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。千奈の前だからって、\nまた篠澤さんって呼んだ。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ふぁぁ〜……やっぱりわたくし、\nお邪魔なのでは……"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなことはない。\nぜひ、そこで見ていてほしい。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈に自慢しながら、千奈の話を聞く。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "どきどきして落ち着きませんわ……\nええと……その………………"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんのライブ、\nわたくしも観ましたの。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "とっても素敵でしたわ。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈、観にきてくれたんだ……\nシークレットライブだったのに。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "うふふ……プロデューサーに、\nこっそりお誘いいただきまして。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "あの優勝ライブから間もないのに、\nさらに成長されましたのね。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "それでこそ、\nわたくしのライバルですわ！"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……千奈こそ。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いま、《《すごいこと》》をやってる。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "テレビでも、インターネットでも、\n千奈の顔を見ない日は、ない。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もう……星南より有名になってるかも？"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "そんな！　恐れ多いですわ……！\nわたくしなんて――"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "──と、いままでのわたくしなら、\nそう言っていたのでしょうね。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "星南お姉さまよりも、有名に。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "なりましたわ！！"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "そのくらいじゃありませんと……\n『{一番星|プリマステラ}』にはなれませんもの！"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈の目標……"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "はいっ、わたくし僭越ながら――"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "学園一のアイドルを\n目指しておりますわ！"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "いかがでしょう。篠澤さんもご一緒に。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしも千奈も、無謀な挑戦、だね。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "そうですわねー………\nうふふ、ほんとうに。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ですけれど、やるのでしょう？\nだからこそ、やるのでしょう？"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんのことは、お見通しですわっ♪"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。プロデューサーと約束した、し。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ここにはいない、\nわたくしたちの親友が……"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "夏の『H.I.F』で歌うところ……\n見せられちゃった、から、ね。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "はいっ！　挑みもしないうちから\n諦めるなんて、"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "できなくなっちゃいましたわ。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーに太鼓判を\n押してもらった。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが{『一番星』|プリマステラ}になれる確率は……\nなんと2パーセントもある。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ふっふっふ……"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "わたくしも、星南お姉さまに\n太鼓判を押していただきましたわ。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "わたくしが『{一番星|プリマステラ}』に\nなれる確率は…………なんと……"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "1.5パーセントもあると！"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "負けてますわぁ～～～～～～～～！！"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "これから巻き返しますけれどもっ！"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしだって……もっと、もっと、\n成長する。奇跡を起こす。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "初星学園の落ちこぼれトリオ。\n補習組と呼ばれた我ら。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまこそ共に。苦しくて楽しい……"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "無謀な挑戦のはじまりですわ～～～♪"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈……わたしの、はじめての友達。"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一緒に星を目指す……\nはじめての、ライバル。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたには、負けないよ！"
+    }
+  ]
+}

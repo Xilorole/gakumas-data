@@ -1,0 +1,225 @@
+{
+  "session": "hiro_happymille_1",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.849259+00:00",
+  "line_count": 36,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "text": "プロデューサー、プロデューサー。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "料理を教えてほしい。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "構いませんよ。\nどんな料理を作りたいんです？"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今日のプロデューサーは、\n話が早すぎる。いつもなら……"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "――唐突ですね。\n今日はなにを企んでいるんですか？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "とかいう。さめたまなざしで。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "毎回毎回……結局、要望を聞くことに\nなるので、無駄な会話を省いたんです。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……それはいけない。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もうちょっと担当アイドルとの会話を\n長く楽しんだ方がいい、よ。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ふー…………唐突ですね。\n今日はなにを企んでいるんです？"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "…………ふふ。それは言えない。\nなにも間かずに料理を教えて欲しい。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "text": "……………………………………………………………………………………"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーは……\n眉間のしわも、素敵。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それで……\nどんな料理を作りたいんです？"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "んー……えっと、ね。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『わたしが本当に作りたいもの』を、\n教えるわけにはいかない。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけど、料理が下手なのは改善したい。\nいっこくも早く。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "なんとかしてほしい。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……事情はわかりました。\nなら、色々作ってみましょうか。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やみくもに色々作れば……\n『本当に作りたいもの』が不明でも……"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "当たるかもしれない？\n近い調理方法を、学べるかも？"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それもありますし………\nあなたには、全体的に……"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "料理の腕を上げてほしいんです。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの手料理が……食べたいから？"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "調理実習が壊滅的だからです。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……しってたんだ。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "当然、把握していましたよ。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "補習の補習などという単語は、\nはじめて聞きました。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あれは……いい思い出。\n楽しかった、な。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あやうくアイドル活動に\n制限がかかるところでした。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、ぎりぎりセーフだった。\n人生こうでありたい、ね。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデューサーの骨は、\nぎりぎりアウトになりそうです。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "通常の授業でつまずいてしまっては、\n趣味どころではありませんよ。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それはそう。　おっしゃるとおり。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー雷わただたじE…\n本気で料理を習得する、から。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "よろしく、ね。"
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "session": "hiro_23",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:39.287824+00:00",
+  "line_count": 79,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "こんにちは、広。\n『N.I.A』優勝、おめでとう。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ありがとう。星南も、\n夏の『H.I.F』優勝、おめでとう。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……すごくうれしそう。\n優勝以外に、なにかあった？"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "『H.I.F』本戦で――生意気な後輩に、\nお手本を見せてもらったの。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "どんな壁だって壊せるんだって……\nそう教わった。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "やれやれ……まったく。\n大幅に予定が変わってしまったわ。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "今日の星南、いつもより素敵に見える。\n事情、わからないけど。よかった、ね。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "フ……ええ……本当に。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "こほん、それで――……\n私に用があったのではないの？"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、\n『{一番星|プリマステラ}』を目指すことにした。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "text": "次の『H.I.F』で、星南を倒す。\n千奈と佑芽も、やっつける。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "そう、嬉しいわ。\n宣戦布告をしにきたの？　律儀ね。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南はプロデューサーとして、\n千奈たちを育ててる。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしにも、\nアドバイスがほしい。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "もちろん構わないわ。後進の育成は、\n十王星南の責務だもの。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "有効なアドバイスができると思う。\nただ……その上で、一言だけ。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "私は、誰にも負けはしない。\nかかっていらっしゃい、広。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、やってみる。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どうして場所を変えたの？"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "大切な会話を屋上でするのって、\nかっこいいでしょう？"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "広。あなたが次の『H.I.F』までに\nやっておくべきこと、その1は……"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "歌唱力の強化よ。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『H.I.F』では、\nステージでのパフォーマンスを、"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "“Vocal”“Dance”“Visual”の\n3項目で評価する。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まんべんなく伸ばすと勝てない。\n飛び抜けた長所がなければ勝てない。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "時間がないから、\nひとつにしぼって伸ばす。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……って、こと？"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ええ。私があなたの\nプロデューサーなら、そうする。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どうして歌唱力？"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "あなたの{潜在能力|ポテンシャル}について\n触れるけれど、構わないかしら？"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "篠澤広の{潜在能力|ポテンシャル}は、“Vocal”が\nもっとも高く、伸びやすいから。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "『H.I.F』までに鍛えるのなら、\n歌唱力がオススメよ。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "納得した。ありがとう、\nとても有益なアドバイス。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "どういたしまして。私の特技、\n信じてくれない子もいるのだけれど。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "広、あなたは頼ってくれるのね。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーやトレーナーとも、\nたくさん相談した。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "星南と似た結論に達した。でも、"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "“Dance”と“Vocal”、どちらを\n優先して伸ばすか……迷ってた。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの能力はどれも高くない。\n判断が難しい。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "第三者の意見は、とても有用。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "たとえそれが、\nオカルトっぽい根拠であっても。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "オカルト………………ふ、ふっ。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ロジカルに詰めて、最後の一押しは\n……神頼み、というところかしら？"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、わたしが願うのは、\n神さまじゃなくて。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一番星に、だよ。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ー一そう。なら、私は、\nあなたの力にならなければね。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "もう1つ、アドバイスを\nしたいのだけれど。その前に……"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ちょっと見ていてくれるかしら。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "はああああああ……！\nハアアアアアアア………！！"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……とつぜん、なにやってるの？"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "以前、あなたが見せてくれた\nアイドルパワーのコントロールよ！"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "練習してもできないのだけれど、\nやり方を教えてくれないかしら！？"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おじいちゃんに聞けばいいのに。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "もちろん聞いたわ。学園長室で、\nいまのを実演しながらね。そうしたら、"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "ブハハハハハハハハハハハハハハハ！！\nファハハハハハゲホッゲホッ……！"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "急に笑わせるんじゃない！？\n死んだらどうする……！"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "学園長……！　私は本気なんです！\n真面目に相談に乗ってください！"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "おぬしのアイドルとしての魅力じゃろ？\nホレ、しっかり《《上がっとる》》じゃないか。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "上がっていません！"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "上がっとるのにぃ～～～。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "まったく話にならなかったのよ。\nだからあなたに聞いているのだけど……"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ごめん、わかんない。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "……っ！　そう……"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でもね……星南のこと、\nもっと好きになった、よ。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ。あなたの魅力、\n上がってるの、かも。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ハァ……なら、一緒に悩んで頂戴。\n広、あなたへの最後のアドバイスは――"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "数値では表せない、\nアイドルとしての力を鍛えることよ。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "スター性、カリスマ、オーラ……\n様々な名で呼ばれているそれ。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "『H.I.F』で私を追い詰めた、\nわけのわからない、咲季の底力。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "ファンを問答無用で魅了する、\nトップアイドルが備える固有の《《なにか》》。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "『N.I.A』の優勝ライブを観て、\n気付いたの。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "篠澤広がステージで纏う『神格』も\nまた、それなのだと。"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "未熟なあなたが、この私に勝とう\nというのなら……方法はたった1つ。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "{偶像|アイドル}としての『神格』を上げて、\n奇跡を起こしなさい！"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "神格を上げる……\nって、どうやればいい？"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "フフフ！\nそれがわかれば苦労していないわ！"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "むしろ私は、こう願っているのよー一"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "星南",
+      "text": "あなたが私に、お手本を見せて\nくれないかしら……と、ね。"
+    }
+  ]
+}

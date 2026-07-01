@@ -1,0 +1,435 @@
+{
+  "session": "hiro_01",
+  "title": "篠澤広 第1話",
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:40.207421+00:00",
+  "line_count": 71,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ユニークな経歴だ。彼女の担当プロ\nデューサーはきっと苦労するだろう。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "（……女生徒がふらふらと歩いてくる）"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あの、大丈夫ですか？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "text": "……………………………………"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "………………………………きゅう。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ん……んん……………"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "目が覚めましたか？"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……どこ？"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "保健室です。覚えていませんか？\nあなたは急に倒れて――"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "覚えてる。運んでくれたの？"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ありがとう。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "どういたしまして。どうか、\nベッドに戻って休んでください。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ほどなく保健医が戻ってくるはずです。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたは……"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーの人？"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデューサー科1年、\nろんしろと申します。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、{篠澤|しのさわ}……{広|ひろ}。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はじめまして。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "こちらこそ。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "text": "…………………………………………"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えっと。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしをプロデュースしてほしい。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "きゅ、急ですね。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……なんで？"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたはアイドルに向いていない。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうなんだ。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "（上機嫌になった……？）"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのこと、知ってるの？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "調査済みです。\nあなたは有名ですからね。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうなの？"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "14歳で大学を卒業した天才少女。\n日本有数の頭脳を持つ神童。そして、"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "入学試験の実技で、初星学園\n始まって以来の点数を叩き出した者。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……照れる。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "実技が0点なのに、\nよく入学できましたね。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "筆記が満点だったから？"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それでも本来ならば\n不合格になるはずです。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "アイドルが務まるとは、とても……"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "面接のとき、へんなおじいちゃんが。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "見込みがある！　この学園で\nトップアイドルを目指すがよい！"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "――って。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……そんなバカな。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "（学園長にはなにが\n見えているんだ……？）"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "つめたい目。わたしをすごく\n低評価しているのがわかるよ。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おじいちゃんじゃなくて、\nあなたが正しいと思う。自信もって。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……あ、ありがとうございます？"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、どういたしまして。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……将来を期待されていたあなたは、\nすべてを投げ打って初星学園に。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なぜ、アイドルになりたいと？"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……いちばんわたしに向いてなさそう\nだから、かな。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちっともわからない、って、顔してる。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ちっともわかりません。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "しばらく一緒にいれば、わかるかも？"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんの事情。\n気にはなりますが……"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデュースをしろという話なら、\n引き受けることはできません。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おためし。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いやになったら、契約解除すればいい。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "どうしてそこまで……"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーになってくれそうな人、\n他にいないから。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしがアイドルになるためには、\nプロデューサーが必要だから。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まだ、わかりにくい？"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いえ……わかりました。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……とりあえず、1ヶ月。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うれしい。"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あのね。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし……アイドルに、\nちっとも向いていないけど。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "本気で、全力で、がんばるよ。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それはきっと、楽しいから。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "流れでプロデュースすることに\nなったが……"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "不安だ。"
+    }
+  ]
+}

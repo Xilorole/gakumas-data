@@ -1,0 +1,358 @@
+{
+  "session": "hiro_28",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:38.157896+00:00",
+  "line_count": 58,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、プロデューサー。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "聞いてほしい。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "聞きましょう。が、その前に……"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "距離が近いので離れてくれませんか？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、照れてる。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "会話がしにくいと言っています。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そんなに冷たい目で見つめられたら……\nさすがに恥ずかしい。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "話を進めましょう。上機嫌な理由は？"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、ため息も素敵。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーも見ていたはす。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "初星学園の落ちこぼれトリオ。\n補習組と呼ばれた我ら。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いまこそ共に。苦しくて楽しい……"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "無謀な挑戦のはじまりですわ〜〜〜♪"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わた"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは千奈と約束した。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一緒に星を目指す……\nはじめての、ライバル。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたには、負けないよ！"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "倉本さんとの対決に、\n心躍らせているんですね。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたとも、約束した。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしとあなたの……趣味の先"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの新しい夢を、あなたの前で、\nちゃんと言葉にする。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "{『一番星』|プリマステラ}篠澤広に、こうご期待。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん期待していますよ。なにせ、\nあなたのプロデューサーの見立てでは、"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広の勝機は、2％ほど。\n十分に命を賭けられる数字です。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もう……プロデューサー……"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "リスキーなシチュエーション、\nほんとに好きだね。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "バカなことを……"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "常にリスクを最小にするのが\nプロデュースの定石です。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふーん、じゃあそのギャンブラーっぽい\n危険な言動は、なに？"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広と共に、\n夢を叶えようというんです。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "命くらい賭けねば\n話にならないでしょう。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うわ、目が本気だ。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "愛ゆえの誇張表現だとばかり思ってた。\n広ちゃん、これは想定外……"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "怖いから聞いておく。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルのプロデュースで、\n命を賭けるって……なに？"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今冬の『H.I.F』に、\nプロデューサー生命を賭けます。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが、{『一番星』|プリマステラ}に、\nなれなかったら？"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "我々の夢と、\n楽しい趣味の時間は終わりです。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "…………………………そう、なんだ。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "篠澤広は、窮地に強いアイドル。\nあなたはそう言った。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしを追い込もうとしてる？"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "はい。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そっか。それなら……"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたはきっと、言葉通りにする、ね。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "篠澤広の勝率が少しでも上がるなら、\n夢も趣味も、ぜんぶ賭けてしまう。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしとの、関係さえも。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "嫌ってくれて結構。\nそれが同じ夢を見るということです。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、この……きちく。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "text": "そういうところが……きらい。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でも好き。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いいよ。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "追い詰められてあげる。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "心を、もてあそばれてあげる。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしとあなたが生き延びるために……\n奇跡だって起こしてあげる。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だから、その日が来るまでは……"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "夢への苦しい道のりを、楽しもう、ね。"
+    }
+  ]
+}

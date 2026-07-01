@@ -1,0 +1,268 @@
+{
+  "session": "hiro_michinaru_1",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:38.923391+00:00",
+  "line_count": 43,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "広さん。今回のプロデュースですが……"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『特別なオーディション』に\n参加しようと思います。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おー、わたしが絶対に乗り気になるって\n確信してるときの顔だ。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、楽しみ。どんな内容？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "倉本千奈さんとデュオユニットを組む\nパートナーを決めるというものです。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やる。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まだ話の途中ですよ。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、しっかり聞く。\n先にこれだけ教えて。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わざわざオーディションをするって\nことは……"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "一夜限りのユニット、じゃ、ない？"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "はい。ふたりともソロ活動メイン\nなのは変わりませんが――"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今後も、定期的にユニットライブを\nすることになるはずです。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "じゃあやる。\n千奈のパートナーに立候補する。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "思いのほか、乗り気なんですね。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、ずっと………\nユニットライブ、やりたかった。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "仕事で、ちょっぴりだけ、\nやってみて………‥"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "楽しかった。もっと、\nやってみたい、って、思った。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけど、ソロ活動も好き、だし。\n恒常的なユニットを組むのは……"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの実力が足りなくて、\n相手に迷惑がかかるから、諦めてた。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いまの広さんなら、\nそんなことにはなりませんよ。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……そうかもしれない。いまこそ、\n挑戦するときかもしれない。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサーは、\nわたしの気持ち、わかってる、ね。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "偶然です。そこまでの想いとは、\n見抜けなかった。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、そういうことにしておく。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……乗り気なのは良いとして。\n今回のオーディション、難関ですよ。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "オーディションの主催は倉本グループ。\n千奈のプロデューサーは星南。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "《《大規模で派手派手なオーディションに》》\n《《なりそう。》》"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "勝ち目、あるかな？"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ないって言ってもやるんでしょう？"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "オーディションの内容は、テレビカメラ\nと関係者が勢ぞろいしている前で、"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "スピーチとパフォーマンスを\n披露するというものです。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふふ……ハードな{状況|しちゅえーしょん}。\nプロデューサーの胃は大丈夫？"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ご心配なく、いつものことです。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうだった、ね。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたし、あなたにだけは……\nいくらでも迷惑をかけていい……"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いや……すこしは遠慮してください。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "照れなくてもいいのに。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……ともかく。\n今回のオーディションは、"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広をプロデュースする上で、\n大きなメリットがあります。"
+    },
+    {
+      "index": 41,
+      "type": "choice",
+      "text": "勝ってくださいね\n幸"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……自分の力で、つかむ。\n胸を張って、言いたい。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが千奈のパートナーだ、って。"
+    }
+  ]
+}

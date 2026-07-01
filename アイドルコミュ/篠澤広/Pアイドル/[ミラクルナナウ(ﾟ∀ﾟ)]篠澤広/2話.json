@@ -1,0 +1,297 @@
+{
+  "session": "hiro_miracle_2",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:38.764836+00:00",
+  "line_count": 48,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。これから2組の\nみんなと通話する、から。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちょっと待ってて。\n……ここで見てて、ね。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "わざわざ外で通話せずとも……"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いいから。――あ、つながった。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さん！　わたくしたちの姿、\n見えていらっしゃいますか？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "声、聞こえてる一？"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、ばっちり。\nこっち、見えてる？"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "見えていますよ。\n無事、大阪に到着したようですね。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、プロデューサーに\n色々連れて行ってもらった。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "うわぁー、デート自慢されちゃった！"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "うらやましいですわ〜♪"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "あとで詳細を聞かせてくださいね。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "任せて。いっぱい自慢する。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "（……居心地悪いな）"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうだ。みんなにお土産買った、から。\n楽しみにしてて、ね。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "おぉ〜、アレあった？　あたしが頼んだ\n大阪限定のたこやきテクノドッグ！"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん、おそろいで買った。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "素敵ですわ！\nぜひ、一緒に身につけましょう。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "美鈴に頼まれてたチルド豚まんも、\nちゃんと買った。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "まあ、ありがとうございます。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "text": "……それと。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "みんなのこと、明日のライブで、\n話してもいい？"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "もちろんですわ！"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "なにをいまさら。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "あたしたち、いつもしてるじゃん。\n友達の話！"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……それもそう。\nじゃあ、ファンのひとたちに……"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "テクノドッグ……布教する。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんに宣伝してもらったら、\n大人気グッズになっちゃうかも！"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんの……ファンの皆さまへの\n影響力は、はかりしれませんものね。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……買い占めないように、\nよく言っておかないと。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "ところで……篠澤さん。\n今日は、口数が多いんですね。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "……緊張していますか？"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おお・……\nやっぱり、美鈴には、ばれちゃうね。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "大阪まで遠征して、ライブをする。\nそれが、ね。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いつもとは……違う感触がある。\nままならない……初体験の予感。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うれしいことのはずなのに……\nそれだけじゃない。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちょっぴり、不安。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "……きっと大丈夫です。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "そばで聞いてるプロデューサーさんが、\nきっとなんとかしてくれるよ！"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんのこと、お任せいたします。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……だって。なんとか、してくれる？"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたというひとは……\n毎回毎回、どうしてこう……"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "かわいいやつめ？"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "回りくどいと言っています。\n――通話を終えたら、観光の続きを。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "担当アイドルの不安を消すのは、\nプロデューサーの仕事です。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……うんっ。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "text": "うわぁ～～～～～～～～～～～～♡"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……よろしく、ね。"
+    }
+  ]
+}

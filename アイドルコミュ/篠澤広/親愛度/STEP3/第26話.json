@@ -1,0 +1,480 @@
+{
+  "session": "hiro_26",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:33.211238+00:00",
+  "line_count": 79,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "text": "篠澤広の『神格』を上げる方法。\n狙って奇跡を起こす方法は――"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "我々が共に、\n窮地へと飛び込むことです！"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……ふふふ……プロデューサー。\n今日、いま、ここで。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしたちが、一緒に窮地に\n飛び込むって……なに？"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "広さんのことですから、\nもうわかっているのでは？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まだわからない。予感だけがある。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "きっと、いまだかつてない……\nきちくの所業なんだろうなって。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "フェスのセットリストを見てください。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "最後、owl先輩がもう1曲歌う、ね。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そのひとつ前、シークレットゲストが\nいるでしょう？"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もうわかった。"
+    },
+    {
+      "index": 12,
+      "type": "choice",
+      "text": "…"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "text": "はつみみ……"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、ちょっとキレそう……"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "よかったですね。\nowl先輩の直前ですよ。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まったくよくない……話すだけで、\nわたしがどれだけ緊張したか……"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ライブ前のMCも頼んでおきましたよ。\nドンとハードルが上がるようなやつを。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "お……っふ……"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "さあ、これで絶対に失敗できませんね。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ぐううううううう……………………"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーは………どえす。きちく。\nわたしをいじめて楽しんでる。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "人聞きが悪い……共通の趣味でしょう？\nそれに……あの日、理解しましたから。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "text": "窮地に追い込まれるほどに実力を\n増すのが、篠澤広なのだ、と。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……今日は……\nわたしが無茶ぶりをされる番。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ねえ、プロデューサー。\nここで失敗したら……"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いままでふたりで積み上げてきた\nものが、台無しになっちゃう、ね。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "たくさんの人に迷惑がかかって、\nファンをがっかりさせて……"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "せっかく『N.I.A』で優勝したのに、\nわたしたちの評判は地に落ちる。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "元に戻るだけですよ。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん……だけど、それは……嫌だな。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ライブ、ぜったい、成功させないと。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたにしては良い気迫です。では……"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ここで証明してください。\n十王星南を倒しうる神格を得た、と。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "できるでしょう？\n俺の担当アイドルなら。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふ……ふふ。もちろん……\n……で、でき……る、よ。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "よろしい。\n失望させないでくださいね、広さん。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "はぁ……こんなにプレッシャーを\n感じたのは、はじめて。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "まかせて。死ぬ気で、いってくる。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ただいま、プロデューサー。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "おかえりなさい、広さん。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どう？　大ピンチ、乗り切った、よ。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが星南に勝つ可能性。\n1パーセント、超えた？"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "とんでもない。いまのライブが\nできるなら、もっと、もっと――"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もしかして……\n1.2パーセントくらいいった？"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "2パーセントはありますよ！"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ようやく……命を賭けられる程度の\n数字になりましたね。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おー……"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月並みですが。本当に……\n素晴らしいライブでした。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたは、見事、\n十王星南を倒せるだけの神格を得た。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "owlをはじめとする、実力派アイドルが\n集うフェスで、実力を示した。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "これでまた、篠澤広に魅了された\nファンが大きく増える。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……今度はわたしが、\n無茶ぶりをする番。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『篠澤広』と『わたし』のズレを、\nどうするつもりなのか、教えて。"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いま、すぐ、ここで。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "（……困った顔、してくれる、かな？）"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "アイドルが陥る希望と適性のズレを、\nP科ではこう呼びます。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『アイドルのジレンマ』と。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あれ……\nもしかして、解決できちゃう？"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "owl先輩は、信頼できる仲間と認め合う\nことで、ズレを許容していた。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーが……\nたくさん、たくさん、褒めてくれる？"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そんなことはしませんよ。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "text": "ぶー……じゃあどうするの？"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "先ほど、おふたりの話を聞いて\nいましたが、owlさんは……"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "詩と歌に強いこだわりがあるようです。\nそれらへの承認欲求も。そんな彼女が、"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『アイドルのジレンマ』を物ともせず、\n現状に満足しているのは――"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "素敵な仲間に認められているから……\n……だけじゃ、ない？　……あっ。"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "先輩のこだわりを褒めてくれる\nファンが、増え続けている、から？"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『変わり者』のファンが、仮に……\n全体の1割しかいなくても。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ファンの総数を増やせば、\n『変わり者』の数は増えていく。"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もっとメジャーになる。\nこれが『アイドルのジレンマ』の解法。\n合ってる？"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "緩和策その1です。すべての\nケースに適用できるわけではない。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのケースには？"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そもそも、あなたを『可愛い』と思って\nいるファンは、たくさんいますよ。"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "美しすぎるがゆえに、可愛いという\n意見が目立たないだけです。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ほんとに？　わたし……みんなから、\nかわいいアイドルだって、思われてる？"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん。疑うのなら、もっともっと\n可愛らしい曲も歌いましょう。"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "世界中が、女神のような篠澤広を、\n愛らしいと讃えるように。"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "………………もう。"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そろそろ先輩のライブ、はじまるから。\n……手をつないで、一緒に観よ。"
+    }
+  ]
+}

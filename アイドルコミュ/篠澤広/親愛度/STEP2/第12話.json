@@ -1,0 +1,280 @@
+{
+  "session": "hiro_12",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-13T12:22:11.717532+00:00",
+  "line_count": 45,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……どういうこと？"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの『N.I.A』ランキング……\nすごく、すごく上がってる。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いいことです。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それはそう。\nだけど……伸び方が、異常。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー……なにかした？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『N.I.A』対策に加え、篠澤広の\nステップアップのために、"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "幾つかの方策を打ちました。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どんなの？"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ファンクラブの発足とMVの公開です。\n――これを。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……100万再生……ファンクラブの\n人数も……大変なことに……"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……いったいなにが起こっている\nのか……なにもわからない。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どきどき。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それはそれとして、説明もとむ。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広の強みを活かしたMVを\n作成しました。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしに強みなんてあったっけ？"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "美しく、神秘的な外見があります。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーの……好みなだけ。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "多くのファンや視聴者たちも、\nそう言っていますよー一"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……盛ってる？　わたし、こんなに……"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "――綺麗で神秘的なアイドルでしょう？"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……………………そう、見える、かも。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "で……バズりました。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "text": "……そうなんだ。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "こちらの想定をはるかに超えて……\nものすごく……バズりました。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……プロデューサー、も……想定外？"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ファンの皆さんが、その、どう表現して\nいいか迷うほど……積極的な宣伝を。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……\nファンのみんな、変わり者だから。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "短期間のうちにファンアートが大量に\n作られました。――こちらが資料です。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "イラストだけじゃなくて、音楽とか、\nマンガとか、小説まである。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あまりにも無軌道に\n拡散されていくので、"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ファンクラブを中心に、最低限の\n制御を試みました。その結果……"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "どうなったの？"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "アイドル・篠澤広が……\nええと、なんといいますか。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "神格化されつつあります。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちっとも制御できてない。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あくまで『いちアイドルのファン活動』\nに留められたことを褒めてください。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "がんばったね。えらい、すごい。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしを女神って呼ぶの、\nなんとかできない？"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もう無理です。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "無理かー……"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……ファンがたくさん増えて……\nとっても嬉しい。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でも、やっぱり。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしを好きな人たち……\nみんなは、変わり者ばかりだと思う。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そういうところが……好き。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "これからも、よろしく、ね。"
+    }
+  ]
+}

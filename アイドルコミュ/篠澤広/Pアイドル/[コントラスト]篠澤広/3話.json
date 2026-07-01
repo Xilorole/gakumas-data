@@ -1,0 +1,299 @@
+{
+  "session": "hiro_contrast_3",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:38.332367+00:00",
+  "line_count": 48,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー。課題のこと、だけど。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ちょっと見てほしい。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もちろん構いませんよ。……ええと。\nなんでしょうか、この大量の資料は。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのことを好きそうな人たちに……\n聞き取り調査をしてきたの。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしのどんなところが好き？　って。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "この『おじいちゃん』というファイル。\n篠澤さんのお部様ですか？"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "学園長のおじいちゃんのこと。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "がくえ……篠澤さんは……その……\nいつも予想を超えてきますね。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……そこがわたしの魅力らしい。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でもね、みんな、\nばらばらのことを言う。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ユニークなところ。調子が狂うところ。\n穏やかで、底知れなくて、安心する——"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "困っちゃった。わたしの魅力……\n種類ありすぎって、こと？"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広の魅力を言語化する……\n改めて、難しい課題ですね。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もしかして……わたしの魅力、\nプロデューサーもわかってなかった？"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "わかっているつもりですが……\n言葉で説明するのが難しいんです。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "この資料を眺めながら、\n一緒に悩んでみましょうか。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "では、未提出の資料を\n出してください。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……なんのこと？"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤さんなら、きっと……"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "親族や昔の友人知人などにも、\n聞き取りをしているはずです。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……わたしのこと、よくわかってるね。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……でも。女の子の秘密を\n探ろうとするのは、よくないと思う。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広の過去を、アイドル活動に\n使うつもりはないんです。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "知りたいだけです。初星学園入学以前の\n……あなたの魅力を。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……たぶん、参考にはならない、よ？"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "構いません。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わかった。\n昔のわたしを好きな人たちは……"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "《《わたしの好きなところ》》、\nこんなふうに言ってた。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "つめたくて、無機質で、\n人間性が薄くて……"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ミステリアスで、スペシャルで、\nアメイジングで、ユニークなところ。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あなたの一番素敵なところは、\n簡素なデジタル時計のような……"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "機能美です、って、言ってた。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "篠澤広のファンからは、\n決して出てこない意見でしょうね。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だから、アイドルとしての魅力とは、\n関係ないって言ったのに……"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そんなことはありませんよ。\nとても参考になると思います。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そう、かな。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルになる前の、わたしの魅力。\nなった後の、わたしの魅力。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "やっぱり、ばらばらで……\nちょっぴりだけ同じで……"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "よくわからない。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あるいは……それこそが、\n篠澤広の魅力なのかもしれません。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "よくわからないのが……わたしの魅力？"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "無理やり短くまとめるなら、\nそうなります。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もうちょっとがんばって、\n言ってみよう。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "冷たくて、温かくて、無機質で、\n人間らしく、天才にして非才なる者。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "摩詞不思議なアイドルですね、\n篠澤さんは。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……そういうところが好き。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……\nそう思ってもらえたら、いいな。"
+    }
+  ]
+}

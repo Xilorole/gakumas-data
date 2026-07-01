@@ -1,0 +1,203 @@
+{
+  "session": "hiro_garakuta_2",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-16T07:16:39.004139+00:00",
+  "line_count": 32,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、プロデューサー。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "広ちゃんと思い出を語り合う会、しよ。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……突然どうしました？"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "あのね。今日も、千奈と佑芽と……\nプロデューサーの話でもりあがった。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "それで……ん？　なに？"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "話をさえぎってしまって\n申し訳ないのですが。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "広さんとお友達との、\nプロデューサー談議の内容がですね……"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "プロデューサー科に広まっています。\n心当たりがありますね？"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そうなんだ……佑芽の声が大きいから。\nあとでしかっておく。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "お友達のせいにしてはいけません。\nせめて教室ではお話ししないように。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "は一い。これからはちゃんと……\n千奈の部屋で秘密の話、する。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "………………………………………………"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "その顔いいね。しぶい。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "で、なんでしたっけ？"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "広ちゃんと思い出を語り合う会、しよ。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサー、質問。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "篠澤広をプロデュースしていて……\nいちばんどきどきした瞬間は？"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……一番かどうかはわかりませんが。\nすぐに思いつくものだと……"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "バラエティ番組に出演した広さんが、\n打ち合わせを無視して、\n激辛を注文した瞬間ですね。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……思ったのと違う。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "喉をいたわらなければならない\n仕事なのですから……"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "好物を食べるなとは言いませんが、\n相談の上でお願いします。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……当日も、\nまったく同じことを言われた、ね。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしの気持ちを尊重して、\nだけど……心配もして。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "プロデューサーは、いつもしぶい顔で、\nぐらぐらしてくれている。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……そういうところが、すき。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "やはり……一番は、それですね。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……えっ。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたがそれをはじめて口にしたとき。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "とてもどきどきしましたよ。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "…………………ふいうちはずるい。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そういうところは……きらい。"
+    }
+  ]
+}

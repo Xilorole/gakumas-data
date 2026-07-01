@@ -1,0 +1,411 @@
+{
+  "session": "hiro_17",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-06-15T14:06:32.903780+00:00",
+  "line_count": 67,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "それでは――さっそく施設の紹介を\nしていきますわ！"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "うふふ・………\nどんな遊びがあるのでしょう。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "最近、テレビを見るのが楽しい。\n今日も千奈がかわいい。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "可愛いね〜♡　みんなが夢中に\nなっちゃうのもわかるな〜。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "む、難しそうなコースですがっ！\nわたくし！　挑戦してきますわ！"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "ひゃぁあぁぁあ～～～～～～～～！"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしもあんなふうに、アスレチックに\n挑戦する番組に出たい。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "あたし今度出るよ！"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "羨ましい。わたしはプロデューサーが、\nだめっていう。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "素潜りとか、スカイダイビングとか、\n楽しく紹介する自信があるのに。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "だめですよ。死にますよ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ー一っていう。目だけ笑ってない顔で。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんは、プロデューサーさんの\n言うとおりにした方がいいと思うなあ。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "あ、千奈ちゃんのレア写真出た。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "えっすごい………"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "へっへ〜、いいでしょ〜♪"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしは……千奈の同じ写真ばかり\n増えていく。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ、ランダム封入って……\n……罪深い、ね。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "メイド",
+      "text": "ー一お客様。もしよろしければ……\n私のSR千奈お嬢様と、トレードを。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いいの？　わたしが得。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "メイド",
+      "text": "いずれ……新しい倉本千奈ファンに、\n優しくしていただけるなら、ぜひ。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "もちろん。それが……\n古参ファンのつとめ。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "――篠澤さんっ、花海さんっ、\n大変お待たせいたしましたわ。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "あら、3人でなにをー……"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "はあぁっ！？\nそっ、そのグッズはぁ！？"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈の生写真パック、開封の儀。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "交換会してたんだ～。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "星南お姉さまが企画した、恥ずかしい\nグッズではありませんかぁ！"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "恥ずかしくないよ！\nすっごく可愛いよ！"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "第2弾の花海佑芽パックが発売されても\n同じことが言えますのおぉ…ー？"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "えっ……むっ、むむむぅ〜……\nあたしはアリ！　かなっ！"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふたりが羨ましい。\n篠澤広パック……憧れる。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ……プロデューサーに\nお願いしてみよう、かな。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "まあ、おふたりとも……\nグッズ展開に前向きなんですのね。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ところで千奈ちゃん？"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "text": "はい？"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "『N.I.A』ランキング1桁！\n到達おめでと〜〜〜っ！"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ばちばちばちばち……"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "あ、ありがとうございます……うふふ。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "毎日、色んな番組に呼んでいただいて。\nそのおかげですわ。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "会長も言ってたでしょ。\nぜんぶ含めて、千奈ちゃんの実力だよ。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "千奈はかわいい。すごいアイドル。\n自信持って。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "篠澤さんこそ、とっても綺麗ですわ。\nライブもほんとうに素敵で……"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "わたくし、ぼーっとしちゃいますもの。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "……照れる。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ね！＿この調子ならさ！\nこの3人で出られるかも！？"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "ー一『FINALE』に！"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "まぁ……"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "おぉ………"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "わたくしたち……\n落ちこぼれの補習組でしたのに。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "いつの間にか、\n遠いところまできちゃった。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "いつの間にか、じゃ、ないよ。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "一緒にレッスンしてきたこと、\n勉強してきたこと、"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "競い合ってきたこと――\nあたし、ぜんぶ覚えてるもん。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "先に言っておく。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "わたしが勝つ。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "勝って、大きなため息をつく。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "だけど……つまらないから、じゃない。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "アイドルになってからのため息は、\nいままでのとは違う……ときもある。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "そんなの、とっくに知ってますわ。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "広ちゃんが、ふぅ、ってするのは……\nすっごく楽しかったときなんだって。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "佑芽",
+      "text": "達成感で燃え尽きている\n証拠なんだって。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "text": "――させないけどね。"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "千奈",
+      "text": "わたくしだって、負けませんわ。\nなぜなら、わたくしたち3人は――"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "友達で……ライバル。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "一同",
+      "text": "はいっ！"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "『FINALE』で、闘おう、ね。"
+    }
+  ]
+}
