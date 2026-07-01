@@ -10,7 +10,7 @@ const meta = {
 export default meta;
 type Story = StoryObj<typeof meta>;
 
-export const 台詞_広: Story = {
+export const 本文: Story = {
   args: {
     line: {
       index: 1,
@@ -21,7 +21,7 @@ export const 台詞_広: Story = {
   },
 };
 
-export const 台詞_傍点とルビ: Story = {
+export const 傍点とルビ: Story = {
   args: {
     line: {
       index: 2,
@@ -32,25 +32,10 @@ export const 台詞_傍点とルビ: Story = {
   },
 };
 
-export const 台詞_プロデューサー: Story = {
-  args: {
-    line: {
-      index: 3,
-      type: "dialogue",
-      speaker: "プロデューサー",
-      text: "だから……どうしてそうなるんですか。",
-    },
-  },
-};
-
-export const 選択肢: Story = {
-  args: { line: { index: 4, type: "choice", text: "追い詰められてあげる" } },
-};
-
 export const 要確認: Story = {
   args: {
     line: {
-      index: 5,
+      index: 3,
       type: "dialogue",
       speaker: "千奈",
       text: "先に相談してくださいませぇ〜！",

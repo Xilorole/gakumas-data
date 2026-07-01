@@ -1,6 +1,7 @@
 import type { ManifestEntry } from "../../types";
 import type { TranscriptState } from "../../hooks/useTranscript";
-import { LineView } from "../LineView/LineView";
+import { groupLines } from "../../lib/lineGroups";
+import { LineGroup } from "../LineGroup/LineGroup";
 import styles from "./Transcript.module.css";
 
 export interface TranscriptProps {
@@ -60,8 +61,8 @@ export function Transcript({ entry, state }: TranscriptProps) {
       )}
       {state.status === "ready" && state.data && (
         <div className={styles.lines}>
-          {state.data.lines.map((line) => (
-            <LineView key={line.index} line={line} />
+          {groupLines(state.data.lines).map((group, i) => (
+            <LineGroup key={i} group={group} />
           ))}
         </div>
       )}

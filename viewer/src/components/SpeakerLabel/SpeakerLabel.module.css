@@ -1,0 +1,34 @@
+.speaker {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 700;
+  font-size: 0.86rem;
+  /* 明度はライト基準。--spk-hue は呼び出し側が話者ごとに注入 */
+  color: hsl(var(--spk-hue, 187) 62% 42%);
+}
+.speaker::before {
+  content: "";
+  display: inline-block;
+  flex: none;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: hsl(var(--spk-hue, 187) 62% 42%);
+  margin-right: 6px;
+}
+
+/* ダーク時は明度を上げる（OS 設定 / 手動 dark の両方） */
+@media (prefers-color-scheme: dark) {
+  :global(:root:not([data-theme="light"])) .speaker {
+    color: hsl(var(--spk-hue, 187) 70% 68%);
+  }
+  :global(:root:not([data-theme="light"])) .speaker::before {
+    background: hsl(var(--spk-hue, 187) 70% 68%);
+  }
+}
+:global(:root[data-theme="dark"]) .speaker {
+  color: hsl(var(--spk-hue, 187) 70% 68%);
+}
+:global(:root[data-theme="dark"]) .speaker::before {
+  background: hsl(var(--spk-hue, 187) 70% 68%);
+}
