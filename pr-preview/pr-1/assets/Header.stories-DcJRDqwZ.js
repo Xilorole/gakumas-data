@@ -1,0 +1,11 @@
+import{j as t}from"./jsx-runtime-DFAAy_2V.js";import{r as d}from"./index-Bc2G9s8g.js";const g="gd-theme";function k(){return window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}function f(){const e=localStorage.getItem(g);return e==="light"||e==="dark"?e:k()}function j(){const[e,r]=d.useState(f);d.useEffect(()=>{document.documentElement.dataset.theme=e},[e]);const a=d.useCallback(()=>{r(l=>{const o=l==="dark"?"light":"dark";return localStorage.setItem(g,o),o})},[]);return{theme:e,dark:e==="dark",toggle:a}}const b="_header_eoklx_1",N="_inner_eoklx_10",v="_brand_eoklx_20",y="_title_eoklx_26",E="_desc_eoklx_37",T="_tools_eoklx_45",w="_stats_eoklx_50",S="_toggle_eoklx_56",s={header:b,inner:N,brand:v,title:y,desc:E,tools:T,stats:w,toggle:S};function x({total:e,review:r}){const{dark:a,toggle:l}=j(),o=`${e} 話`+(r?` ・ 要確認 ${r}`:"");return t.jsx("header",{className:s.header,children:t.jsxs("div",{className:s.inner,children:[t.jsxs("div",{className:s.brand,children:[t.jsx("h1",{className:s.title,children:"gakumas-data"}),t.jsx("p",{className:s.desc,children:"学マス コミュ文字起こしビューア"})]}),t.jsxs("div",{className:s.tools,children:[e>0&&t.jsx("span",{className:s.stats,children:o}),t.jsx("button",{type:"button",className:s.toggle,onClick:l,"aria-label":a?"ライトテーマに切り替え":"ダークテーマに切り替え",title:"ライト / ダーク切り替え",children:t.jsx("span",{"aria-hidden":"true",children:a?"☀":"☾"})})]})]})})}x.__docgenInfo={description:"",methods:[],displayName:"Header",props:{total:{required:!0,tsType:{name:"number"},description:"総話数。"},review:{required:!0,tsType:{name:"number"},description:"要確認が残る話数。"}}};const q={title:"枠/Header",component:x,parameters:{layout:"fullscreen"}},n={args:{total:59,review:0}},c={args:{total:59,review:4}};var i,m,u;n.parameters={...n.parameters,docs:{...(i=n.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  args: {
+    total: 59,
+    review: 0
+  }
+}`,...(u=(m=n.parameters)==null?void 0:m.docs)==null?void 0:u.source}}};var h,p,_;c.parameters={...c.parameters,docs:{...(h=c.parameters)==null?void 0:h.docs,source:{originalSource:`{
+  args: {
+    total: 59,
+    review: 4
+  }
+}`,...(_=(p=c.parameters)==null?void 0:p.docs)==null?void 0:_.source}}};const C=["既定","要確認あり"];export{C as __namedExportsOrder,q as default,n as 既定,c as 要確認あり};
