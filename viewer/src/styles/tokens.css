@@ -33,8 +33,9 @@
   --sidebar-w: 320px;
   --maxw: 820px;
 
-  --font: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP",
-    "Yu Gothic", Meiryo, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font: "IBM Plex Sans", "IBM Plex Sans JP", "Hiragino Sans",
+    "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic", Meiryo,
+    system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 
 /* ダーク用トークン（mixin 代わりにカスタムプロパティだけ差し替える） */
