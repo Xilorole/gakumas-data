@@ -1,7 +1,9 @@
 name: Deploy viewer to GitHub Pages
 
-# main への push でビューアをビルドし、データ JSON を同梱して Pages に公開する。
-# リポジトリ Settings → Pages の Source を「GitHub Actions」にしておくこと。
+# main への push でビューアをビルドし、データ JSON を同梱して gh-pages ブランチに公開する。
+# PR プレビュー（pr-preview.yml）が同じ gh-pages ブランチの pr-preview/ 以下を使うため、
+# ブランチ配信方式（Settings → Pages → Source: Deploy from a branch, gh-pages, /）を使う。
+# keep_files: true で pr-preview/ ディレクトリを本番デプロイのたびに消さないようにしている。
 
 on:
   push:
@@ -9,16 +11,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -51,17 +51,8 @@ jobs:
           done
           touch viewer/dist/.nojekyll
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          path: viewer/dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: viewer/dist
+          keep_files: true

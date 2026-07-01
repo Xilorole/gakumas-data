@@ -1,0 +1,47 @@
+name: Deploy Storybook PR preview
+
+# PR ごとに Storybook をビルドし、gh-pages ブランチの pr-preview/pr-<番号>/ 以下へデプロイする。
+# PR にプレビュー URL がコメントされ、PR がクローズされると自動で片付く。
+# 本番サイト（pages.yml）と同じ gh-pages ブランチを使うため、あちらの keep_files: true が前提。
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, closed]
+    paths:
+      - "viewer/**"
+      - ".github/workflows/pr-preview.yml"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: pr-preview-${{ github.event.number }}
+  cancel-in-progress: true
+
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        if: github.event.action != 'closed'
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: viewer/package-lock.json
+
+      - name: Install deps
+        if: github.event.action != 'closed'
+        working-directory: viewer
+        run: npm ci
+
+      - name: Build Storybook
+        if: github.event.action != 'closed'
+        working-directory: viewer
+        run: npm run build-storybook
+
+      - uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: viewer/storybook-static
