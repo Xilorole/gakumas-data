@@ -1,0 +1,3 @@
+import{j as e}from"./jsx-runtime-DFAAy_2V.js";import{s as a}from"./speaker-CnSvHUcw.js";const o="_dot_18reh_3",m="_name_18reh_12",r={dot:o,name:m};function p({speaker:s}){const n=a(s),t=n==null?void 0:{"--spk-hue":String(n)};return e.jsxs(e.Fragment,{children:[e.jsx("span",{className:r.dot,style:t}),e.jsx("span",{className:r.name,style:t,children:s})]})}p.__docgenInfo={description:`話者名ラベル（色分けの点＋名前）。カード先頭に 1 回だけ表示する。
+点は 1 カラム目・名前は 2 カラム目に置く（呼び出し側の 2 カラムグリッドに乗る）。
+本文の開始 X 座標と名前の開始 X 座標を揃えるため、Fragment で 2 要素を返す。`,methods:[],displayName:"SpeakerLabel",props:{speaker:{required:!0,tsType:{name:"string"},description:""}}};export{p as S};

@@ -1,0 +1,1 @@
+const e={広:187,篠澤広:187,プロデューサー:28,千奈:330,倉本千奈:330,佑芽:18,花海佑芽:18,星南:265,十王星南:265,owl:145,学園長:45};function c(o){if(!o)return null;const n=e[o];if(n!==void 0)return n;let t=0;for(const r of o)t=(t*31+r.codePointAt(0))%360;return t}export{c as s};
