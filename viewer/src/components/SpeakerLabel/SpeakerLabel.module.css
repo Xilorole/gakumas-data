@@ -1,34 +1,34 @@
-.speaker {
-  display: inline-flex;
-  align-items: center;
-  font-weight: 700;
-  font-size: 0.86rem;
-  /* 明度はライト基準。--spk-hue は呼び出し側が話者ごとに注入 */
-  color: hsl(var(--spk-hue, 187) 62% 42%);
-}
-.speaker::before {
-  content: "";
-  display: inline-block;
-  flex: none;
+/* 呼び出し側（LineGroup の 2 カラムグリッド）の 1 カラム目に点、2 カラム目に名前を置く。
+   本文（LineView）も同じ 2 カラム目に揃えるため、名前と本文の開始 X 座標が一致する。 */
+.dot {
+  grid-column: 1;
+  align-self: center;
   width: 7px;
   height: 7px;
   border-radius: 50%;
   background: hsl(var(--spk-hue, 187) 62% 42%);
-  margin-right: 6px;
+}
+
+.name {
+  grid-column: 2;
+  font-weight: 700;
+  font-size: 0.86rem;
+  margin-bottom: 4px;
+  color: hsl(var(--spk-hue, 187) 62% 42%);
 }
 
 /* ダーク時は明度を上げる（OS 設定 / 手動 dark の両方） */
 @media (prefers-color-scheme: dark) {
-  :global(:root:not([data-theme="light"])) .speaker {
-    color: hsl(var(--spk-hue, 187) 70% 68%);
-  }
-  :global(:root:not([data-theme="light"])) .speaker::before {
+  :global(:root:not([data-theme="light"])) .dot {
     background: hsl(var(--spk-hue, 187) 70% 68%);
   }
+  :global(:root:not([data-theme="light"])) .name {
+    color: hsl(var(--spk-hue, 187) 70% 68%);
+  }
 }
-:global(:root[data-theme="dark"]) .speaker {
-  color: hsl(var(--spk-hue, 187) 70% 68%);
-}
-:global(:root[data-theme="dark"]) .speaker::before {
+:global(:root[data-theme="dark"]) .dot {
   background: hsl(var(--spk-hue, 187) 70% 68%);
+}
+:global(:root[data-theme="dark"]) .name {
+  color: hsl(var(--spk-hue, 187) 70% 68%);
 }

@@ -1,14 +1,15 @@
-/* 台詞カード：同一話者の連続台詞をまとめ、話者名は先頭に 1 回だけ表示する */
+/* 台詞カード：同一話者の連続台詞をまとめ、話者名は先頭に 1 回だけ表示する。
+   1 カラム目に話者インジケータの点、2 カラム目に名前と本文（両方）を置くことで、
+   名前と本文の開始 X 座標を揃える（SpeakerLabel / LineView 側は grid-column を指定）。 */
 .card {
+  display: grid;
+  grid-template-columns: 10px minmax(0, 1fr);
+  column-gap: 10px;
   background: var(--surface-2);
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
   padding: 12px 16px;
-  margin: 10px 0;
-}
-
-.head {
-  margin-bottom: 4px;
+  margin: 14px 0;
 }
 
 /* 話者なし（ナレーション）はカードを軽く：枠を消して余白だけ */

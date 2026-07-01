@@ -17,11 +17,7 @@ export function LineGroup({ group }: LineGroupProps) {
 
   return (
     <div className={cn(styles.card, !group.speaker && styles.narration)}>
-      {group.speaker && (
-        <div className={styles.head}>
-          <SpeakerLabel speaker={group.speaker} />
-        </div>
-      )}
+      {group.speaker && <SpeakerLabel speaker={group.speaker} />}
       {group.lines.map((line) => (
         <LineView key={line.index} line={line} />
       ))}

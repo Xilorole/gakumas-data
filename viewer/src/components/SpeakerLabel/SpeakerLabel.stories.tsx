@@ -5,6 +5,14 @@ const meta = {
   title: "本文/SpeakerLabel",
   component: SpeakerLabel,
   parameters: { layout: "padded" },
+  decorators: [
+    (Story) => (
+      // LineGroup の 2 カラムグリッドを模した文脈（点は 1 カラム目・名前は 2 カラム目）
+      <div style={{ display: "grid", gridTemplateColumns: "10px minmax(0, 1fr)", columnGap: 10 }}>
+        <Story />
+      </div>
+    ),
+  ],
 } satisfies Meta<typeof SpeakerLabel>;
 
 export default meta;

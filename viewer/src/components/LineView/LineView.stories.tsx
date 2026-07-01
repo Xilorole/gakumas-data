@@ -5,6 +5,14 @@ const meta = {
   title: "本文/LineView",
   component: LineView,
   parameters: { layout: "padded" },
+  decorators: [
+    (Story) => (
+      // LineGroup の 2 カラムグリッドを模した文脈（本文は 2 カラム目に乗る）
+      <div style={{ display: "grid", gridTemplateColumns: "10px minmax(0, 1fr)", columnGap: 10 }}>
+        <Story />
+      </div>
+    ),
+  ],
 } satisfies Meta<typeof LineView>;
 
 export default meta;

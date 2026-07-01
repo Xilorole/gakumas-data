@@ -1,11 +1,15 @@
 .text {
+  grid-column: 2;
   font-size: 1.02rem;
+  line-height: 1.7;
   white-space: pre-wrap;
   word-break: break-word;
-  padding: 3px 0;
 }
+
+/* セリフ同士（別の発話）の間は広く空け、1つのセリフ内の改行(白抜き文字含む)は
+   通常の行間のまま詰めておく＝発話の区切りをひと目でわかるようにする */
 .text + .text {
-  margin-top: 2px;
+  margin-top: 14px;
 }
 
 /* 要確認行のハイライト */
