@@ -2,7 +2,6 @@ import type { LineGroup as LineGroupData } from "../../lib/lineGroups";
 import { SpeakerLabel } from "../SpeakerLabel/SpeakerLabel";
 import { LineView } from "../LineView/LineView";
 import { ChoiceLine } from "../ChoiceLine/ChoiceLine";
-import { cn } from "../../lib/cn";
 import styles from "./LineGroup.module.css";
 
 export interface LineGroupProps {
@@ -16,10 +15,10 @@ export function LineGroup({ group }: LineGroupProps) {
   }
 
   return (
-    <div className={cn(styles.card, !group.speaker && styles.narration)}>
+    <div className={styles.card}>
       {group.speaker && <SpeakerLabel speaker={group.speaker} />}
       {group.lines.map((line) => (
-        <LineView key={line.index} line={line} />
+        <LineView key={line.index} line={line} plain={!group.speaker} />
       ))}
     </div>
   );

@@ -95,6 +95,7 @@ export const 複数カード_別話者: Story = {
           lines: [
             { index: 1, type: "dialogue", speaker: "広", text: "プロデューサー。" },
             { index: 2, type: "dialogue", speaker: "広", text: "聞いてほしい。" },
+            { index: 3, type: "dialogue", speaker: "広", text: "……まずは現状を確認する、ね。" },
           ],
         }}
       />
@@ -103,7 +104,7 @@ export const 複数カード_別話者: Story = {
           type: "dialogue",
           speaker: "プロデューサー",
           lines: [
-            { index: 3, type: "dialogue", speaker: "プロデューサー", text: "なんでしょう。" },
+            { index: 4, type: "dialogue", speaker: "プロデューサー", text: "なんでしょう。" },
           ],
         }}
       />
@@ -112,9 +113,9 @@ export const 複数カード_別話者: Story = {
           type: "dialogue",
           speaker: "千奈",
           lines: [
-            { index: 4, type: "dialogue", speaker: "千奈", text: "あら、お取り込み中？" },
+            { index: 5, type: "dialogue", speaker: "千奈", text: "あら、お取り込み中？" },
             {
-              index: 5,
+              index: 6,
               type: "dialogue",
               speaker: "千奈",
               text: "先に相談してくださいませぇ〜！",

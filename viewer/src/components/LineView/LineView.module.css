@@ -1,22 +1,43 @@
+/* 発話 1 件 = 角丸の吹き出し（縁取りなし、白背景+ソフトシャドウ）。 */
 .text {
   grid-column: 2;
   font-size: 1.02rem;
   line-height: 1.3;
   white-space: pre-wrap;
   word-break: break-word;
+  background: var(--surface);
+  border-radius: 14px;
+  box-shadow: var(--shadow-soft);
+  padding: 8px 14px;
 }
 
-/* セリフ同士（別の発話）の間は広く空け、1つのセリフ内の改行(白抜き文字含む)は
-   通常の行間のまま詰めておく＝発話の区切りをひと目でわかるようにする */
+/* 同一話者の連続発話同士は詰めて（吹き出し自体の境界で区切りがわかるため）、
+   話者が変わるグループ同士は .card の margin で広く空ける。 */
 .text + .text {
-  margin-top: 14px;
+  margin-top: 6px;
 }
 
-/* 要確認行のハイライト */
+/* ナレーション（話者なし）行は吹き出し化しない：地の文としてそのまま流す */
+.plain {
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 0;
+}
+.plain + .plain {
+  margin-top: 0;
+}
+
+/* 要確認行のハイライト：縁取りのないデザインに合わせ、吹き出しの周りに色のリングを乗せる */
 .review {
   background: var(--review-bg);
-  box-shadow: -3px 0 0 var(--review);
-  border-radius: 0 6px 6px 0;
-  padding: 3px 10px;
-  margin-left: -10px;
+  box-shadow:
+    0 0 0 1.5px var(--review),
+    var(--shadow-soft);
+}
+.plain.review {
+  box-shadow: none;
+  border-radius: 6px;
+  padding: 2px 8px;
+  margin-left: -8px;
 }
