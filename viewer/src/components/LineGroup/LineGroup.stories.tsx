@@ -76,3 +76,53 @@ export const 選択肢: Story = {
     group: { type: "choice", line: { index: 1, type: "choice", text: "追い詰められてあげる" } },
   },
 };
+
+export const 複数カード_別話者: Story = {
+  // カード同士（話者の切り替え）の間隔を、単体では確認できないので複数並べて見る
+  args: {
+    group: {
+      type: "dialogue",
+      speaker: "広",
+      lines: [{ index: 1, type: "dialogue", speaker: "広", text: "プロデューサー。" }],
+    },
+  },
+  render: () => (
+    <>
+      <LineGroup
+        group={{
+          type: "dialogue",
+          speaker: "広",
+          lines: [
+            { index: 1, type: "dialogue", speaker: "広", text: "プロデューサー。" },
+            { index: 2, type: "dialogue", speaker: "広", text: "聞いてほしい。" },
+          ],
+        }}
+      />
+      <LineGroup
+        group={{
+          type: "dialogue",
+          speaker: "プロデューサー",
+          lines: [
+            { index: 3, type: "dialogue", speaker: "プロデューサー", text: "なんでしょう。" },
+          ],
+        }}
+      />
+      <LineGroup
+        group={{
+          type: "dialogue",
+          speaker: "千奈",
+          lines: [
+            { index: 4, type: "dialogue", speaker: "千奈", text: "あら、お取り込み中？" },
+            {
+              index: 5,
+              type: "dialogue",
+              speaker: "千奈",
+              text: "先に相談してくださいませぇ〜！",
+              needs_review: true,
+            },
+          ],
+        }}
+      />
+    </>
+  ),
+};
