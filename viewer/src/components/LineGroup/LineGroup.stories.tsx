@@ -77,6 +77,37 @@ export const 選択肢: Story = {
   },
 };
 
+export const 複数行の発話が3回連続: Story = {
+  // 各発話（Line）自体が複数行(\n入り)で、かつ同一話者がそれを3回連続で行うケース。
+  // 吹き出し内の折り返しと、吹き出し同士の詰め方が同時に確認できる。
+  args: {
+    group: {
+      type: "dialogue",
+      speaker: "ろんしろ",
+      lines: [
+        {
+          index: 1,
+          type: "dialogue",
+          speaker: "ろんしろ",
+          text: "バラエティ番組に出演した広さんが、\n打ち合わせを無視して、\n激辛を注文した瞬間ですね。",
+        },
+        {
+          index: 2,
+          type: "dialogue",
+          speaker: "ろんしろ",
+          text: "補習組のおふたりから\n『はじめての友達』の称号を、\nはく奪しなければいけませんね。",
+        },
+        {
+          index: 3,
+          type: "dialogue",
+          speaker: "ろんしろ",
+          text: "きっと会場の全員が、\nあなたに共感していた。\n皆が篠澤広と共鳴していた。",
+        },
+      ],
+    },
+  },
+};
+
 export const 複数カード_別話者: Story = {
   // カード同士（話者の切り替え）の間隔を、単体では確認できないので複数並べて見る
   args: {

@@ -1,8 +1,9 @@
 /* 発話 1 件 = 角丸の吹き出し（縁取りなし、白背景+ソフトシャドウ）。 */
 .text {
+  position: relative;
   grid-column: 2;
   font-size: 1.02rem;
-  line-height: 1.3;
+  line-height: 1.7;
   white-space: pre-wrap;
   word-break: break-word;
   background: var(--surface);
@@ -11,11 +12,9 @@
   padding: 8px 14px;
 }
 
-/* 同一話者の連続発話同士は詰めて（吹き出し自体の境界で区切りがわかるため）、
-   話者が変わるグループ同士は .card の margin で広く空ける。 */
-.text + .text {
-  margin-top: 6px;
-}
+/* 同一話者の連続発話同士の間隔・話者が変わるグループ同士の間隔は、
+   どちらも呼び出し側 .card の row-gap / margin で決める（margin をここに
+   持たせると grid の行の高さ計算に混ざり、SpeakerLabel の中央揃えがズレるため）。 */
 
 /* ナレーション（話者なし）行は吹き出し化しない：地の文としてそのまま流す */
 .plain {
@@ -24,20 +23,52 @@
   border-radius: 0;
   padding: 0;
 }
-.plain + .plain {
-  margin-top: 0;
-}
 
-/* 要確認行のハイライト：縁取りのないデザインに合わせ、吹き出しの周りに色のリングを乗せる */
+/* 要確認行：見た目は他の発話と変えない（このビューアは基本的に正しいとされる
+   本文を見せるためのもので、要確認行だけを目立たせて注視させたくない）。
+   本文とマークが重ならないよう、マーク分だけ右側の余白を広げる。 */
 .review {
-  background: var(--review-bg);
-  box-shadow:
-    0 0 0 1.5px var(--review),
-    var(--shadow-soft);
+  padding-right: 32px;
 }
 .plain.review {
-  box-shadow: none;
+  padding-right: 20px;
+}
+
+/* 右端中央に控えめに置く info アイコン（lucide-react）。アイコン単体・薄い透過だけで、
+   背景や縁取りは付けない。ホバー/フォーカスで説明を出す。 */
+.mark {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text);
+  opacity: 0.3;
+  cursor: help;
+}
+.mark:hover,
+.mark:focus-visible {
+  opacity: 0.7;
+}
+.plain .mark {
+  right: 0;
+}
+
+.mark:hover::after,
+.mark:focus-visible::after {
+  content: "発話が間違っているかもしれません。";
+  position: absolute;
+  top: 130%;
+  right: 0;
+  z-index: 10;
+  white-space: nowrap;
+  background: var(--text);
+  color: var(--surface);
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 4px 8px;
   border-radius: 6px;
-  padding: 2px 8px;
-  margin-left: -8px;
+  box-shadow: var(--shadow);
 }

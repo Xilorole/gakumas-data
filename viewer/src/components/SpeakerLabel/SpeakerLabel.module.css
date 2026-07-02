@@ -11,9 +11,10 @@
 
 .name {
   grid-column: 2;
+  align-self: center;
+  line-height: 1;
   font-weight: 700;
   font-size: 0.86rem;
-  margin-bottom: 4px;
   color: hsl(var(--spk-hue, 187) 62% 42%);
 }
 
