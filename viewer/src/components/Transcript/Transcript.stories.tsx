@@ -29,6 +29,18 @@ const meta = {
   component: Transcript,
   parameters: { layout: "fullscreen" },
   args: { root, onNavigate: () => {} },
+  decorators: [
+    (Story) => (
+      <>
+        {/* 本番ではこの上に実際のアプリヘッダー(高さ var(--header-h))が乗る。
+            Transcript 自身のヘッダーはその下に sticky するので、ダミーの
+            高さぶんを置いておかないと、Story 単体では sticky が本来より
+            早く貼り付いてしまい本文の頭に重なって見える（本番では起きない）。 */}
+        <div style={{ height: "var(--header-h)", background: "var(--surface-2)" }} />
+        <Story />
+      </>
+    ),
+  ],
 } satisfies Meta<typeof Transcript>;
 
 export default meta;
