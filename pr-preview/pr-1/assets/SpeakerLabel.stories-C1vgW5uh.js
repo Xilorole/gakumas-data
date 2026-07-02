@@ -1,4 +1,4 @@
-import{j as s}from"./jsx-runtime-DFAAy_2V.js";import{S as g}from"./SpeakerLabel-CNbxn_fe.js";import"./index-Bc2G9s8g.js";const f={title:"本文/SpeakerLabel",component:g,parameters:{layout:"padded"},decorators:[u=>s.jsx("div",{style:{display:"grid",gridTemplateColumns:"10px minmax(0, 1fr)",columnGap:10},children:s.jsx(u,{})})]},r={args:{speaker:"広"}},e={args:{speaker:"プロデューサー"}},a={args:{speaker:"名もなき生徒"}};var o,t,p;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+import{j as s}from"./jsx-runtime-DFAAy_2V.js";import{S as g}from"./SpeakerLabel-cQtUa0W9.js";import"./index-Bc2G9s8g.js";const f={title:"本文/SpeakerLabel",component:g,parameters:{layout:"padded"},decorators:[u=>s.jsx("div",{style:{display:"grid",gridTemplateColumns:"10px minmax(0, 1fr)",columnGap:10},children:s.jsx(u,{})})]},r={args:{speaker:"広"}},e={args:{speaker:"プロデューサー"}},a={args:{speaker:"名もなき生徒"}};var o,t,p;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
   args: {
     speaker: "広"
   }
