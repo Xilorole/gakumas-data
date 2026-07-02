@@ -65,7 +65,7 @@ export function App() {
           />
         )}
         <div className={styles.viewer}>
-          <Transcript entry={entry} state={transcript} />
+          <Transcript entry={entry} state={transcript} root={root} onNavigate={onSelect} />
         </div>
       </main>
     </>

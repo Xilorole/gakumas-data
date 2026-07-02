@@ -1,6 +1,7 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import { Transcript } from "./Transcript";
 import type { ManifestEntry } from "../../types";
+import { buildTree } from "../../lib/tree";
 
 const entry: ManifestEntry = {
   path: "アイドルコミュ/篠澤広/親愛度/STEP4/第37話.json",
@@ -10,10 +11,24 @@ const entry: ManifestEntry = {
   needs_review: 1,
 };
 
+// 前後の話ボタンの動作確認用に、前後のエピソードも含めたツリーを組む
+const root = buildTree([
+  {
+    path: "アイドルコミュ/篠澤広/親愛度/STEP4/第36話.json",
+    segments: ["アイドルコミュ", "篠澤広", "親愛度", "STEP4", "第36話"],
+  },
+  entry,
+  {
+    path: "アイドルコミュ/篠澤広/親愛度/STEP4/第38話.json",
+    segments: ["アイドルコミュ", "篠澤広", "親愛度", "STEP4", "第38話"],
+  },
+]);
+
 const meta = {
   title: "本文/Transcript",
   component: Transcript,
   parameters: { layout: "fullscreen" },
+  args: { root, onNavigate: () => {} },
 } satisfies Meta<typeof Transcript>;
 
 export default meta;
