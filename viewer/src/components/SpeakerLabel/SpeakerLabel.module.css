@@ -1,61 +1,21 @@
-/* 呼び出し側（LineGroup の 2 カラムグリッド）の 1 カラム目に点、2 カラム目に名前を置く。
-   本文（LineView）も同じ 2 カラム目に揃えるため、名前と本文の開始 X 座標が一致する。 */
-.dot {
-  grid-column: 1;
-  align-self: center;
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: hsl(var(--spk-hue, 187) 62% 42%);
-}
-
 .name {
-  grid-column: 2;
-  align-self: center;
   line-height: 1;
   font-weight: 700;
   font-size: 0.86rem;
   color: hsl(var(--spk-hue, 187) 62% 42%);
 }
 
-/* プロデューサー（右寄せ）: 点も名前と一緒に 2 カラム目の右端へ。
-   点が左に取り残されないよう、名前の直後（右側）に添える。 */
-.nameEnd {
-  grid-column: 2;
+/* プロデューサー（右寄せ）: 名前も吹き出しと同じく右端へ。 */
+.end {
   justify-self: end;
-  align-self: center;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  line-height: 1;
-  font-weight: 700;
-  font-size: 0.86rem;
-  color: hsl(var(--spk-hue, 187) 62% 42%);
-}
-.dotInline {
-  flex: none;
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: hsl(var(--spk-hue, 187) 62% 42%);
 }
 
 /* ダーク時は明度を上げる（OS 設定 / 手動 dark の両方） */
 @media (prefers-color-scheme: dark) {
-  :global(:root:not([data-theme="light"])) .dot,
-  :global(:root:not([data-theme="light"])) .dotInline {
-    background: hsl(var(--spk-hue, 187) 70% 68%);
-  }
-  :global(:root:not([data-theme="light"])) .name,
-  :global(:root:not([data-theme="light"])) .nameEnd {
+  :global(:root:not([data-theme="light"])) .name {
     color: hsl(var(--spk-hue, 187) 70% 68%);
   }
 }
-:global(:root[data-theme="dark"]) .dot,
-:global(:root[data-theme="dark"]) .dotInline {
-  background: hsl(var(--spk-hue, 187) 70% 68%);
-}
-:global(:root[data-theme="dark"]) .name,
-:global(:root[data-theme="dark"]) .nameEnd {
+:global(:root[data-theme="dark"]) .name {
   color: hsl(var(--spk-hue, 187) 70% 68%);
 }
