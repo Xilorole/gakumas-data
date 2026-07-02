@@ -16,7 +16,8 @@
     {
       "index": 2,
       "type": "dialogue",
-      "text": "……………………………………………"
+      "text": "……………………………………………",
+      "speaker": "広"
     },
     {
       "index": 3,
@@ -327,7 +328,7 @@
       "index": 54,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ーーーーーーーーーーーーーーーーーー"
+      "text": "――"
     },
     {
       "index": 55,

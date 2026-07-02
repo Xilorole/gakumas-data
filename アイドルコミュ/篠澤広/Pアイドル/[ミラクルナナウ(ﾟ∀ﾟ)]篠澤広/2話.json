@@ -130,7 +130,8 @@
     {
       "index": 21,
       "type": "dialogue",
-      "text": "……それと。"
+      "text": "……それと。",
+      "speaker": "広"
     },
     {
       "index": 22,
@@ -285,7 +286,8 @@
     {
       "index": 47,
       "type": "dialogue",
-      "text": "うわぁ～～～～～～～～～～～～♡"
+      "text": "うわぁ～～～～～～～～～～～～♡",
+      "speaker": "一同"
     },
     {
       "index": 48,
