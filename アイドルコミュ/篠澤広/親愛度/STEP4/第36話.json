@@ -46,7 +46,8 @@
     {
       "index": 7,
       "type": "dialogue",
-      "text": "――はい。"
+      "text": "――はい。",
+      "speaker": "広"
     },
     {
       "index": 8,
