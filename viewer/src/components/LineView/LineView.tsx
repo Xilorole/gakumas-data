@@ -8,6 +8,8 @@ export interface LineViewProps {
   line: Line;
   /** ナレーション（話者なし）など、吹き出し化したくない行で true にする。 */
   plain?: boolean;
+  /** 吹き出しを右寄せにする（プロデューサーの発話用）。 */
+  align?: "start" | "end";
 }
 
 const REVIEW_HINT = "発話が間違っているかもしれません。";
@@ -17,10 +19,18 @@ const REVIEW_HINT = "発話が間違っているかもしれません。";
  * 要確認行も見た目は他の発話と同じにし、右端中央に控えめな「！」マークだけ添える
  * （このビューアは基本的に正しいとされる本文を見せるためのもので、要確認行だけを
  * 強調してユーザーの注意を引くようなUXは意図的に避けている）。
+ * 吹き出しは文字数に応じた最大幅までしか広がらない（横に間延びしないように）。
  */
-export function LineView({ line, plain }: LineViewProps) {
+export function LineView({ line, plain, align = "start" }: LineViewProps) {
   return (
-    <div className={cn(styles.text, plain && styles.plain, line.needs_review && styles.review)}>
+    <div
+      className={cn(
+        styles.text,
+        plain && styles.plain,
+        align === "end" && styles.end,
+        line.needs_review && styles.review,
+      )}
+    >
       <RichText text={line.text} />
       {line.needs_review && (
         <span className={styles.mark} tabIndex={0} aria-label={REVIEW_HINT} title={REVIEW_HINT}>

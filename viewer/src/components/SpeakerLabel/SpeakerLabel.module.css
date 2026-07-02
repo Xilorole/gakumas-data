@@ -18,18 +18,44 @@
   color: hsl(var(--spk-hue, 187) 62% 42%);
 }
 
+/* プロデューサー（右寄せ）: 点も名前と一緒に 2 カラム目の右端へ。
+   点が左に取り残されないよう、名前の直後（右側）に添える。 */
+.nameEnd {
+  grid-column: 2;
+  justify-self: end;
+  align-self: center;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  line-height: 1;
+  font-weight: 700;
+  font-size: 0.86rem;
+  color: hsl(var(--spk-hue, 187) 62% 42%);
+}
+.dotInline {
+  flex: none;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: hsl(var(--spk-hue, 187) 62% 42%);
+}
+
 /* ダーク時は明度を上げる（OS 設定 / 手動 dark の両方） */
 @media (prefers-color-scheme: dark) {
-  :global(:root:not([data-theme="light"])) .dot {
+  :global(:root:not([data-theme="light"])) .dot,
+  :global(:root:not([data-theme="light"])) .dotInline {
     background: hsl(var(--spk-hue, 187) 70% 68%);
   }
-  :global(:root:not([data-theme="light"])) .name {
+  :global(:root:not([data-theme="light"])) .name,
+  :global(:root:not([data-theme="light"])) .nameEnd {
     color: hsl(var(--spk-hue, 187) 70% 68%);
   }
 }
-:global(:root[data-theme="dark"]) .dot {
+:global(:root[data-theme="dark"]) .dot,
+:global(:root[data-theme="dark"]) .dotInline {
   background: hsl(var(--spk-hue, 187) 70% 68%);
 }
-:global(:root[data-theme="dark"]) .name {
+:global(:root[data-theme="dark"]) .name,
+:global(:root[data-theme="dark"]) .nameEnd {
   color: hsl(var(--spk-hue, 187) 70% 68%);
 }

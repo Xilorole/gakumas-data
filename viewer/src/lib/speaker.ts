@@ -23,3 +23,11 @@ export function speakerHue(name: string | undefined): number | null {
   for (const ch of name) h = (h * 31 + ch.codePointAt(0)!) % 360;
   return h;
 }
+
+/** プロデューサー（実データでは自称カスタム名「ろんしろ」で入る）の発話かどうか。
+ *  プロデューサーの発話だけ画面右寄せにするための判定に使う。 */
+const PRODUCER_NAMES = new Set(["プロデューサー", "ろんしろ"]);
+
+export function isProducer(name: string | undefined): boolean {
+  return name != null && PRODUCER_NAMES.has(name);
+}
