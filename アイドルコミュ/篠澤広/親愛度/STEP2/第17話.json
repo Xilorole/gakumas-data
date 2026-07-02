@@ -220,7 +220,8 @@
     {
       "index": 36,
       "type": "dialogue",
-      "text": "はい？"
+      "text": "はい？",
+      "speaker": "千奈"
     },
     {
       "index": 37,
@@ -381,7 +382,8 @@
     {
       "index": 63,
       "type": "dialogue",
-      "text": "――させないけどね。"
+      "text": "――させないけどね。",
+      "speaker": "佑芽"
     },
     {
       "index": 64,

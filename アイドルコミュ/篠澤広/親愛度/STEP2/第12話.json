@@ -142,7 +142,8 @@
     {
       "index": 23,
       "type": "dialogue",
-      "text": "……そうなんだ。"
+      "text": "……そうなんだ。",
+      "speaker": "広"
     },
     {
       "index": 24,

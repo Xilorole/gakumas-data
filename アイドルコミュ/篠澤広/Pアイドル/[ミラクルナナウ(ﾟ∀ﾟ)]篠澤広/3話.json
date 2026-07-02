@@ -76,7 +76,8 @@
     {
       "index": 12,
       "type": "dialogue",
-      "text": "すこしだけ我慢してください！！！！"
+      "text": "すこしだけ我慢してください！！！！",
+      "speaker": "ろんしろ"
     },
     {
       "index": 13,
@@ -213,7 +214,8 @@
     {
       "index": 35,
       "type": "dialogue",
-      "text": "……しってる。"
+      "text": "……しってる。",
+      "speaker": "広"
     },
     {
       "index": 36,
