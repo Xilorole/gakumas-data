@@ -6,7 +6,7 @@ const entry: ManifestEntry = {
   path: "アイドルコミュ/篠澤広/親愛度/STEP4/第37話.json",
   segments: ["アイドルコミュ", "篠澤広", "親愛度", "STEP4", "第37話"],
   session: "hiro_37",
-  line_count: 5,
+  line_count: 6,
   needs_review: 1,
 };
 
@@ -34,22 +34,23 @@ export const 表示: Story = {
       status: "ready",
       data: {
         lines: [
-          { index: 1, type: "dialogue", speaker: "広", text: "プロデューサー。" },
+          { index: 1, type: "dialogue", text: "――放課後、保健室。" },
+          { index: 2, type: "dialogue", speaker: "広", text: "プロデューサー。" },
           {
-            index: 2,
+            index: 3,
             type: "dialogue",
             speaker: "広",
             text: "わたし、{一番星|プリマステラ}になる、よ。",
           },
           {
-            index: 3,
+            index: 4,
             type: "dialogue",
             speaker: "広",
             text: "ううん。《《トップアイドル》》になる。",
           },
-          { index: 4, type: "choice", text: "一緒に行きましょう" },
+          { index: 5, type: "choice", text: "一緒に行きましょう" },
           {
-            index: 5,
+            index: 6,
             type: "dialogue",
             speaker: "プロデューサー",
             text: "こちらこそ。ありがとう、広さん。",

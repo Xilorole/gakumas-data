@@ -1,96 +1,86 @@
-.line {
-  padding: 7px 0;
-}
-
-/* 台詞：話者 | 本文 の 2 カラム */
-.dialogue {
-  display: grid;
-  grid-template-columns: 7.5em minmax(0, 1fr);
-  gap: 4px 16px;
-  align-items: start;
-}
-
-.speaker {
-  text-align: right;
-  font-weight: 700;
-  font-size: 0.9rem;
-  padding-top: 1px;
-  word-break: break-word;
-  /* 明度はライト基準。--spk-hue は LineView が話者ごとに注入 */
-  color: hsl(var(--spk-hue, 187) 62% 42%);
-}
-.speaker::before {
-  content: "";
-  display: inline-block;
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: hsl(var(--spk-hue, 187) 62% 42%);
-  margin-right: 6px;
-  vertical-align: 0.12em;
-}
-
-/* ダーク時は明度を上げる（OS 設定 / 手動 dark の両方） */
-@media (prefers-color-scheme: dark) {
-  :global(:root:not([data-theme="light"])) .speaker {
-    color: hsl(var(--spk-hue, 187) 70% 68%);
-  }
-  :global(:root:not([data-theme="light"])) .speaker::before {
-    background: hsl(var(--spk-hue, 187) 70% 68%);
-  }
-}
-:global(:root[data-theme="dark"]) .speaker {
-  color: hsl(var(--spk-hue, 187) 70% 68%);
-}
-:global(:root[data-theme="dark"]) .speaker::before {
-  background: hsl(var(--spk-hue, 187) 70% 68%);
-}
-
+/* 発話 1 件 = 角丸の吹き出し（縁取りなし、白背景+ソフトシャドウ）。
+   横に間延びしないよう、文字数に上限を想定した幅までしか広がらない
+   （34em ≒ 全角34文字ぶん。全角文字の字送りはおおよそ1emなので、
+   フォントサイズが変わっても文字数の目安が崩れにくい）。
+   幅は内容に合わせて縮む（fit-content）。左寄せがデフォルトで、
+   .end 修飾子でプロデューサーの発話だけ右寄せにする。 */
 .text {
+  position: relative;
+  grid-column: 2;
+  justify-self: start;
+  width: fit-content;
+  max-width: 34em;
   font-size: 1.02rem;
+  line-height: 1.7;
   white-space: pre-wrap;
   word-break: break-word;
+  background: var(--surface);
+  border-radius: 14px;
+  box-shadow: var(--shadow-soft);
+  padding: 8px 14px;
 }
 
-/* 選択肢：中央のピル */
-.choice {
-  display: flex;
+/* 同一話者の連続発話同士の間隔・話者が変わるグループ同士の間隔は、
+   どちらも呼び出し側 .card の row-gap / margin で決める（margin をここに
+   持たせると grid の行の高さ計算に混ざり、SpeakerLabel の中央揃えがズレるため）。 */
+
+.end {
+  justify-self: end;
+}
+
+/* ナレーション（話者なし）行は吹き出し化しない：地の文としてそのまま流す */
+.plain {
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 0;
+}
+
+/* 要確認行：見た目は他の発話と変えない（このビューアは基本的に正しいとされる
+   本文を見せるためのもので、要確認行だけを目立たせて注視させたくない）。
+   本文とマークが重ならないよう、マーク分だけ右側の余白を広げる。 */
+.review {
+  padding-right: 32px;
+}
+.plain.review {
+  padding-right: 20px;
+}
+
+/* 右端中央に控えめに置く info アイコン（lucide-react）。アイコン単体・薄い透過だけで、
+   背景や縁取りは付けない。ホバー/フォーカスで説明を出す。 */
+.mark {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
   justify-content: center;
-  margin: 6px 0;
+  color: var(--text);
+  opacity: 0.3;
+  cursor: help;
 }
-.choice .text {
-  display: inline-block;
-  background: var(--choice-bg);
-  border: 1px solid var(--choice-border);
-  color: var(--choice-text);
-  padding: 8px 20px;
-  border-radius: 999px;
-  font-size: 0.94rem;
-  font-weight: 600;
-}
-.choice .text::before {
-  content: "▷ ";
+.mark:hover,
+.mark:focus-visible {
   opacity: 0.7;
 }
-
-/* 要確認行のハイライト */
-.review .text {
-  background: var(--review-bg);
-  box-shadow: -3px 0 0 var(--review);
-  border-radius: 0 6px 6px 0;
-  padding: 2px 10px;
-  margin-left: -10px;
+.plain .mark {
+  right: 0;
 }
 
-@media (max-width: 860px) {
-  .dialogue {
-    grid-template-columns: 1fr;
-    gap: 0;
-  }
-  .speaker {
-    text-align: left;
-  }
-  .review .text {
-    margin-left: 0;
-  }
+.mark:hover::after,
+.mark:focus-visible::after {
+  content: "発話が間違っているかもしれません。";
+  position: absolute;
+  top: 130%;
+  right: 0;
+  z-index: 10;
+  white-space: nowrap;
+  background: var(--text);
+  color: var(--surface);
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 6px;
+  box-shadow: var(--shadow);
 }

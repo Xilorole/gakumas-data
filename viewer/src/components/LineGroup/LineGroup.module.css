@@ -1,0 +1,17 @@
+/* 1 話者ターン分のレイアウト器。それ自体には背景/枠を持たない
+   （各発話は LineView 側で個別に吹き出し化される）。
+   1 カラム目に話者インジケータの点、2 カラム目に名前と本文（各吹き出し）を置くことで、
+   名前と本文の開始 X 座標を揃える（SpeakerLabel / LineView 側は grid-column を指定）。 */
+.card {
+  display: grid;
+  grid-template-columns: 10px minmax(0, 1fr);
+  column-gap: 10px;
+  row-gap: 6px;
+  margin: 20px 0;
+}
+
+@media (max-width: 860px) {
+  .card {
+    margin: 16px 0;
+  }
+}

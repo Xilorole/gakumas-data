@@ -5,12 +5,20 @@ const meta = {
   title: "本文/LineView",
   component: LineView,
   parameters: { layout: "padded" },
+  decorators: [
+    (Story) => (
+      // LineGroup の 2 カラムグリッドを模した文脈（本文は 2 カラム目に乗る）
+      <div style={{ display: "grid", gridTemplateColumns: "10px minmax(0, 1fr)", columnGap: 10 }}>
+        <Story />
+      </div>
+    ),
+  ],
 } satisfies Meta<typeof LineView>;
 
 export default meta;
 type Story = StoryObj<typeof meta>;
 
-export const 台詞_広: Story = {
+export const 本文: Story = {
   args: {
     line: {
       index: 1,
@@ -21,7 +29,7 @@ export const 台詞_広: Story = {
   },
 };
 
-export const 台詞_傍点とルビ: Story = {
+export const 傍点とルビ: Story = {
   args: {
     line: {
       index: 2,
@@ -32,29 +40,28 @@ export const 台詞_傍点とルビ: Story = {
   },
 };
 
-export const 台詞_プロデューサー: Story = {
+export const 要確認: Story = {
   args: {
     line: {
       index: 3,
       type: "dialogue",
-      speaker: "プロデューサー",
-      text: "だから……どうしてそうなるんですか。",
+      speaker: "千奈",
+      text: "先に相談してくださいませぇ〜！",
+      needs_review: true,
     },
   },
 };
 
-export const 選択肢: Story = {
-  args: { line: { index: 4, type: "choice", text: "追い詰められてあげる" } },
-};
-
-export const 要確認: Story = {
+export const 単一の発話が3行_実データ: Story = {
+  // 1つの Line.text に改行が2つ入り、3行分の本文になる実例
+  // （[ガラクタロード]篠澤広/2話.json index=19）。1つの吹き出しの中で
+  // 折り返す（別の吹き出しに分割されない）ことを確認するためのケース。
   args: {
     line: {
-      index: 5,
+      index: 19,
       type: "dialogue",
-      speaker: "千奈",
-      text: "先に相談してくださいませぇ〜！",
-      needs_review: true,
+      speaker: "ろんしろ",
+      text: "バラエティ番組に出演した広さんが、\n打ち合わせを無視して、\n激辛を注文した瞬間ですね。",
     },
   },
 };

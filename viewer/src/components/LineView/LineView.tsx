@@ -1,39 +1,42 @@
-import type { CSSProperties } from "react";
+import { Info } from "lucide-react";
 import type { Line } from "../../types";
-import { speakerHue } from "../../lib/speaker";
 import { cn } from "../../lib/cn";
 import { RichText } from "../RichText/RichText";
 import styles from "./LineView.module.css";
 
 export interface LineViewProps {
   line: Line;
+  /** ナレーション（話者なし）など、吹き出し化したくない行で true にする。 */
+  plain?: boolean;
+  /** 吹き出しを右寄せにする（プロデューサーの発話用）。 */
+  align?: "start" | "end";
 }
 
-/** 台詞 / 選択肢 1 行。話者名は色分け（色相のみ JS、明度は CSS でテーマ別）。 */
-export function LineView({ line }: LineViewProps) {
-  const isChoice = line.type === "choice";
+const REVIEW_HINT = "発話が間違っているかもしれません。";
 
-  if (isChoice) {
-    return (
-      <div className={cn(styles.line, styles.choice, line.needs_review && styles.review)}>
-        <span className={styles.text}>
-          <RichText text={line.text} />
-        </span>
-      </div>
-    );
-  }
-
-  const hue = speakerHue(line.speaker);
-  const style = hue == null ? undefined : ({ "--spk-hue": String(hue) } as CSSProperties);
-
+/**
+ * 台詞本文 1 行（話者名はグループ先頭で SpeakerLabel が表示するのでここでは扱わない）。
+ * 要確認行も見た目は他の発話と同じにし、右端中央に控えめな「！」マークだけ添える
+ * （このビューアは基本的に正しいとされる本文を見せるためのもので、要確認行だけを
+ * 強調してユーザーの注意を引くようなUXは意図的に避けている）。
+ * 吹き出しは文字数に応じた最大幅までしか広がらない（横に間延びしないように）。
+ */
+export function LineView({ line, plain, align = "start" }: LineViewProps) {
   return (
-    <div className={cn(styles.line, styles.dialogue, line.needs_review && styles.review)}>
-      <span className={styles.speaker} style={style}>
-        {line.speaker ?? ""}
-      </span>
-      <span className={styles.text}>
-        <RichText text={line.text} />
-      </span>
+    <div
+      className={cn(
+        styles.text,
+        plain && styles.plain,
+        align === "end" && styles.end,
+        line.needs_review && styles.review,
+      )}
+    >
+      <RichText text={line.text} />
+      {line.needs_review && (
+        <span className={styles.mark} tabIndex={0} aria-label={REVIEW_HINT} title={REVIEW_HINT}>
+          <Info size={13} strokeWidth={2.5} />
+        </span>
+      )}
     </div>
   );
 }
