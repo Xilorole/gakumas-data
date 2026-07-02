@@ -1,5 +1,8 @@
+import { ChevronLeft, ChevronRight } from "lucide-react";
 import type { ManifestEntry } from "../../types";
 import type { TranscriptState } from "../../hooks/useTranscript";
+import type { TreeNode } from "../../lib/tree";
+import { seriesNeighbors } from "../../lib/tree";
 import { groupLines } from "../../lib/lineGroups";
 import { LineGroup } from "../LineGroup/LineGroup";
 import styles from "./Transcript.module.css";
@@ -9,9 +12,13 @@ export interface TranscriptProps {
   entry: ManifestEntry | null;
   /** 本文の取得状態。 */
   state: TranscriptState;
+  /** 前後の話を探すためのツリー。 */
+  root: TreeNode;
+  /** 前後の話ボタンで別の話へ移動する。 */
+  onNavigate: (path: string) => void;
 }
 
-export function Transcript({ entry, state }: TranscriptProps) {
+export function Transcript({ entry, state, root, onNavigate }: TranscriptProps) {
   if (!entry) {
     return (
       <article className={styles.transcript} tabIndex={-1}>
@@ -25,6 +32,7 @@ export function Transcript({ entry, state }: TranscriptProps) {
 
   const groups = entry.segments.slice(0, -1);
   const leaf = entry.segments.at(-1) ?? "";
+  const { prev, next } = seriesNeighbors(root, entry);
 
   return (
     <article className={styles.transcript} tabIndex={-1}>
@@ -37,22 +45,34 @@ export function Transcript({ entry, state }: TranscriptProps) {
             </span>
           ))}
         </nav>
-        <h2 className={styles.title}>{entry.title ?? leaf}</h2>
-        <div className={styles.meta}>
-          {entry.line_count != null && (
-            <span className={styles.chip}>{entry.line_count} 行</span>
-          )}
-          {entry.needs_review ? (
+        <div className={styles.titleRow}>
+          <button
+            type="button"
+            className={styles.navBtn}
+            disabled={!prev}
+            aria-label={prev ? `前の話: ${prev.title ?? prev.segments.at(-1)}` : "前の話はありません"}
+            onClick={() => prev && onNavigate(prev.path)}
+          >
+            <ChevronLeft size={20} />
+          </button>
+          <h2 className={styles.title}>{entry.title ?? leaf}</h2>
+          <button
+            type="button"
+            className={styles.navBtn}
+            disabled={!next}
+            aria-label={next ? `次の話: ${next.title ?? next.segments.at(-1)}` : "次の話はありません"}
+            onClick={() => next && onNavigate(next.path)}
+          >
+            <ChevronRight size={20} />
+          </button>
+        </div>
+        {entry.needs_review ? (
+          <div className={styles.meta}>
             <span className={`${styles.chip} ${styles.chipReview}`}>
               要確認 {entry.needs_review}
             </span>
-          ) : null}
-          {entry.session && (
-            <span className={`${styles.chip} ${styles.chipSession}`}>
-              {entry.session}
-            </span>
-          )}
-        </div>
+          </div>
+        ) : null}
       </header>
 
       {state.status === "loading" && <p className={styles.muted}>読み込み中…</p>}

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildTree, episodeKey, filterEntries } from "./tree";
+import { buildTree, episodeKey, filterEntries, seriesNeighbors } from "./tree";
 import type { ManifestEntry } from "../types";
 
 function entry(path: string, extra: Partial<ManifestEntry> = {}): ManifestEntry {
@@ -33,6 +33,40 @@ describe("buildTree", () => {
       "第2話",
       "第10話",
     ]);
+  });
+});
+
+describe("seriesNeighbors", () => {
+  it("親愛度コミュはSTEPをまたいで連続する", () => {
+    const affinityEntries: ManifestEntry[] = [
+      entry("アイドルコミュ/篠澤広/親愛度/STEP1/第9話.json"),
+      entry("アイドルコミュ/篠澤広/親愛度/STEP1/第10話.json"),
+      entry("アイドルコミュ/篠澤広/親愛度/STEP2/第11話.json"),
+    ];
+    const tree = buildTree(affinityEntries);
+    const { prev, next } = seriesNeighbors(tree, affinityEntries[1]);
+    expect(prev?.segments.at(-1)).toBe("第9話");
+    expect(next?.segments.at(-1)).toBe("第11話");
+  });
+
+  it("Pアイドルコミュはカード単位で前後が取れる", () => {
+    const pIdolEntries: ManifestEntry[] = [
+      entry("アイドルコミュ/篠澤広/Pアイドル/[光景]篠澤広/1話.json"),
+      entry("アイドルコミュ/篠澤広/Pアイドル/[光景]篠澤広/2話.json"),
+      entry("アイドルコミュ/篠澤広/Pアイドル/[光景]篠澤広/3話.json"),
+    ];
+    const tree = buildTree(pIdolEntries);
+    const { prev, next } = seriesNeighbors(tree, pIdolEntries[0]);
+    expect(prev).toBeNull();
+    expect(next?.segments.at(-1)).toBe("2話");
+  });
+
+  it("対象外カテゴリはnull/nullを返す", () => {
+    const otherEntries: ManifestEntry[] = [
+      entry("サポートコミュ/進化したお弁当、気になる/あいさつしてもいい？.json"),
+    ];
+    const tree = buildTree(otherEntries);
+    expect(seriesNeighbors(tree, otherEntries[0])).toEqual({ prev: null, next: null });
   });
 });
 
