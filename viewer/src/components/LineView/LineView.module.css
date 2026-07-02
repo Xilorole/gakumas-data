@@ -1,4 +1,6 @@
-/* 発話 1 件 = 角丸の吹き出し（縁取りなし、白背景+ソフトシャドウ）。
+/* 発話 1 件 = 角丸の吹き出し（縁取りなし、淡いグレー背景+ソフトシャドウ）。
+   吹き出しを乗せているカード側(Transcript)の背景が白(--surface)なので、
+   吹き出しも同じ --surface だと同化して見づらい。淡いグレーの --surface-2 を使う。
    横に間延びしないよう、文字数に上限を想定した幅までしか広がらない
    （34em ≒ 全角34文字ぶん。全角文字の字送りはおおよそ1emなので、
    フォントサイズが変わっても文字数の目安が崩れにくい）。
@@ -14,7 +16,7 @@
   line-height: 1.7;
   white-space: pre-wrap;
   word-break: break-word;
-  background: var(--surface);
+  background: var(--surface-2);
   border-radius: 14px;
   box-shadow: var(--shadow-soft);
   padding: 8px 14px;
