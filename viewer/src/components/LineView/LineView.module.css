@@ -30,12 +30,18 @@
   justify-self: end;
 }
 
-/* ナレーション（話者なし）行は吹き出し化しない：地の文としてそのまま流す */
+/* ナレーション（話者なし）行は吹き出し化せず、地の文として行全体の中央に寄せる
+   （1カラム目の点の分に引っ張られて左寄りに見えないよう、2カラムをまたいで
+   中央寄せする）。縁取り・影は無しのまま、背景だけ薄いグレーで軽く囲って
+   視認性を確保する（白背景の上に素の黒文字だけだと沈んで見づらいため）。 */
 .plain {
-  background: none;
+  grid-column: 1 / -1;
+  justify-self: center;
+  text-align: center;
+  background: var(--surface-2);
   box-shadow: none;
-  border-radius: 0;
-  padding: 0;
+  border-radius: 10px;
+  padding: 6px 14px;
 }
 
 /* 要確認行：見た目は他の発話と変えない（このビューアは基本的に正しいとされる
