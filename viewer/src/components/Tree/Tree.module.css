@@ -19,6 +19,9 @@
   font-weight: 600;
   color: var(--text);
   user-select: none;
+  transition:
+    background 0.12s,
+    color 0.12s;
 }
 .summary::-webkit-details-marker {
   display: none;
@@ -26,20 +29,43 @@
 .summary:hover {
   background: var(--surface-2);
 }
-.summary::before {
-  content: "▸";
-  color: var(--text-muted);
-  font-size: 0.7rem;
-  transition: transform 0.15s;
-  flex: none;
+.label {
+  flex: 1 1 auto;
+  min-width: 0;
 }
-.node[open] > .summary::before {
-  transform: rotate(90deg);
+.marker {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 16px;
 }
 .children {
   padding-left: 12px;
   border-left: 1px solid var(--border);
   margin-left: 13px;
+}
+
+/* 開閉マーカー: フォルダ⇔開いたフォルダでアイコン自体を切り替える。
+   [open] は details 自身が持つ属性だが、子孫セレクタのままだと祖先の
+   details が開いているだけで内側の閉じたノードにまで波及してしまう
+   （子孫コンビネータは「直近の親」ではなく「祖先のどこか」にマッチするため）。
+   必ず `[open] > .summary` で「このノード自身が開いているか」に絞る。 */
+.iconOpen {
+  display: none;
+}
+.iconClosed {
+  color: var(--text-muted);
+}
+.node[open] > .summary .iconClosed {
+  display: none;
+}
+.node[open] > .summary .iconOpen {
+  display: inline-flex;
+  color: var(--accent);
+}
+.node[open] > .summary {
+  color: var(--accent-soft);
 }
 
 .episodes {

@@ -1,4 +1,5 @@
 import { useEffect, useRef, type ReactNode } from "react";
+import { Folder, FolderOpen } from "lucide-react";
 import type { ManifestEntry } from "../../types";
 import type { TreeNode } from "../../lib/tree";
 import { cn } from "../../lib/cn";
@@ -107,7 +108,13 @@ function DetailsGroup({
   }, [open]);
   return (
     <details ref={ref} className={styles.node}>
-      <summary className={styles.summary}>{name}</summary>
+      <summary className={styles.summary}>
+        <span className={styles.marker}>
+          <Folder size={15} strokeWidth={2} className={styles.iconClosed} />
+          <FolderOpen size={15} strokeWidth={2} className={styles.iconOpen} />
+        </span>
+        <span className={styles.label}>{name}</span>
+      </summary>
       <div className={styles.children}>{children}</div>
     </details>
   );
