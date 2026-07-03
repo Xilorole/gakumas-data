@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-03T13:24:49.886852+00:00",
+  "exported_at": "2026-06-16T07:16:39.126036+00:00",
   "line_count": 67,
   "needs_review": 0,
   "lines": [
@@ -47,7 +47,7 @@
       "index": 7,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "失礼いたします――……はわぁ！？"
+      "text": "失礼いたしまーー……はわぁ！？"
     },
     {
       "index": 8,
@@ -88,8 +88,8 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "広",
-      "text": "罰ゲーム、あーんど、ご褒美。"
+      "text": "罰ゲーム、あーんど、ご褒美。",
+      "speaker": "広"
     },
     {
       "index": 15,
