@@ -15,6 +15,9 @@
   line-height: 1.7;
   white-space: pre-wrap;
   word-break: break-word;
+  /* color は明示的に宣言する（継承だけに任せると、祖先が --text をローカル
+     上書きしても再評価されず反映されない。回想ブロックでの配色変更に必要）。 */
+  color: var(--text);
   background: var(--surface-2);
   border-radius: 14px;
   box-shadow: var(--shadow-soft);

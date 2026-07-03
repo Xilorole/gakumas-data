@@ -137,11 +137,20 @@ export const 回想_C_セピア背景: Story = {
 };
 
 export const 回想_D_区切り線とセピア吹き出し: Story = {
-  name: "回想 D. 区切り線+セピア吹き出し（A+Cの折衷）",
+  name: "回想 D. 区切り線+セピア吹き出し（線・文字ともセピア）",
   args: {
     entry,
     state: { status: "ready", data: { lines: 回想を含む会話 } },
     flashbackVariant: "dividerSepia",
+  },
+};
+
+export const 回想_E_セピアの靄: Story = {
+  name: "回想 E. セピアの靄（背景装飾だけをぼかす）",
+  args: {
+    entry,
+    state: { status: "ready", data: { lines: 回想を含む会話 } },
+    flashbackVariant: "misty",
   },
 };
 
