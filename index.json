@@ -191,7 +191,7 @@
       "2話"
     ],
     "session": "hiro_happymille_2",
-    "exported_at": "2026-06-15T14:06:33.884896+00:00",
+    "exported_at": "2026-07-03T22:44:49.921064+00:00",
     "line_count": 38,
     "needs_review": 0
   },
@@ -556,7 +556,7 @@
       "第18話"
     ],
     "session": "hiro_18",
-    "exported_at": "2026-06-13T19:21:59.881468+00:00",
+    "exported_at": "2026-07-03T22:44:50.368322+00:00",
     "line_count": 18,
     "needs_review": 0
   },
@@ -682,7 +682,7 @@
       "第27話"
     ],
     "session": "hiro_27",
-    "exported_at": "2026-06-16T07:16:39.126036+00:00",
+    "exported_at": "2026-07-03T22:44:50.801229+00:00",
     "line_count": 67,
     "needs_review": 0
   },
@@ -824,6 +824,32 @@
     "session": "hiro_37",
     "exported_at": "2026-06-16T07:16:39.084775+00:00",
     "line_count": 71,
+    "needs_review": 0
+  },
+  {
+    "path": "サポートコミュ/進化したお弁当、気になる/あいさつしてもいい？.json",
+    "segments": [
+      "サポートコミュ",
+      "進化したお弁当、気になる",
+      "あいさつしてもいい？"
+    ],
+    "session": "support_obento_2",
+    "title": "進化したお弁当、気になる / あいさつしてもいい？",
+    "exported_at": "2026-06-16T13:22:21.070485+00:00",
+    "line_count": 20,
+    "needs_review": 0
+  },
+  {
+    "path": "サポートコミュ/進化したお弁当、気になる/もうひとりの妹？.json",
+    "segments": [
+      "サポートコミュ",
+      "進化したお弁当、気になる",
+      "もうひとりの妹？"
+    ],
+    "session": "support_obento_1",
+    "title": "進化したお弁当、気になる / もうひとりの妹？",
+    "exported_at": "2026-06-16T13:22:20.627517+00:00",
+    "line_count": 19,
     "needs_review": 0
   }
 ]

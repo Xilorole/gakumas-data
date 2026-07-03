@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T19:21:59.881468+00:00",
+  "exported_at": "2026-07-03T22:44:50.368322+00:00",
   "line_count": 18,
   "needs_review": 0,
   "lines": [
@@ -11,7 +11,7 @@
       "index": 1,
       "type": "dialogue",
       "speaker": "ろんしろ",
-      "text": "篠澤さん、我々が参加する\nオーディションはー――"
+      "text": "篠澤さん、我々が参加する\nオーディションは―――"
     },
     {
       "index": 2,
