@@ -95,7 +95,7 @@ export const エラー: Story = {
 
 // flashback-in / flashback-out に挟まれた区間だけが回想として扱われる。
 // マーカー行自体は吹き出しにならず、演出の発生地点としてのみ機能する。
-const 回想を含む会話 = [
+const 回想を含む会話_lines = [
   { index: 1, type: "dialogue" as const, speaker: "プロデューサー", text: "……広さん、大丈夫ですか。" },
   { index: 2, type: "dialogue" as const, speaker: "広", text: "うん……ちょっと、思い出してた。" },
   { index: 3, type: "dialogue" as const, speaker: "広", text: "入学試験の日のこと。" },
@@ -109,57 +109,10 @@ const 回想を含む会話 = [
   { index: 11, type: "dialogue" as const, speaker: "広", text: "うん。ふふ……あの頃は、まだ。" },
 ];
 
-export const 回想_A_区切り線: Story = {
-  name: "回想 A. 区切り線+ラベル",
+export const 回想を含む会話: Story = {
   args: {
     entry,
-    state: { status: "ready", data: { lines: 回想を含む会話 } },
-    flashbackVariant: "divider",
-  },
-};
-
-export const 回想_B_左端バー: Story = {
-  name: "回想 B. 左端アクセントバー",
-  args: {
-    entry,
-    state: { status: "ready", data: { lines: 回想を含む会話 } },
-    flashbackVariant: "bar",
-  },
-};
-
-export const 回想_C_セピア背景: Story = {
-  name: "回想 C. セピア背景で全体を包む",
-  args: {
-    entry,
-    state: { status: "ready", data: { lines: 回想を含む会話 } },
-    flashbackVariant: "sepia",
-  },
-};
-
-export const 回想_D_区切り線とセピア吹き出し: Story = {
-  name: "回想 D. 区切り線+セピア吹き出し（線・文字ともセピア）",
-  args: {
-    entry,
-    state: { status: "ready", data: { lines: 回想を含む会話 } },
-    flashbackVariant: "dividerSepia",
-  },
-};
-
-export const 回想_E_セピアの靄: Story = {
-  name: "回想 E. セピアの靄（背景装飾だけをぼかす）",
-  args: {
-    entry,
-    state: { status: "ready", data: { lines: 回想を含む会話 } },
-    flashbackVariant: "misty",
-  },
-};
-
-export const 回想_D1_薄いセピアの四角: Story = {
-  name: "回想 D-1. 縁取りのない薄いセピアの四角（文字は黒のまま）",
-  args: {
-    entry,
-    state: { status: "ready", data: { lines: 回想を含む会話 } },
-    flashbackVariant: "dividerFill",
+    state: { status: "ready", data: { lines: 回想を含む会話_lines } },
   },
 };
 

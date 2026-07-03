@@ -5,7 +5,7 @@ import type { TreeNode } from "../../lib/tree";
 import { seriesNeighbors } from "../../lib/tree";
 import { groupSegments } from "../../lib/lineGroups";
 import { LineGroup } from "../LineGroup/LineGroup";
-import { FlashbackBlock, type FlashbackVariant } from "../FlashbackBlock/FlashbackBlock";
+import { FlashbackBlock } from "../FlashbackBlock/FlashbackBlock";
 import styles from "./Transcript.module.css";
 
 export interface TranscriptProps {
@@ -17,17 +17,9 @@ export interface TranscriptProps {
   root: TreeNode;
   /** 前後の話ボタンで別の話へ移動する。 */
   onNavigate: (path: string) => void;
-  /** 回想ブロックの見せ方（比較検討用。既定は FlashbackBlock 側のデフォルト）。 */
-  flashbackVariant?: FlashbackVariant;
 }
 
-export function Transcript({
-  entry,
-  state,
-  root,
-  onNavigate,
-  flashbackVariant,
-}: TranscriptProps) {
+export function Transcript({ entry, state, root, onNavigate }: TranscriptProps) {
   if (!entry) {
     return (
       <article className={styles.transcript} tabIndex={-1}>
@@ -92,7 +84,7 @@ export function Transcript({
         <div className={styles.lines}>
           {groupSegments(state.data.lines).map((segment, i) =>
             segment.flashback ? (
-              <FlashbackBlock key={i} variant={flashbackVariant}>
+              <FlashbackBlock key={i}>
                 {segment.groups.map((group, j) => (
                   <LineGroup key={j} group={group} />
                 ))}

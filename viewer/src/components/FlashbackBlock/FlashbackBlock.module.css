@@ -1,4 +1,4 @@
-/* ラベルの共通見た目。配置（position/margin）は各 variant 側で決める。 */
+/* 「回想」ラベル。ブロック上端に浮かせて配置する（.badge 側で位置決め）。 */
 .chip {
   display: inline-flex;
   align-items: center;
@@ -14,42 +14,8 @@
   white-space: nowrap;
 }
 
-/* --- variant: divider（区切り線+ラベルのみ。吹き出しの色は変えない） --- */
-.dividerWrap {
-  margin: 8px 0;
-}
-.dividerLine {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 1px;
-  margin: 18px 0;
-  background: var(--border);
-}
-.dividerLine:last-child {
-  margin-top: 22px;
-}
-.dividerLine .chip {
-  background: var(--surface);
-}
-
-/* --- variant: bar（左端のアクセントバーで「回想中」を常時示す） --- */
-.barWrap {
-  margin: 18px 0;
-  padding-left: 16px;
-  border-left: 3px solid var(--flashback-border);
-}
-.barWrap > .chip {
-  display: inline-flex;
-  margin-bottom: 10px;
-}
-.barContent {
-  display: grid;
-  row-gap: 0;
-}
-
-/* --- variant: sepia（背景ごとセピア調に。吹き出しの色もローカルにトークンを差し替える） --- */
-.sepiaWrap {
+/* ブロック全体をセピア調の背景で囲み、吹き出しの色もローカルに差し替える。 */
+.wrap {
   position: relative;
   margin: 20px 0;
   padding: 22px 16px 8px;
@@ -60,66 +26,9 @@
      ここで局所的に上書きするだけで子コンポーネントを変更せずに配色を変えられる。 */
   --surface-2: var(--flashback-bubble);
 }
-.sepiaChip {
+.badge {
   position: absolute;
   top: -11px;
   left: 14px;
   background: var(--flashback-bg);
-}
-
-/* --- variant: dividerSepia（divider の軽さ + sepia の吹き出し色。箱で囲まない） --- */
-.dividerTint {
-  /* sepiaWrap と同じ理屈で、吹き出しの背景(--surface-2)と本文の文字色(--text)を
-     ローカル上書きする。箱の背景・枠を持たないぶん sepia より軽く、
-     divider より存在感がある。話者名(SpeakerLabel)は色相ベースの別配色、
-     選択肢(ChoiceLine)は --choice-* を使っているためここでは変わらない。 */
-  --surface-2: var(--flashback-bubble);
-  --text: var(--flashback-text);
-}
-.dividerTint .dividerLine {
-  background: var(--flashback-border);
-}
-
-/* --- variant: misty（区間の背後にセピア色の靄を焚く。ぼかすのは背景の装飾レイヤーだけで
-   本文テキストそのものは一切ぼかさない＝可読性を保ったまま「霞んだ回想」感を出す） --- */
-.mistyWrap {
-  position: relative;
-  /* z-index を明示して「このブロック自身」をスタッキングコンテキストにする。
-     これが無いと、子の z-index:-1 は祖先（.transcript の不透明な白背景）まで
-     突き抜けて参照されてしまい、その白背景の下に隠れて見えなくなる
-     （position:relative だけでは新しいスタッキングコンテキストにならない）。 */
-  z-index: 0;
-  margin: 28px 0;
-  padding: 22px 16px 8px;
-  --surface-2: var(--flashback-bubble);
-  --text: var(--flashback-text);
-}
-/* 単色の四角形を、縦方向だけのガウスぼかし（SVG feGaussianBlur の
-   stdDeviation="0 16"）で滲ませる。CSS の filter: blur() は等方(縦横同じ)
-   にしかぼかせないため、横方向はシャープなまま・上下だけ霞ませたい場合は
-   SVG フィルタが必要（FlashbackBlock.tsx 側で #misty-vblur を定義）。
-   本文とは無関係な純粋な背景装飾なので aria-hidden な専用 div にしている
-   （読み上げ・操作に一切関与しない）。 */
-.mistyGlow {
-  position: absolute;
-  inset: -30px 0;
-  background: var(--flashback-border);
-  filter: url(#misty-vblur);
-  z-index: -1;
-}
-.mistyChip {
-  position: relative;
-  display: inline-flex;
-  margin-bottom: 10px;
-}
-
-/* --- variant: dividerFill（D-1: dividerSepia からの派生。線の間を縁取りのない
-   薄いセピアで塗るだけ。--surface-2 / --text は上書きしないので、吹き出し・
-   文字色はいつも通り。「セピアの四角の中にいつもの見た目の会話が乗っている」状態） --- */
-.fillLine {
-  background: var(--flashback-border);
-}
-.fillArea {
-  background: var(--flashback-bg);
-  padding: 14px 14px 2px;
 }
