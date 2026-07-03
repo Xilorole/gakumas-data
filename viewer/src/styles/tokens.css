@@ -27,6 +27,12 @@
   --review: #f08c00;
   --review-bg: #fff9db;
 
+  /* 回想ブロック（セピア調） */
+  --flashback-bg: #faf5ec;
+  --flashback-border: #e8dcc4;
+  --flashback-text: #8a7a52;
+  --flashback-bubble: #f3ead8;
+
   --radius: 14px;
   --radius-sm: 9px;
   --header-h: 64px;
@@ -61,6 +67,11 @@
     --choice-text: #ffc078;
     --review: #ffc078;
     --review-bg: #2a2614;
+
+    --flashback-bg: #241f16;
+    --flashback-border: #3d3320;
+    --flashback-text: #cbb98c;
+    --flashback-bubble: #2e2818;
   }
 }
 
@@ -86,6 +97,11 @@
   --choice-text: #ffc078;
   --review: #ffc078;
   --review-bg: #2a2614;
+
+  --flashback-bg: #241f16;
+  --flashback-border: #3d3320;
+  --flashback-text: #cbb98c;
+  --flashback-bubble: #2e2818;
 }
 
 :root[data-theme="light"] {

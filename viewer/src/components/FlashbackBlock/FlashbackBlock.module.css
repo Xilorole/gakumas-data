@@ -1,0 +1,68 @@
+/* ラベルの共通見た目。配置（position/margin）は各 variant 側で決める。 */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: var(--flashback-text);
+  background: var(--surface);
+  border: 1px solid var(--flashback-border);
+  white-space: nowrap;
+}
+
+/* --- variant: divider（区切り線+ラベルのみ。吹き出しの色は変えない） --- */
+.dividerWrap {
+  margin: 8px 0;
+}
+.dividerLine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 1px;
+  margin: 18px 0;
+  background: var(--border);
+}
+.dividerLine:last-child {
+  margin-top: 22px;
+}
+.dividerLine .chip {
+  background: var(--surface);
+}
+
+/* --- variant: bar（左端のアクセントバーで「回想中」を常時示す） --- */
+.barWrap {
+  margin: 18px 0;
+  padding-left: 16px;
+  border-left: 3px solid var(--flashback-border);
+}
+.barWrap > .chip {
+  display: inline-flex;
+  margin-bottom: 10px;
+}
+.barContent {
+  display: grid;
+  row-gap: 0;
+}
+
+/* --- variant: sepia（背景ごとセピア調に。吹き出しの色もローカルにトークンを差し替える） --- */
+.sepiaWrap {
+  position: relative;
+  margin: 20px 0;
+  padding: 22px 16px 8px;
+  background: var(--flashback-bg);
+  border: 1px solid var(--flashback-border);
+  border-radius: var(--radius);
+  /* 内側の LineView 吹き出しは --surface-2 を背景色に使っているため、
+     ここで局所的に上書きするだけで子コンポーネントを変更せずに配色を変えられる。 */
+  --surface-2: var(--flashback-bubble);
+}
+.sepiaChip {
+  position: absolute;
+  top: -11px;
+  left: 14px;
+  background: var(--flashback-bg);
+}

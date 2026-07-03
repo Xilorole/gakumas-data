@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { groupLines } from "./lineGroups";
+import { groupLines, groupSegments } from "./lineGroups";
 import type { Line } from "../types";
 
 function line(index: number, extra: Partial<Line> = {}): Line {
@@ -45,5 +45,48 @@ describe("groupLines", () => {
     const groups = groupLines([line(1), line(2)]);
     expect(groups).toHaveLength(1);
     expect(groups[0]).toMatchObject({ type: "dialogue", speaker: undefined });
+  });
+});
+
+describe("groupSegments", () => {
+  it("flashback-in / flashback-out に挟まれた区間だけ flashback: true になる", () => {
+    const segments = groupSegments([
+      line(1, { speaker: "広" }),
+      line(2, { type: "flashback-in", text: "" }),
+      line(3, { speaker: "千奈" }),
+      line(4, { speaker: "広" }),
+      line(5, { type: "flashback-out", text: "" }),
+      line(6, { speaker: "広" }),
+    ]);
+    expect(segments.map((s) => s.flashback)).toEqual([false, true, false]);
+    expect(segments[1].groups).toHaveLength(2);
+  });
+
+  it("マーカー行自体は groups に含まれない", () => {
+    const segments = groupSegments([
+      line(1, { type: "flashback-in", text: "" }),
+      line(2, { speaker: "広" }),
+      line(3, { type: "flashback-out", text: "" }),
+    ]);
+    expect(segments).toHaveLength(1);
+    const flat = segments[0].groups.flatMap((g) =>
+      g.type === "dialogue" ? g.lines.map((l) => l.index) : [g.line.index],
+    );
+    expect(flat).toEqual([2]);
+  });
+
+  it("回想が無ければ 1 セグメントにまとまる", () => {
+    const segments = groupSegments([line(1, { speaker: "広" }), line(2, { speaker: "広" })]);
+    expect(segments).toHaveLength(1);
+    expect(segments[0].flashback).toBe(false);
+  });
+
+  it("flashback-out が無いまま終わっても最後まで回想扱いになる", () => {
+    const segments = groupSegments([
+      line(1, { speaker: "広" }),
+      line(2, { type: "flashback-in", text: "" }),
+      line(3, { speaker: "広" }),
+    ]);
+    expect(segments.map((s) => s.flashback)).toEqual([false, true]);
   });
 });

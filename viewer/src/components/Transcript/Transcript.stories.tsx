@@ -93,6 +93,49 @@ export const エラー: Story = {
   args: { entry, state: { status: "error", error: "本文取得失敗 (HTTP 404)" } },
 };
 
+// flashback-in / flashback-out に挟まれた区間だけが回想として扱われる。
+// マーカー行自体は吹き出しにならず、演出の発生地点としてのみ機能する。
+const 回想を含む会話 = [
+  { index: 1, type: "dialogue" as const, speaker: "プロデューサー", text: "……広さん、大丈夫ですか。" },
+  { index: 2, type: "dialogue" as const, speaker: "広", text: "うん……ちょっと、思い出してた。" },
+  { index: 3, type: "dialogue" as const, speaker: "広", text: "入学試験の日のこと。" },
+  { index: 4, type: "flashback-in" as const, text: "" },
+  { index: 5, type: "dialogue" as const, text: "――数年前、初星学園。実技試験会場。" },
+  { index: 6, type: "dialogue" as const, speaker: "千奈", text: "あなたが、噂の……？" },
+  { index: 7, type: "dialogue" as const, speaker: "広", text: "……篠澤広、です。よろしく。" },
+  { index: 8, type: "dialogue" as const, speaker: "広", text: "実技は、たぶん……壊滅的、だと思う。" },
+  { index: 9, type: "flashback-out" as const, text: "" },
+  { index: 10, type: "dialogue" as const, speaker: "プロデューサー", text: "それが、千奈さんとの出会い……。" },
+  { index: 11, type: "dialogue" as const, speaker: "広", text: "うん。ふふ……あの頃は、まだ。" },
+];
+
+export const 回想_A_区切り線: Story = {
+  name: "回想 A. 区切り線+ラベル",
+  args: {
+    entry,
+    state: { status: "ready", data: { lines: 回想を含む会話 } },
+    flashbackVariant: "divider",
+  },
+};
+
+export const 回想_B_左端バー: Story = {
+  name: "回想 B. 左端アクセントバー",
+  args: {
+    entry,
+    state: { status: "ready", data: { lines: 回想を含む会話 } },
+    flashbackVariant: "bar",
+  },
+};
+
+export const 回想_C_セピア背景: Story = {
+  name: "回想 C. セピア背景で全体を包む",
+  args: {
+    entry,
+    state: { status: "ready", data: { lines: 回想を含む会話 } },
+    flashbackVariant: "sepia",
+  },
+};
+
 // スクロールしてもヘッダー（パンくず・タイトル・前後の話ボタン）が
 // 画面上に貼り付いたままになることを確認するための、行数の多いStory。
 // Storybookのキャンバス自体をスクロール領域にするため、高さを制限した
