@@ -66,3 +66,10 @@
   left: 14px;
   background: var(--flashback-bg);
 }
+
+/* --- variant: dividerSepia（divider の軽さ + sepia の吹き出し色。箱で囲まない） --- */
+.dividerTint {
+  /* sepiaWrap と同じ理屈で --surface-2 だけローカル上書きする。
+     箱の背景・枠を持たないぶん sepia より軽く、divider より存在感がある。 */
+  --surface-2: var(--flashback-bubble);
+}

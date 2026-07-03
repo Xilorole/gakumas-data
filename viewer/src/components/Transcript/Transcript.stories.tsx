@@ -136,6 +136,15 @@ export const 回想_C_セピア背景: Story = {
   },
 };
 
+export const 回想_D_区切り線とセピア吹き出し: Story = {
+  name: "回想 D. 区切り線+セピア吹き出し（A+Cの折衷）",
+  args: {
+    entry,
+    state: { status: "ready", data: { lines: 回想を含む会話 } },
+    flashbackVariant: "dividerSepia",
+  },
+};
+
 // スクロールしてもヘッダー（パンくず・タイトル・前後の話ボタン）が
 // 画面上に貼り付いたままになることを確認するための、行数の多いStory。
 // Storybookのキャンバス自体をスクロール領域にするため、高さを制限した

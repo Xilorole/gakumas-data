@@ -8,8 +8,9 @@ import styles from "./FlashbackBlock.module.css";
  * - divider: 区切り線+ラベルのみ。吹き出しの色は変えない（軽量）
  * - bar: 左端にアクセントバーを通し、常時「回想中」であることを示す
  * - sepia: ブロック全体をセピア調の背景で囲み、吹き出しの色も合わせて変える
+ * - dividerSepia: 箱で囲むのはやめて区切り線だけ残し、吹き出しの色だけセピアに寄せる（A+Cの折衷）
  */
-export type FlashbackVariant = "divider" | "bar" | "sepia";
+export type FlashbackVariant = "divider" | "bar" | "sepia" | "dividerSepia";
 
 export interface FlashbackBlockProps {
   variant?: FlashbackVariant;
@@ -42,6 +43,16 @@ export function FlashbackBlock({ variant = "divider", children }: FlashbackBlock
           回想
         </span>
         {children}
+      </div>
+    );
+  }
+
+  if (variant === "dividerSepia") {
+    return (
+      <div className={cn(styles.dividerWrap, styles.dividerTint)}>
+        <div className={styles.dividerLine}>{chip}</div>
+        {children}
+        <div className={styles.dividerLine} />
       </div>
     );
   }
