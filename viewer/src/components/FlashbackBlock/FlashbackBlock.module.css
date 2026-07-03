@@ -112,3 +112,14 @@
   display: inline-flex;
   margin-bottom: 10px;
 }
+
+/* --- variant: dividerFill（D-1: dividerSepia からの派生。線の間を縁取りのない
+   薄いセピアで塗るだけ。--surface-2 / --text は上書きしないので、吹き出し・
+   文字色はいつも通り。「セピアの四角の中にいつもの見た目の会話が乗っている」状態） --- */
+.fillLine {
+  background: var(--flashback-border);
+}
+.fillArea {
+  background: var(--flashback-bg);
+  padding: 14px 14px 2px;
+}

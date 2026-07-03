@@ -154,6 +154,15 @@ export const 回想_E_セピアの靄: Story = {
   },
 };
 
+export const 回想_D1_薄いセピアの四角: Story = {
+  name: "回想 D-1. 縁取りのない薄いセピアの四角（文字は黒のまま）",
+  args: {
+    entry,
+    state: { status: "ready", data: { lines: 回想を含む会話 } },
+    flashbackVariant: "dividerFill",
+  },
+};
+
 // スクロールしてもヘッダー（パンくず・タイトル・前後の話ボタン）が
 // 画面上に貼り付いたままになることを確認するための、行数の多いStory。
 // Storybookのキャンバス自体をスクロール領域にするため、高さを制限した

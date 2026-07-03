@@ -10,8 +10,16 @@ import styles from "./FlashbackBlock.module.css";
  * - sepia: ブロック全体をセピア調の背景で囲み、吹き出しの色も合わせて変える
  * - dividerSepia: 箱で囲むのはやめて区切り線だけ残し、吹き出しの色・文字色もセピアに寄せる（A+Cの折衷）
  * - misty: 背後にセピア色の靄（ぼかした単色の装飾レイヤー）を焚く。ぼかすのは装飾だけで本文は一切ぼかさない
+ * - dividerFill: dividerSepia からの派生(D-1)。線の間を縁取りのない薄いセピアで塗るだけで、
+ *   吹き出し・文字色は変えない（セリフはいつも通り黒字のまま）
  */
-export type FlashbackVariant = "divider" | "bar" | "sepia" | "dividerSepia" | "misty";
+export type FlashbackVariant =
+  | "divider"
+  | "bar"
+  | "sepia"
+  | "dividerSepia"
+  | "misty"
+  | "dividerFill";
 
 export interface FlashbackBlockProps {
   variant?: FlashbackVariant;
@@ -79,6 +87,16 @@ export function FlashbackBlock({ variant = "divider", children }: FlashbackBlock
           回想
         </span>
         {children}
+      </div>
+    );
+  }
+
+  if (variant === "dividerFill") {
+    return (
+      <div className={styles.dividerWrap}>
+        <div className={cn(styles.dividerLine, styles.fillLine)}>{chip}</div>
+        <div className={styles.fillArea}>{children}</div>
+        <div className={cn(styles.dividerLine, styles.fillLine)} />
       </div>
     );
   }
