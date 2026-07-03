@@ -84,21 +84,27 @@
    本文テキストそのものは一切ぼかさない＝可読性を保ったまま「霞んだ回想」感を出す） --- */
 .mistyWrap {
   position: relative;
+  /* z-index を明示して「このブロック自身」をスタッキングコンテキストにする。
+     これが無いと、子の z-index:-1 は祖先（.transcript の不透明な白背景）まで
+     突き抜けて参照されてしまい、その白背景の下に隠れて見えなくなる
+     （position:relative だけでは新しいスタッキングコンテキストにならない）。 */
+  z-index: 0;
   margin: 28px 0;
   padding: 22px 16px 8px;
   --surface-2: var(--flashback-bubble);
   --text: var(--flashback-text);
 }
-/* 単色の四角形を filter: blur() するだけの、GPUでほぼ無負荷な装飾。
-   ぼかした分だけ実寸より大きく描き、縁が滲んで見えるようにする。
+/* 単色の四角形を、縦方向だけのガウスぼかし（SVG feGaussianBlur の
+   stdDeviation="0 16"）で滲ませる。CSS の filter: blur() は等方(縦横同じ)
+   にしかぼかせないため、横方向はシャープなまま・上下だけ霞ませたい場合は
+   SVG フィルタが必要（FlashbackBlock.tsx 側で #misty-vblur を定義）。
    本文とは無関係な純粋な背景装飾なので aria-hidden な専用 div にしている
    （読み上げ・操作に一切関与しない）。 */
 .mistyGlow {
   position: absolute;
-  inset: -18px -10px;
-  background: var(--flashback-bg);
-  filter: blur(20px);
-  border-radius: var(--radius);
+  inset: -30px 0;
+  background: var(--flashback-border);
+  filter: url(#misty-vblur);
   z-index: -1;
 }
 .mistyChip {

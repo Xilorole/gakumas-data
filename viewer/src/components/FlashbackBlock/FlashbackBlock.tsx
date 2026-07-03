@@ -61,6 +61,18 @@ export function FlashbackBlock({ variant = "divider", children }: FlashbackBlock
   if (variant === "misty") {
     return (
       <div className={styles.mistyWrap}>
+        {/* CSS の filter: blur() は等方（縦横同じ強さ）にしかぼかせないため、
+            縦方向だけをぼかす feGaussianBlur(stdDeviation="0 Y") を SVG フィルタ
+            として定義し、.mistyGlow から url(#misty-vblur) で参照する。
+            同じ id が複数 FlashbackBlock 分重複しうるが、url(#id) 参照は
+            最初に見つかった定義を使うだけなので描画上は問題ない。 */}
+        <svg width="0" height="0" style={{ position: "absolute" }} aria-hidden focusable="false">
+          <defs>
+            <filter id="misty-vblur" x="-20%" y="-60%" width="140%" height="220%">
+              <feGaussianBlur stdDeviation="0 16" />
+            </filter>
+          </defs>
+        </svg>
         <div aria-hidden className={styles.mistyGlow} />
         <span className={cn(styles.chip, styles.mistyChip)}>
           <History size={13} strokeWidth={2.2} />
