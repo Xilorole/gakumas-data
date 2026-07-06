@@ -3,10 +3,22 @@ import type { ManifestEntry } from "../../types";
 import type { TranscriptState } from "../../hooks/useTranscript";
 import type { TreeNode } from "../../lib/tree";
 import { seriesNeighbors } from "../../lib/tree";
-import { groupSegments } from "../../lib/lineGroups";
+import { groupSegments, type Segment } from "../../lib/lineGroups";
 import { LineGroup } from "../LineGroup/LineGroup";
 import { FlashbackBlock } from "../FlashbackBlock/FlashbackBlock";
+import { SceneBreak } from "../SceneBreak/SceneBreak";
 import styles from "./Transcript.module.css";
+
+/** セグメント内の groups を、scene-break だけ SceneBreak に差し替えて並べる。 */
+function renderGroups(segment: Segment, keyPrefix: string) {
+  return segment.groups.map((group, j) =>
+    group.type === "scene-break" ? (
+      <SceneBreak key={`${keyPrefix}-${j}`} flashback={segment.flashback} />
+    ) : (
+      <LineGroup key={`${keyPrefix}-${j}`} group={group} />
+    ),
+  );
+}
 
 export interface TranscriptProps {
   /** 選択中エントリ（未選択は null）。 */
@@ -84,15 +96,9 @@ export function Transcript({ entry, state, root, onNavigate }: TranscriptProps) 
         <div className={styles.lines}>
           {groupSegments(state.data.lines).map((segment, i) =>
             segment.flashback ? (
-              <FlashbackBlock key={i}>
-                {segment.groups.map((group, j) => (
-                  <LineGroup key={j} group={group} />
-                ))}
-              </FlashbackBlock>
+              <FlashbackBlock key={i}>{renderGroups(segment, `${i}`)}</FlashbackBlock>
             ) : (
-              segment.groups.map((group, j) => (
-                <LineGroup key={`${i}-${j}`} group={group} />
-              ))
+              renderGroups(segment, `${i}`)
             ),
           )}
         </div>

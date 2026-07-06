@@ -36,7 +36,9 @@ const meta = {
             Transcript 自身のヘッダーはその下に sticky するので、ダミーの
             高さぶんを置いておかないと、Story 単体では sticky が本来より
             早く貼り付いてしまい本文の頭に重なって見える（本番では起きない）。 */}
-        <div style={{ height: "var(--header-h)", background: "var(--surface-2)" }} />
+        <div
+          style={{ height: "var(--header-h)", background: "var(--surface-2)" }}
+        />
         <Story />
       </>
     ),
@@ -62,7 +64,12 @@ export const 表示: Story = {
       data: {
         lines: [
           { index: 1, type: "dialogue", text: "――放課後、保健室。" },
-          { index: 2, type: "dialogue", speaker: "広", text: "プロデューサー。" },
+          {
+            index: 2,
+            type: "dialogue",
+            speaker: "広",
+            text: "プロデューサー。",
+          },
           {
             index: 3,
             type: "dialogue",
@@ -93,26 +100,173 @@ export const エラー: Story = {
   args: { entry, state: { status: "error", error: "本文取得失敗 (HTTP 404)" } },
 };
 
-// flashback-in / flashback-out に挟まれた区間だけが回想として扱われる。
-// マーカー行自体は吹き出しにならず、演出の発生地点としてのみ機能する。
+// in_flashback フラグの区間だけが回想として扱われる。
+// scene_transition（回想の入り/出のフェード）は回想状態を変えない区切り線。
 const 回想を含む会話_lines = [
-  { index: 1, type: "dialogue" as const, speaker: "プロデューサー", text: "……広さん、大丈夫ですか。" },
-  { index: 2, type: "dialogue" as const, speaker: "広", text: "うん……ちょっと、思い出してた。" },
-  { index: 3, type: "dialogue" as const, speaker: "広", text: "入学試験の日のこと。" },
-  { index: 4, type: "flashback-in" as const, text: "" },
-  { index: 5, type: "dialogue" as const, text: "――数年前、初星学園。実技試験会場。" },
-  { index: 6, type: "dialogue" as const, speaker: "千奈", text: "あなたが、噂の……？" },
-  { index: 7, type: "dialogue" as const, speaker: "広", text: "……篠澤広、です。よろしく。" },
-  { index: 8, type: "dialogue" as const, speaker: "広", text: "実技は、たぶん……壊滅的、だと思う。" },
-  { index: 9, type: "flashback-out" as const, text: "" },
-  { index: 10, type: "dialogue" as const, speaker: "プロデューサー", text: "それが、千奈さんとの出会い……。" },
-  { index: 11, type: "dialogue" as const, speaker: "広", text: "うん。ふふ……あの頃は、まだ。" },
+  {
+    index: 1,
+    type: "dialogue" as const,
+    speaker: "プロデューサー",
+    text: "……広さん、大丈夫ですか。",
+  },
+  {
+    index: 2,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "うん……ちょっと、思い出してた。",
+  },
+  {
+    index: 3,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "入学試験の日のこと。",
+  },
+  { index: 4, type: "scene_transition" as const, text: "" },
+  {
+    index: 5,
+    type: "dialogue" as const,
+    text: "――数年前、初星学園。実技試験会場。",
+    in_flashback: true,
+  },
+  {
+    index: 6,
+    type: "dialogue" as const,
+    speaker: "千奈",
+    text: "あなたが、噂の……？",
+    in_flashback: true,
+  },
+  {
+    index: 7,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "……篠澤広、です。よろしく。",
+    in_flashback: true,
+  },
+  {
+    index: 8,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "実技は、たぶん……壊滅的、だと思う。",
+    in_flashback: true,
+  },
+  { index: 9, type: "scene_transition" as const, text: "" },
+  {
+    index: 10,
+    type: "dialogue" as const,
+    speaker: "プロデューサー",
+    text: "それが、千奈さんとの出会い……。",
+  },
+  {
+    index: 11,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "うん。ふふ……あの頃は、まだ。",
+  },
 ];
 
 export const 回想を含む会話: Story = {
   args: {
     entry,
     state: { status: "ready", data: { lines: 回想を含む会話_lines } },
+  },
+};
+
+// scene_transition は回想と違って前後の見た目を変えない、軽い区切り線だけの演出。
+const 場面転換を含む会話_lines = [
+  {
+    index: 1,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "そろそろ、行こうか。",
+  },
+  {
+    index: 2,
+    type: "dialogue" as const,
+    speaker: "プロデューサー",
+    text: "はい。屋上、でしたね。",
+  },
+  { index: 3, type: "scene_transition" as const, text: "" },
+  { index: 4, type: "dialogue" as const, text: "――放課後、屋上。" },
+  {
+    index: 5,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "……風、気持ちいい。",
+  },
+  {
+    index: 6,
+    type: "dialogue" as const,
+    speaker: "プロデューサー",
+    text: "そうですね。",
+  },
+];
+
+export const 場面転換を含む会話: Story = {
+  args: {
+    entry,
+    state: { status: "ready", data: { lines: 場面転換を含む会話_lines } },
+  },
+};
+
+// 場面転換(scene_transition)と回想(in_flashback)が同じ話の中で両方起きる例。
+// scene-break は flashback の状態を変えないため、回想の内側でも外側でも独立して使える。
+const 回想と場面転換の両方を含む会話_lines = [
+  {
+    index: 1,
+    type: "dialogue" as const,
+    speaker: "プロデューサー",
+    text: "……広さん、大丈夫ですか。",
+  },
+  {
+    index: 2,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "うん……ちょっと、思い出してた。",
+  },
+  { index: 3, type: "scene_transition" as const, text: "" },
+  {
+    index: 4,
+    type: "dialogue" as const,
+    text: "――数年前、初星学園。実技試験会場。",
+    in_flashback: true,
+  },
+  {
+    index: 5,
+    type: "dialogue" as const,
+    speaker: "千奈",
+    text: "あなたが、噂の……？",
+    in_flashback: true,
+  },
+  { index: 6, type: "scene_transition" as const, text: "" },
+  {
+    index: 7,
+    type: "dialogue" as const,
+    text: "――同じ日の放課後。",
+    in_flashback: true,
+  },
+  {
+    index: 8,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "……篠澤広、です。よろしく。",
+    in_flashback: true,
+  },
+  { index: 9, type: "scene_transition" as const, text: "" },
+  {
+    index: 10,
+    type: "dialogue" as const,
+    speaker: "広",
+    text: "うん。あの頃は、まだ。",
+  },
+];
+
+export const 回想と場面転換の両方を含む会話: Story = {
+  args: {
+    entry,
+    state: {
+      status: "ready",
+      data: { lines: 回想と場面転換の両方を含む会話_lines },
+    },
   },
 };
 
