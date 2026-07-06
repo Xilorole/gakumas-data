@@ -1,4 +1,4 @@
-import type { LineGroup as LineGroupData } from "../../lib/lineGroups";
+import type { ChoiceGroup, DialogueGroup } from "../../lib/lineGroups";
 import { isProducer } from "../../lib/speaker";
 import { SpeakerLabel } from "../SpeakerLabel/SpeakerLabel";
 import { LineView } from "../LineView/LineView";
@@ -6,7 +6,8 @@ import { ChoiceLine } from "../ChoiceLine/ChoiceLine";
 import styles from "./LineGroup.module.css";
 
 export interface LineGroupProps {
-  group: LineGroupData;
+  /** scene-break は呼び出し側(Transcript)で SceneBreak に振り分けるため、ここでは扱わない。 */
+  group: DialogueGroup | ChoiceGroup;
 }
 
 /**
