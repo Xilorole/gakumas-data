@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:51:40.472536+00:00",
+  "exported_at": "2026-07-14T22:58:54.772188+00:00",
   "line_count": 61,
   "needs_review": 0,
   "lines": [
@@ -217,7 +217,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "会場の外に出てしまっては、\n誰もくるわけがないでしょう。"
     },
     {
@@ -235,7 +235,7 @@
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "月村さん……"
     },
     {
@@ -270,7 +270,7 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "今日のライブを観て、配信しました。"
     },
     {
@@ -331,7 +331,7 @@
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "あなたの期待に応えられましたか？"
     },
     {

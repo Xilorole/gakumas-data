@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:45.699135+00:00",
+  "exported_at": "2026-07-14T22:58:55.232948+00:00",
   "line_count": 46,
   "needs_review": 0,
   "lines": [
@@ -68,7 +68,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "学園",
+      "speaker": "手毬",
       "text": "いつも通りすぎて、\n肩の力が抜けちゃうよ。"
     },
     {

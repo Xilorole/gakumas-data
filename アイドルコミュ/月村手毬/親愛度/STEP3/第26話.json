@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:51:43.198380+00:00",
+  "exported_at": "2026-07-14T22:58:57.439235+00:00",
   "line_count": 95,
   "needs_review": 0,
   "lines": [
@@ -158,7 +158,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "それでいい。さあ第2戦です。\n対戦相手はどんどん強くなりますよ。"
     },
     {
@@ -251,7 +251,7 @@
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "お言葉ですが、\nそうはならないと思います。"
     },
     {
@@ -269,7 +269,7 @@
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "（……最後まで歌い切れれば）"
     },
     {
@@ -299,7 +299,7 @@
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "極月学園の皆さんは、月村さんと同じ\n控え室にしておきました。"
     },
     {
@@ -323,7 +323,7 @@
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "良いときは良いですし、\nダメなときはダメなんです。"
     },
     {
@@ -494,15 +494,16 @@
       "in_flashback": true
     },
     {
+      "index": 89,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
       "index": 90,
       "type": "dialogue",
       "speaker": "手毬",
-      "text": "お土産に録音するから、\nもう1曲歌ってくれるよね？"
-    },
-    {
-      "index": 91,
-      "type": "scene_transition",
-      "text": ""
+      "text": "お土産に録音するから、\nもう1曲歌ってくれるよね？",
+      "in_flashback": true
     },
     {
       "index": 92,

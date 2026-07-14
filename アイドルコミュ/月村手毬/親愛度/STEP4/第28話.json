@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:51:44.073337+00:00",
+  "exported_at": "2026-07-14T22:58:58.326290+00:00",
   "line_count": 61,
   "needs_review": 0,
   "lines": [
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "夢を抱いた瞬間から、\nずっと変わらずベタ踏みでしょう。"
     },
     {
@@ -178,13 +178,13 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "当然でしょうね。うちの月村さんに\n勝ったんですから。"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "そのくらいはやってもらわないと、\n我々の立つ瀬がありません。"
     },
     {
@@ -196,7 +196,7 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "これによって『H.I.F』の格が\n大幅に上がり、冬の同大会は――"
     },
     {
@@ -214,7 +214,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "ソロとユニットの部門分けが\nなくなって。優勝者と『{一番星|プリマステラ}』が\nイコールになりました。"
     },
     {
@@ -280,7 +280,7 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "夏の『H.I.F』本戦で負けて、\nその後は？"
     },
     {
@@ -340,7 +340,7 @@
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "それだけではありません。\n『{選抜試験|セレクション}』もまた、成長の機会。"
     },
     {

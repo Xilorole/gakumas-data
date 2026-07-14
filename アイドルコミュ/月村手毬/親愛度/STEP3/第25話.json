@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:51:42.750453+00:00",
+  "exported_at": "2026-07-14T22:58:56.998834+00:00",
   "line_count": 82,
   "needs_review": 0,
   "lines": [
@@ -291,7 +291,7 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "秦谷さん経由で事情を教えて\nいただきましたので、"
     },
     {
@@ -423,7 +423,7 @@
     {
       "index": 70,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "勝てばいいんです。"
     },
     {
@@ -435,7 +435,7 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "月村手毬は、トップアイドルにだって\n負けはしない。"
     },
     {
