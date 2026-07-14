@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:46.580333+00:00",
+  "exported_at": "2026-07-14T22:58:56.121389+00:00",
   "line_count": 112,
   "needs_review": 5,
   "lines": [
@@ -437,7 +437,7 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "うかがいましょう。"
     },
     {
@@ -456,7 +456,7 @@
     {
       "index": 75,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "それは良い考えですね。"
     },
     {

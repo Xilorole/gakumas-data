@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T20:09:05.041431+00:00",
+  "exported_at": "2026-07-14T22:58:55.678061+00:00",
   "line_count": 49,
   "needs_review": 0,
   "lines": [
@@ -63,7 +63,7 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "手が震えていますよ。"
     },
     {
@@ -173,7 +173,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "月村さんが、楽しそうなので。"
     },
     {
@@ -281,7 +281,7 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "るんしろ",
+      "speaker": "ろんしろ",
       "text": "でも、もう一度やるんでしょう？\n何度だって、やるんでしょう？"
     },
     {
