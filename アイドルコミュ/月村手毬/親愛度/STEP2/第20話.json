@@ -1,0 +1,449 @@
+{
+  "session": "temari_20",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-07-14T13:02:34.074031+00:00",
+  "line_count": 75,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "text": "優勝ライブが終わり――\n『NEXTIDOLAUDITION』の幕が閉じる。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "……手毬のくせに。やるじゃない。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "（思い出した……\n『SyngUp！』を結成した理由）",
+      "inner_voice": true
+    },
+    {
+      "index": 4,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "なんで？　嫌なわけない。だって――",
+      "in_flashback": true
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "燐羽の隣で歌うと、\nもっともっと上手くなれるから！",
+      "in_flashback": true
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "テレビに出てるアイドルより、\n燐羽の方がずぅ～～っとすごい！",
+      "in_flashback": true
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私に――アイドルを教えてよっ！",
+      "in_flashback": true
+    },
+    {
+      "index": 9,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "燻羽",
+      "text": "（あいつらだけが……\n私の隣で歌うのを、嫌がらなかった）",
+      "inner_voice": true
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "……ばっかみたい。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "ほら、そこの恥さらしども――\nいつまで無様に泣いているつもり？"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "ついてきなさい。\n契約期間は終わっていないから――"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "自分をアイドルに《《戻す》》ついでに……\n鍛え直してあげる。"
+    },
+    {
+      "index": 15,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサー――いた？"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いいえ。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "さっきステージから姿を確認したので。\n来てないハズはないんですけど……"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もう帰ってしまったのでは？"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "くっ……優勝したからには、\n燦羽にも勝ち誇っておきたかったのに！"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月村さん……\nそういうところだと思いますよ？"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "わかってます！　けどっ……！\n今回だけは特別っていうか……"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "燐羽に勝って、美鈴に勝って、\n月村手毬史上最高のライブができて……"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いま自慢しなくてどうするんですか！？"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "何度だって機会はありますよ。\n――トップアイドルになるんでしょう？"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "そう、ですね――……"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いや！　やっぱり今日すっきりしたい！"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ず～～～～〜っとヘタクソ呼ばわり、\n格下扱いされてきた恨みっ！"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "百倍返しにする絶好の機会なんです！\n燃羽ぁ～～～～～～～～～～！"
+    },
+    {
+      "index": 30,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はぁっ……はぁっ……\nくっ……そんな……見つからない……"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "この際、極月学園の連中でも……\n咲季でもことねでもいいのに……"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "初星学園を代表して\n『N.I.A.』を制した月村手毬にーー"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "誰も会いに来ないのは\nどうしてなんですかプロデューサー！"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "大人しく控え室にいれば、\n皆さんお祝いにきてくれたのでは？"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "うっ……"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "会場の外に出てしまっては、\n誰もくるわけがないでしょう。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私、正論は好きじゃないです。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "せっかく優勝したのに……\n落ち込んだ気分になってきました。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "月村さん……"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "なんですか？　お小言なら後でー"
+    },
+    {
+      "index": 42,
+      "type": "choice",
+      "text": "ありがとう"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "えっ……"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "な、なんでプロデューサーが\nお礼を言うんですか？"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いつもの嫌味……じゃ、\nない……ですよね。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "今日のライブを観て、配信しました。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたは必ずトップアイドルになれる。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "俺の夢を……叶えてくれる。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサー……間違えていますよ。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "夢じゃなくて、目標でしょう？"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あのとき言ったはずです。\nあなたの目標は叶えられると。"
+    },
+    {
+      "index": 52,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私についてこられるなら、だけど。",
+      "in_flashback": true
+    },
+    {
+      "index": 54,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ついてきて……くれましたね。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "それどころか……私の手を引っ張って、\n背を押して、肩を貸して、声をかけて。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "こんなに高いところまで……\n連れてきてくれた。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "あなたの期待に応えられましたか？"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いまさら聞くんですか？\nいいけど……特別な日、ですから。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "今日のライブで、確信しました――"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あなたは私を、\n必ずトップアイドルにしてくれる。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あなたがいれば……私の翼は、\n本物よりも高く飛べる。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "近い将来、証明してみせます。\nあなたがーー……"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "トップアイドルを導き育てた、\n最高のプロデューサーだって！"
+    },
+    {
+      "index": 65,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 66,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 67,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 68,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 69,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 70,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 71,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 72,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 73,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 74,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 75,
+      "type": "scene_transition",
+      "text": ""
+    }
+  ]
+}
