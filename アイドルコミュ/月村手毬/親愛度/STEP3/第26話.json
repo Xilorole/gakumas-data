@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T20:09:06.812641+00:00",
+  "exported_at": "2026-07-14T22:51:43.198380+00:00",
   "line_count": 95,
   "needs_review": 0,
   "lines": [
@@ -194,7 +194,7 @@
       "index": 33,
       "type": "dialogue",
       "speaker": "撫子",
-      "text": "煉羽様の厳しいご指導の下、\n生まれ変わったいまのあたくしは――"
+      "text": "燐羽様の厳しいご指導の下、\n生まれ変わったいまのあたくしは――"
     },
     {
       "index": 34,
@@ -370,7 +370,7 @@
       "index": 67,
       "type": "dialogue",
       "speaker": "手毬",
-      "text": "私の勝ちだよ！！　燦羽！！"
+      "text": "私の勝ちだよ！！　燐羽！！"
     },
     {
       "index": 68,
@@ -466,7 +466,7 @@
       "index": 84,
       "type": "dialogue",
       "speaker": "手毬",
-      "text": "──燦羽。もう1回、お手本お願い。",
+      "text": "──燐羽。もう1回、お手本お願い。",
       "in_flashback": true
     },
     {
@@ -478,7 +478,7 @@
       "index": 86,
       "type": "dialogue",
       "speaker": "手毬",
-      "text": "もう1回よろしく。燎羽が私の声で\n歌うの、好きなんだよね。",
+      "text": "もう1回よろしく。燐羽が私の声で\n歌うの、好きなんだよね。",
       "in_flashback": true
     },
     {
