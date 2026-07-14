@@ -3,8 +3,8 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:46.139417+00:00",
-  "line_count": 55,
+  "exported_at": "2026-07-14T20:09:05.041431+00:00",
+  "line_count": 49,
   "needs_review": 0,
   "lines": [
     {
@@ -79,11 +79,6 @@
       "text": "いえ……"
     },
     {
-      "index": 13,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
       "index": 14,
       "type": "dialogue",
       "speaker": "美鈴",
@@ -96,11 +91,6 @@
       "speaker": "美鈴",
       "text": "すぐに、歩いて、追いつきます。",
       "in_flashback": true
-    },
-    {
-      "index": 16,
-      "type": "scene_transition",
-      "text": ""
     },
     {
       "index": 17,
@@ -308,26 +298,6 @@
     },
     {
       "index": 51,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 52,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 53,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 54,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 55,
       "type": "scene_transition",
       "text": ""
     }

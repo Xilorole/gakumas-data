@@ -3,8 +3,8 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:48.359391+00:00",
-  "line_count": 76,
+  "exported_at": "2026-07-14T20:09:07.253588+00:00",
+  "line_count": 67,
   "needs_review": 1,
   "lines": [
     {
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "はいはい。またね。"
     },
     {
@@ -404,51 +404,6 @@
     },
     {
       "index": 67,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 68,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 69,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 70,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 71,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 72,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 73,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 74,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 78,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 82,
       "type": "scene_transition",
       "text": ""
     }
