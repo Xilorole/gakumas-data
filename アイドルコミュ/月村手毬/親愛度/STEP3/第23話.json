@@ -1,0 +1,682 @@
+{
+  "session": "temari_23",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-07-14T13:02:46.580333+00:00",
+  "line_count": 112,
+  "needs_review": 5,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "我が校が誇る夏の一番星、\nその名は――"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "学園長",
+      "text": "十王星南！"
+    },
+    {
+      "index": 3,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "…………………………ふうっ。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私たちの負けだね、美鈴。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "………………………………………………"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "今日は、ふたりきりの勝負。\nそう思っていました。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "まさか、こんな邪魔が入るなんて……"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "呆れた。もしかして……\n眠中になかったの？　{『一番星』|プリマステラ}が？",
+      "needs_review": true
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "いつでも勝てる相手……\nそう思っていました。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "実際、ほんのすこし前までは……\nあのひとがステージに立つ瞬間までは。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "わたしたちが、\n会場を支配していた。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "{『一番星』|プリマステラ}十王星南なんて、\n会場の誰もが忘れていたはずなのに……"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "綺麗にひっくり返されたね。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ま、このくらいやってもらわないと\n話にならないよ。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "なんたって、私たちが憧れたーー"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "{『一番星』|プリマステラ}の看板を\n背負ってるんだから。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "ふふ……{『一番星』|プリマステラ}……\nまた、わたしの邪魔をするんですね……"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "それより！\n私たちの勝負のことだけど――"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私の負けだから！"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "どっちでもいいです。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "ふたりとも『{一番星|プリマステラ}』を\n獲れなかったんですから。",
+      "needs_review": true
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "どっちでもよくない！"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "キッチリさせておかないと、\nスタンスが定まらないよ。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "冬の『H.I.F』では、\n私が勝って『{一番星|プリマステラ}』になる。",
+      "needs_review": true
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "秦谷美鈴にも、十王星南にも、\nリベンジするってこと。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "ふたりの名前が並んでいる……"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "やっぱり邪魔ですね、あのひと。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "りんちゃんが退学したとき以来の……\n……せわしない気分。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "まりちゃん、このあとすぐに\nミーティングでしょう？"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "うん……負けちゃったからね。\n反省会しないと。……それがなに？"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "提案があります――……"
+    },
+    {
+      "index": 33,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ただいま、プロデューサー。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "おかえりなさい、月村さん。\nすぐに帰って反省会をしましょう。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "言うと思った。\nさすが私のプロデューサーだね。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そういう反応だと思いましたよ。\n気が合いますね。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あなたのパートナーですから。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今大会の参加者は皆、トップアイドルに\n片足を突っ込んだような者ばかり……"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "非常にレベルの高い大会だった。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "なにが言いたいんですか？"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "これは断じて慰めではなく。\n負け惜しみでもなく。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "——いい勝負でした。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "そう……でしょうか。\nがむしゃらに歌っただけで……"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "結局、届きませんでした。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あのとき会場の空気は、秦谷さん\nの歌で塗りつぶされてしまっていた。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まともに他のアイドルの審査を\nできるような状況ではなかった。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "なのに、いい勝負でした。\n誰もがそう感じたはずです。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私の歌で……空気くらいは\n変えられたのかな。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ええ。月村手毬の出番が\n秦谷美鈴の直後でなければ"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "もっと盛り下がった大会に\nなっていたはずです。あるいは、"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『{一番星|プリマステラ}』になる人物さえ……\n変わっていたかもしれない。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "………………………………………………"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月村手毬の歌が、皆の目を覚ました。\n異様な空気を{払拭|ふっしょく}して、"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "大会を成功に導いたのだ……と、\nそう思っています。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "負けは負けです。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "……でも、ありがとうございます。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私も負け惜しみをしておこうと\n思ったんですけど。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "必要なくなっちゃいました。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサーが代わりに、\nたくさん悔しがってくれたから。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "今日、私のライバルたちは、\n本当にすごかったけど。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなたもすごかった。\n紙一重の敗北だった。"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "俺が審査員なら、\nあなたこそが『{一番星|プリマステラ}』です。",
+      "needs_review": true
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "——そうやって、本気で、本心で、\nむきになってくれるから。"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "今夜は泣かずに済みそうです。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "さあっ、切り替えましょう！"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "合理的に、ストイックに、\nがむしゃらに、私たちらしく。"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "リベンジのはじまりです！"
+    },
+    {
+      "index": 69,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "さっそくミーティングを\nはじめましょう――でもその前に。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "わたしたちの提案を聞いて\nいただけますか、プロデューサー。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "うかがいましょう。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "まりちゃんの次の目標は、\n冬の『H.I.F』での『{一番星|プリマステラ}』獲得。",
+      "needs_review": true
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "それなら、一緒に特訓しましょう――\n『SyngUp！』の3人で。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "それは良い考えですね。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "ふふ……そして、\n『H.I.F』の調整も兼ねて……"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "やりませんか？\n『SyngUp！』の解散ライブを。"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "きっと盛り上がると……思うんです。"
+    },
+    {
+      "index": 79,
+      "type": "choice",
+      "text": "ダメです"
+    },
+    {
+      "index": 81,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "元『SyngUp！』の3人で特訓。\n素晴らしいアイデアです。\nぜひやりましょう。しかし、"
+    },
+    {
+      "index": 82,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "解散ライブは許可できません。"
+    },
+    {
+      "index": 83,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "理由は？\n私、わりと乗り気なんだけど。"
+    },
+    {
+      "index": 84,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "あなた方にとって解散ライブは、\nそんな軽いものではないはず。"
+    },
+    {
+      "index": 85,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "必ず二兎を追う結果になる。\n『H.I.F』の調整にはなりません。"
+    },
+    {
+      "index": 86,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "それは……そう、ですね。"
+    },
+    {
+      "index": 87,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサーのいうこと、\nわかります。"
+    },
+    {
+      "index": 88,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "すべてを懸けなきゃ……\n勝てるわけない。"
+    },
+    {
+      "index": 89,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "まりちゃん……"
+    },
+    {
+      "index": 90,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ぜんぶ終わってからにしよう……\n美鈴。"
+    },
+    {
+      "index": 91,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "……そうですね。いかがでしょうか、\nプロデューサー。"
+    },
+    {
+      "index": 92,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "構いません。ただし、その頃には、\n月村手毬はトップアイドルです。"
+    },
+    {
+      "index": 93,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "困りますよ。\n足を引っ張ってもらっては。"
+    },
+    {
+      "index": 94,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "…………………………まあ、ひどい。"
+    },
+    {
+      "index": 95,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "賀陽さんにも、どうか、\nそのままお伝えください。"
+    },
+    {
+      "index": 96,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "ふふ……かしこまりました。\n特訓の件は、また日をあらためて。"
+    },
+    {
+      "index": 97,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 98,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサー……\nなんです、いまの。"
+    },
+    {
+      "index": 99,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私がトップアイドル……って。"
+    },
+    {
+      "index": 100,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "伝わりませんでしたか？"
+    },
+    {
+      "index": 101,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "まったく伝わっていません。"
+    },
+    {
+      "index": 102,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私のいまの目標は、\n『{一番星|プリマステラ}』だったはずですけど。"
+    },
+    {
+      "index": 103,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ほどなく……十王星南が、\nトップアイドルになります。"
+    },
+    {
+      "index": 104,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "えっ……"
+    },
+    {
+      "index": 105,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "『H.I.F』の価値が上がり『{一番星|プリマステラ}』が\nトップアイドルの称号になる。"
+    },
+    {
+      "index": 106,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "それってあくまでプロデューサーの\n予想だよね。"
+    },
+    {
+      "index": 107,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "会長が、冬までにトップアイドルに……\n……あるのかな、そんなこと。"
+    },
+    {
+      "index": 108,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "予想もなにも……うちの月村さんに\n勝ったんですから。"
+    },
+    {
+      "index": 109,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "当然でしょう、《《そのくらい》》。\nきっとすぐです。"
+    },
+    {
+      "index": 110,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "目が据わってる……信頼、重っ。"
+    },
+    {
+      "index": 111,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はぁ……まったく……もう。"
+    },
+    {
+      "index": 112,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "約束するよ。\nあなたの期待、二度と裏切らない。"
+    },
+    {
+      "index": 113,
+      "type": "scene_transition",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "session": "temari_21",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-07-14T13:02:45.699135+00:00",
+  "line_count": 46,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "text": "～『Hatsuboshi　IDOL　FESTIVAL』\n当日～"
+    },
+    {
+      "index": 2,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ついにこの日がやってきましたね、\nプロデューサー。"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "今日、私は『H.I.F』で優勝し、\n『{一番星|プリマステラ}』になります。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "十王星南にも、秦谷美鈴にも、\n勝ってみせる。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "そのビッグマウス。\n調子は……良いようですね"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "万全です。『N.I.A』で優勝した\nあの日と同じ……いいえ、それ以上に。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "仕上がっている自信があります。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "本番直前の月村さんは、本当に心強い。\n常にそうあって欲しいものです。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "そういうプロデューサーは、\n本番直前でもイヤミだね。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "学園",
+      "text": "いつも通りすぎて、\n肩の力が抜けちゃうよ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "……どうぞ。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "——失礼します。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "美鈴。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "さっきぶりですね、まりちゃん。\nきちゃいました。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "なにやってるの。\nもうすぐあなたの出番でしょ。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "出番の前に、話しておきたくて。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "『N.I.A』での勝負を\n覚えていますか。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "忘れるわけない。約束したよね。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "月村手毬が秦谷美鈴のライバルだと、\n認めさせてみせるって。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "そうですね……約束しました。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "秦谷美鈴が月村手毬のライバルだと、\n認めさせてみせます……と。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "思えば……はじめてでしたね。\nまりちゃんと直接対決するなんて。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私の勝ちだったね。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "ええ、あれで目が覚めました。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "宣言通り――……\n歩いて追いかけてきましたよ。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "追いつけたと思ってる？"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "追い抜けたと思っています。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "試してみれば？"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "そのつもりです。……ふふ。\nまりちゃんはいつも……"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "太陽のようなアイドルになりたい。\nそう言っていましたね。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "そうして夢からずっと目を離さずに、\n空を見上げていた。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あなたも同じところを目指していたと\n思っていたんだけど。違うの？"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "違うみたいです。\n最近気づいたことですが。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "わたしは、あなたが見上げるその先に。\nあなたが目指すその先に、いたいだけ。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "だから、わたしが目指すのは……\n太陽よりも高いところ。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "世界中のアイドルファンが……\n《《わたしだけ》》を見上げるような。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "すべての星々を塗りつぶす、\n夜空のようなアイドルに……"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "なると決めたんです"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "……美鈴らしい夢だね。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "そうでしょう？　やっと……\nはっきり見えるようになりました。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "あなたの歌が、\nわたしの目を覚ましてくれたから。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "お返しに……今日のステージを、\nあなたに贈ります。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "夢を見つけたわたしの歌を……\nソロアイドル・秦谷美鈴の歌を。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "どうか、聴いてくださいね――――"
+    },
+    {
+      "index": 46,
+      "type": "scene_transition",
+      "text": ""
+    }
+  ]
+}

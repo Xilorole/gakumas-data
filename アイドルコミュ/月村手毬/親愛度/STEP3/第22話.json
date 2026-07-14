@@ -1,0 +1,335 @@
+{
+  "session": "temari_22",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-07-14T13:02:46.139417+00:00",
+  "line_count": 55,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "……ありがとうございました。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "（彼女が歌い終えると、\n会場は一瞬、静まり返り——）"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "（雪崩のような大歓声！）"
+    },
+    {
+      "index": 4,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "まるで『{一番星|プリマステラ}』が決まったみたいな\n盛り上がりだね。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "まったく……次は私の出番なのに。\n……やってくれるじゃん、美鈴。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "すさまじいステージでしたね。観客の\n心をすべて持っていってしまった。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "怖気づいたんですか？\nプロデューサー。"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "はい……正直に言えば。\nそういう月村さんこそ。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "手が震えていますよ。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はじめて見ました……\n美鈴が、本気で歌うところ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いえ……"
+    },
+    {
+      "index": 13,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "感情に任せて走ってしまえば……\n余計に追いつけませんから。",
+      "in_flashback": true
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "美鈴",
+      "text": "すぐに、歩いて、追いつきます。",
+      "in_flashback": true
+    },
+    {
+      "index": 16,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "……本気って言い方は、\n違うのかもしれません。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "きっとあれが、\nあいつなりの全力なんです。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "そういう美鈴が、一番速いんです。\nたとえ歩いていたって、関係ない。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はぁ……ずっと仲間で。\n幼馴染みで、親友で。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いまはライバルのつもり……\nだったんですけど。"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "たったいま、\nむりやりファンにされちゃいました。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "会場の空気も、ファンの心も、私の夢も\n……塗りつぶされちゃいました。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "動揺してます。すごく。いつも通りに\n歌えるかどうかもあやしいです。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……気持ちはわかります。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "こんな雰囲気の中で歌うなど……\nたとえトップアイドルでも難しい。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "もう……弱気になってるアイドルに、\nネガティブなことばっかり言って。"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサーとして、\nどうかと思います。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……すみません。ただ……"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "月村さんが、楽しそうなので。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はあ？　ばかじゃないの？\n誰が楽しそうだって言うんですか……"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "懐かしがっているんです、これは。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "怒っているんです、これは。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "中等部に入学したばかりの頃、\nちょうどこんな気分でした。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "初心者同士だったのに、あっという間に\n上達して……私だけが置き去りで。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "才能の差を見せつけられて。\nヘタクソな自分が大っ嫌いで。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "心臓を握りつぶすような気持ちで、\nがむしゃらに走るしかなかった――"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "やっと対等になれたと思ったのに……！\nようやく追い抜いたと思ったのに……！"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "こっの……！\n平然と歩いて追い抜いて……ッ！"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あァアァァ～〜〜〜〜～～～～～！\n自分自身に腹が立つ～～～〜〜～！！"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "────しってた！　わかってた！"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "これが……私とは違う、\n本物のアイドルなんだって……！"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "――いいよ。もう一度、\n何度だってやってやる。"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あの頃。私は私が大嫌いでした。\nだけど……ひとつだけ。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "自分を好きになれる瞬間が\nあったんです。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "以前、教えてくれましたね。"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "忘れてください。教えたの……\n後悔してます。人生の恥です。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "でも、もう一度やるんでしょう？\n何度だって、やるんでしょう？"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いまからやってきますよ――"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "無理をして、背伸びをして……\nみっともなく追いすがってやる！"
+    },
+    {
+      "index": 51,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 52,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 53,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 54,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 55,
+      "type": "scene_transition",
+      "text": ""
+    }
+  ]
+}

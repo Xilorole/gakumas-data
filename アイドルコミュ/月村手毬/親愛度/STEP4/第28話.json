@@ -1,0 +1,377 @@
+{
+  "session": "temari_28",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-07-14T13:02:48.802288+00:00",
+  "line_count": 61,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサー！！！"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "うわっ！？"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "今日は冬の『H.I.F』について、\nミーティングをする日でしたよね！"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "さっそくはじめましょう！"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "張り切っていますね、月村さん。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はい！　もしかしたら、\nアイドルを始めたあの頃と、"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "同じくらい気持ちが\n昂っているかもしれません。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それはすさまじい。なにかきっかけが？"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "美鈴と約束したんです。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "最初から最後まで、\n全身全霊で歌ってみせるって。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "『H.I.F』を、\n私たちの大会にしてやろうって。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "『{一番星|プリマステラ}』だろうがトップアイドル\nだろうが、脇役にしてやるって。"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "傲慢で心強い宣言ですね……と、\n褒めたいところですが。"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いつも通りでは？"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ふっ……そうかもね。"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月村手毬と出逢ってから、\nまだ1年も経っていませんが。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "これだけはハッキリしている。\nあなたがアクセルを緩めるわけがない。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "夢を抱いた瞬間から、\nずっと変わらずベタ踏みでしょう。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "言い方にトゲがある～～〜～～～～！"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "――でも。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "それが私です！"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "よろしい。では、冬の『H.I.F』に\n向けたミーティングをはじめましょう。"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "お願いします。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まずはここまでのおさらいを\nしましょう。月村さん、どうぞ。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "月村手毬は『N.I.A』で優勝したあと、\n夏の『H.I.F』本戦で敗退。"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "『{一番星|プリマステラ}』は、\n十王星南会長に決まりました。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "そして3連覇を果たしたあの人は、"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "その後、すぐにトップアイドルと\n呼ばれるようになったんです。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "当然でしょうね。うちの月村さんに\n勝ったんですから。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "そのくらいはやってもらわないと、\n我々の立つ瀬がありません。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "もう……また言ってる。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "これによって『H.I.F』の格が\n大幅に上がり、冬の同大会は――"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いまやトップアイドルを決める大会へと\n変貌しています。"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "確かルールも変わったんだよね。"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "ソロとユニットの部門分けが\nなくなって。優勝者と『{一番星|プリマステラ}』が\nイコールになりました。"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "優勝すれば『{一番星|プリマステラ}』で、\nトップアイドル。シンプルでいいね。"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "我々にとって、実に好都合。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "夏のリベンジを果たす《《ついで》》に、\n目標を達成してしまいましょう。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "プロデューサーのそういうところ、\n嫌いじゃないです。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "気が合うなって、\n最初から思っていました。"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "遺憾ながら、我々は似た者同士。"
+    },
+    {
+      "index": 42,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "無用な気遣いをせずにプロデュース\nできるのは良いことです。"
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いつもながらイヤミっぽいな。\nふっ、まあ、私も……"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "無用な気遣いをせずに\n迷惑をかけられるので気が楽です。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "…………………それは良かった。\nおさらいの続きがどうぞ。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "夏の『H.I.F』本戦で負けて、\nその後は？"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "元『SyngUp！』の3人で特訓を\n行いました。"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "961プロの施設で、現役アイドルたちと\nレッスンをしたんです。"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "すごく刺激的な日々でした。久しぶりに\n燐羽と特訓ができましたし……"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "格上のアイドルたちと競い合うことで、\n成長できたと思います。"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "アイドルに戻った燎羽との再戦にも……\n勝てました！"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "月村手毬の『はじまりのアイドル』を、\n超えることができたんです！"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "……良いおさらいでした。\n今後の方針ですが――"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "『{選抜試験|セレクション}』で圧勝して、\n冬の『H.I.F』の参加権を得る――"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ですよね。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "それだけではありません。\n『{選抜試験|セレクション}』もまた、成長の機会。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "……今回の『{選抜試験|セレクション}』は、\nいつもよりずっとレベルが高そうだし。"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いいレッスンになりそうですね。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "初星学園の黄金世代を糧にして、\nさらなる力を付けましょう。"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はいっ！　夏の敗退からはじまった、\n月村手毬のリベンジ計画。"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ここからがクライマックスです！"
+    }
+  ]
+}

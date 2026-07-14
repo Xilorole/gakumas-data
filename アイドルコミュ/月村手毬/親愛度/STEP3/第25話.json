@@ -1,0 +1,501 @@
+{
+  "session": "temari_25",
+  "title": null,
+  "idol": null,
+  "comm_type": null,
+  "exported_at": "2026-07-14T13:02:47.470947+00:00",
+  "line_count": 82,
+  "needs_review": 0,
+  "lines": [
+    {
+      "index": 1,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "燦羽……だいぶ戻ってきたみたいだね、\nアイドルに。"
+    },
+    {
+      "index": 2,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "さっきのミニライブ、\nいい感じだったと思うよ。"
+    },
+    {
+      "index": 3,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "偉そうに……"
+    },
+    {
+      "index": 4,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "私に負けて、さっきまで泣きべそ\nかいてたやつの台詞じゃないでしょ。"
+    },
+    {
+      "index": 5,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ふっ、なんのことかわからないな。"
+    },
+    {
+      "index": 6,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ただ、負けは認める。さっそく\n『N.I.A』のリベンジされちゃったね。"
+    },
+    {
+      "index": 7,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あぁ悔しい。"
+    },
+    {
+      "index": 8,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "悔しそうに見えないんだけど……"
+    },
+    {
+      "index": 9,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "燎羽が……\nアイドルに戻ってくれて、嬉しいから。"
+    },
+    {
+      "index": 10,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "……あっそ。"
+    },
+    {
+      "index": 11,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "……リクエスト通り、実力を戻して、\nあなたに勝ってあげたわ。"
+    },
+    {
+      "index": 12,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "これで満足？"
+    },
+    {
+      "index": 13,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "え、ぜんぜん。\nまだ上があるでしょ？"
+    },
+    {
+      "index": 14,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "いまの私は、『SyngUp！』解散前の\n私と、同程度の実力のはずだけど。"
+    },
+    {
+      "index": 15,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "《《だから》》、まだまだ上があるでしょ？"
+    },
+    {
+      "index": 16,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "ないわ。"
+    },
+    {
+      "index": 17,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あるってば。ぐれる直前の燦羽は\nもっとすごかったし。"
+    },
+    {
+      "index": 18,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "だとしても、\n《《これ以上はレッスンしない》》。"
+    },
+    {
+      "index": 19,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "約束を果たすためにやっているだけで、\nアイドルへの情熱なんてないんだから。"
+    },
+    {
+      "index": 20,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "これで我慢しなさい。いいわね。"
+    },
+    {
+      "index": 21,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "燐羽がレッスンしない理由ってさ。\n継さんと――"
+    },
+    {
+      "index": 22,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "私が一度でも、\nそんなことを自分で言った？"
+    },
+    {
+      "index": 23,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "誰かから聞いたのか、\n自分で想像したのかしらないけど。"
+    },
+    {
+      "index": 24,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "その話を続けるつもりなら……\n慎重に言葉を選びなさい。"
+    },
+    {
+      "index": 25,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "じゃあ、これだけ確認させて。\nいまの燃羽のステージは……"
+    },
+    {
+      "index": 26,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "かつての『{一番星|プリマステラ}』貫陽継の\n完全コピー。声も実力もそっくり同じ。"
+    },
+    {
+      "index": 27,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "で、これ以上レッスンをして、上を\n目指すつもりがない。……合ってる？"
+    },
+    {
+      "index": 28,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "ええ、約束したでしょう。"
+    },
+    {
+      "index": 29,
+      "type": "dialogue",
+      "speaker": "燦羽",
+      "text": "私たちが憧れた、太陽の真似事を\nしてあげるって。"
+    },
+    {
+      "index": 30,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "あなたの前を走って、目標になって\nあげるって。"
+    },
+    {
+      "index": 31,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "約束を守ってくれてありがとう。\nじゃあ、いまの燎羽に私が勝ったら。"
+    },
+    {
+      "index": 32,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "『私が継さんに勝った』ってコトで\nいいよね。"
+    },
+    {
+      "index": 33,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "……なんですって？"
+    },
+    {
+      "index": 34,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "だって、同じ声で、同じ技術で、\n同じ実力なんでしょう？"
+    },
+    {
+      "index": 35,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "あなたが一番練習した、\n一番得意な物真似なんでしょう？"
+    },
+    {
+      "index": 36,
+      "type": "dialogue",
+      "speaker": "燐羽",
+      "text": "ええ……そうね。もしも……万が一、\nいまの賀陽燐羽に勝てたなら、"
+    },
+    {
+      "index": 37,
+      "type": "dialogue",
+      "speaker": "燃羽",
+      "text": "私が認めてあげる。\n月村手毬は、賀陽継を超えたって。"
+    },
+    {
+      "index": 38,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "よかった。ちょうどプロデューサーに\n言われてたんだよね。"
+    },
+    {
+      "index": 39,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "次の{選抜試験|セレクション}までに、\n自分で短期目標を決めて達成しろって。"
+    },
+    {
+      "index": 40,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "月村手毬の『はじまりのアイドル』、\n賀陽継を超える！"
+    },
+    {
+      "index": 41,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "私の目標、これでいくから！"
+    },
+    {
+      "index": 42,
+      "type": "scene_transition",
+      "text": ""
+    },
+    {
+      "index": 43,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "——というわけで、\n勝負の約束をしてきました！"
+    },
+    {
+      "index": 44,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月村さん……\n事後報告はよくないですよ。"
+    },
+    {
+      "index": 45,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "勝負の形式は、極月学園恒例\nミニライブでの対戦です。"
+    },
+    {
+      "index": 46,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "『N.I.A』の公開オーディションを\n想定した『訓練』なんだって。それで、"
+    },
+    {
+      "index": 47,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "初星学園の講堂を使いたいんですけど、\n手伝っていただけますか？"
+    },
+    {
+      "index": 48,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "秦谷さん経由で事情を教えて\nいただきましたので、"
+    },
+    {
+      "index": 49,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "諸々の手配はすでに終わっています。\nやりましょう、極月学園との再戦を。"
+    },
+    {
+      "index": 50,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "さすがプロデューサー、話が早いね。\n最近、美鈴と距離近くないですか？"
+    },
+    {
+      "index": 51,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月村さんのプロデュースに\n必要なことですから。"
+    },
+    {
+      "index": 52,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "他にも……秦谷さんに色々と\n協力してもらっています。"
+    },
+    {
+      "index": 53,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "具体的には？"
+    },
+    {
+      "index": 54,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "一緒に961プロに行ってきました。"
+    },
+    {
+      "index": 55,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月村さんの特訓の場を\n設けるためにです。"
+    },
+    {
+      "index": 56,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "えっ、なんですか、それ。"
+    },
+    {
+      "index": 57,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "961プロの現役アイドルたちの\nレッスンに、"
+    },
+    {
+      "index": 58,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まぜてもらえることになりました。\n秦谷さんも一緒にです。"
+    },
+    {
+      "index": 59,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "すごい！！！　ほんとですか！！！！"
+    },
+    {
+      "index": 60,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "本当です。あの超有名アイドルたちと\n切磋琢磨して、"
+    },
+    {
+      "index": 61,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "賀陽さんとの勝負に臨みましょう。\n冬の『H.I.F』に備えましょう。"
+    },
+    {
+      "index": 62,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "素晴らしい方針だと思います！\n最高のプレゼントです！"
+    },
+    {
+      "index": 63,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "いったいどうやって、あの黒井社長\nから、そんな許可をもらったんですか？"
+    },
+    {
+      "index": 64,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "賀陽さん《《たち》》との勝負に負けたら、"
+    },
+    {
+      "index": 65,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "月村手毬と秦谷美鈴が、卒業後、\n961プロに移籍すると約束しました。"
+    },
+    {
+      "index": 66,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ば～～～～～っかじゃないですか！？"
+    },
+    {
+      "index": 67,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "勝手にそんな！　とんでもない約束！\n事後報告やめてください！！"
+    },
+    {
+      "index": 68,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "まあ、もう約束しちゃいましたし。\n過ぎたことはいいですよ。"
+    },
+    {
+      "index": 69,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "軽っ……私の初星学園への……100プロ\nへの想いとか、しってるくせに……"
+    },
+    {
+      "index": 70,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "勝てばいいんです。"
+    },
+    {
+      "index": 71,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "……勝てると思ってるんですね。"
+    },
+    {
+      "index": 72,
+      "type": "dialogue",
+      "speaker": "るんしろ",
+      "text": "月村手毬は、トップアイドルにだって\n負けはしない。"
+    },
+    {
+      "index": 73,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "それを証明するための特訓でしょう？"
+    },
+    {
+      "index": 74,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "ふっ……そうでしたね。"
+    },
+    {
+      "index": 75,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "以前、月村手毬は実力が安定しない\nアイドルだと言いましたね。"
+    },
+    {
+      "index": 76,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "いままでのプロデュースでは、\nスタミナアップを重視して、\n実力の下ブレを軽減してきました。"
+    },
+    {
+      "index": 77,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "はい。"
+    },
+    {
+      "index": 78,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "今回の特訓では、961の実力者たちに\n月村手毬を次々ぶつけて、\n上ブレの上限を引き上げていきます。"
+    },
+    {
+      "index": 79,
+      "type": "dialogue",
+      "speaker": "ろんしろ",
+      "text": "ジャイアントキリングの経験を積んで、\n賀陽燐羽を再度撃破しましょう！"
+    },
+    {
+      "index": 80,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "わかりました！！\nやればいいんでしょう、やれば――"
+    },
+    {
+      "index": 81,
+      "type": "dialogue",
+      "speaker": "手毬",
+      "text": "勝ってみせます！\n月村手毬の憧れのアイドルに！"
+    },
+    {
+      "index": 82,
+      "type": "scene_transition",
+      "text": ""
+    }
+  ]
+}
