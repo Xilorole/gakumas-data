@@ -3,9 +3,9 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:47.031177+00:00",
-  "line_count": 85,
-  "needs_review": 1,
+  "exported_at": "2026-07-14T20:09:05.926321+00:00",
+  "line_count": 82,
+  "needs_review": 0,
   "lines": [
     {
       "index": 1,
@@ -43,27 +43,21 @@
       "text": ""
     },
     {
-      "index": 7,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
       "index": 8,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "あなたのプロデューサーの\n言う通りだったわね。"
     },
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "燃羽",
-      "text": "へぇ……いまの{『一番星』|プリマステラ}って、\nすごかったんだ。",
-      "needs_review": true
+      "speaker": "燐羽",
+      "text": "へぇ……いまの{『一番星』|プリマステラ}って、\nすごかったんだ。"
     },
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "やるじゃない、十王星南。\n……好みのアイドルかも。"
     },
     {
@@ -111,13 +105,13 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "……ふぅん。"
     },
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "……プロデューサーに恵まれた\nみたいじゃない。美鈴も、手毬も。"
     },
     {
@@ -135,13 +129,13 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "なのに無様に負けちゃって――\nなっさけない。"
     },
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "燦羽",
+      "speaker": "燐羽",
       "text": "あなたたちふたりの一騎討ちだって、\n期待していたファンが可哀そう。"
     },
     {
@@ -171,7 +165,7 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "……あっこれ……間かないって\n言っても勝手に話すやつ……"
     },
     {
@@ -211,7 +205,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "話、なっが……"
     },
     {
@@ -277,7 +271,7 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "へ～えぇ～？"
     },
     {
@@ -289,7 +283,7 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "できると思ってるの？"
     },
     {
@@ -301,13 +295,13 @@
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "そ。なら、がんばりなさい。"
     },
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "ほんと……言うようになったじゃない。\n手毬のくせに。"
     },
     {
@@ -319,7 +313,7 @@
     {
       "index": 53,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "は？　言わないでしょ……そんなこと。"
     },
     {
@@ -343,7 +337,7 @@
     {
       "index": 57,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "えっ、口癖ってなに？"
     },
     {
@@ -359,21 +353,11 @@
       "text": "なら……すこしだけ、\n思い出話をしましょうか。"
     },
     {
-      "index": 60,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
       "index": 61,
       "type": "dialogue",
       "speaker": "手毬",
       "text": "美鈴、みてっ♪　燐羽と同じ髪型～♪",
       "in_flashback": true
-    },
-    {
-      "index": 62,
-      "type": "scene_transition",
-      "text": ""
     },
     {
       "index": 63,
@@ -396,7 +380,7 @@
     {
       "index": 66,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "しりたくなかった……\n……脅迫状の100倍キツい。"
     },
     {
@@ -420,7 +404,7 @@
     {
       "index": 70,
       "type": "dialogue",
-      "speaker": "燈羽",
+      "speaker": "燐羽",
       "text": "んあああああああああああ……！！！"
     },
     {
@@ -432,7 +416,7 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "……さいっあく。"
     },
     {
@@ -450,7 +434,7 @@
     {
       "index": 75,
       "type": "dialogue",
-      "speaker": "燦羽",
+      "speaker": "燐羽",
       "text": "解散ライブを終えて、\nきっちり縁を切りたいってこと！"
     },
     {
@@ -468,7 +452,7 @@
     {
       "index": 78,
       "type": "dialogue",
-      "speaker": "燎羽",
+      "speaker": "燐羽",
       "text": "あ　゙ぁ～～～～～～～なっつかしい！\n図々しくて、なりふり構わない……"
     },
     {
@@ -486,7 +470,7 @@
     {
       "index": 81,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "解説して欲しいわけ？　手毬の前で。"
     },
     {
@@ -498,7 +482,7 @@
     {
       "index": 83,
       "type": "dialogue",
-      "speaker": "燎羽",
+      "speaker": "燐羽",
       "text": "とりあえず――明日、\n極月学園にきなさい。"
     },
     {

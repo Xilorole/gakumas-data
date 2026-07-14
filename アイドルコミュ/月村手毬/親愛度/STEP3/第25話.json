@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:47.470947+00:00",
+  "exported_at": "2026-07-14T20:09:06.371016+00:00",
   "line_count": 82,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "偉そうに……"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "これで満足？"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "いまの私は、『SyngUp！』解散前の\n私と、同程度の実力のはずだけど。"
     },
     {
@@ -100,7 +100,7 @@
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "ないわ。"
     },
     {
@@ -118,7 +118,7 @@
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "約束を果たすためにやっているだけで、\nアイドルへの情熱なんてないんだから。"
     },
     {
@@ -142,7 +142,7 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "誰かから聞いたのか、\n自分で想像したのかしらないけど。"
     },
     {
@@ -172,19 +172,19 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "ええ、約束したでしょう。"
     },
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "燦羽",
+      "speaker": "燐羽",
       "text": "私たちが憧れた、太陽の真似事を\nしてあげるって。"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "あなたの前を走って、目標になって\nあげるって。"
     },
     {
@@ -226,7 +226,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "私が認めてあげる。\n月村手毬は、賀陽継を超えたって。"
     },
     {

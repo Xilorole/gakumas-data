@@ -3,8 +3,8 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:47.916797+00:00",
-  "line_count": 102,
+  "exported_at": "2026-07-14T20:09:06.812641+00:00",
+  "line_count": 95,
   "needs_review": 0,
   "lines": [
     {
@@ -138,11 +138,6 @@
       "text": ""
     },
     {
-      "index": 23,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
       "index": 24,
       "type": "dialogue",
       "speaker": "手毬",
@@ -221,11 +216,6 @@
     },
     {
       "index": 37,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 38,
       "type": "scene_transition",
       "text": ""
     },
@@ -350,13 +340,13 @@
     {
       "index": 59,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "手毬ぃ～～、\nずいぶん疲れているみたいじゃない？"
     },
     {
       "index": 60,
       "type": "dialogue",
-      "speaker": "燎羽",
+      "speaker": "燐羽",
       "text": "そんなザマで大丈夫？"
     },
     {
@@ -373,21 +363,6 @@
     },
     {
       "index": 63,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 64,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 65,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 66,
       "type": "scene_transition",
       "text": ""
     },
@@ -430,7 +405,7 @@
     {
       "index": 73,
       "type": "dialogue",
-      "speaker": "燦羽",
+      "speaker": "燐羽",
       "text": "はじめて会った日のこと、覚えている？"
     },
     {
@@ -448,7 +423,7 @@
     {
       "index": 76,
       "type": "dialogue",
-      "speaker": "燎羽",
+      "speaker": "燐羽",
       "text": "どう？　憧れを追い越した気分は？"
     },
     {
@@ -466,7 +441,7 @@
     {
       "index": 79,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "——なら、よかった。"
     },
     {
@@ -484,13 +459,8 @@
     {
       "index": 82,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "面倒な特訓に付き合うのも、\nようやくこれでおしまい。"
-    },
-    {
-      "index": 83,
-      "type": "scene_transition",
-      "text": ""
     },
     {
       "index": 84,
@@ -524,11 +494,6 @@
       "in_flashback": true
     },
     {
-      "index": 89,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
       "index": 90,
       "type": "dialogue",
       "speaker": "手毬",
@@ -542,7 +507,7 @@
     {
       "index": 92,
       "type": "dialogue",
-      "speaker": "燦羽",
+      "speaker": "燐羽",
       "text": "――ほんっと、\nいい加減にしてほしいわ。"
     },
     {
@@ -584,7 +549,7 @@
     {
       "index": 99,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "もうほんのすこしだけ。あなたに勝てる\n程度まで……レッスンするわ。"
     },
     {
@@ -596,7 +561,7 @@
     {
       "index": 101,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "見間違いでしょ、ばぁか。"
     },
     {

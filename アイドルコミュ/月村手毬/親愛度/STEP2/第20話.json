@@ -3,8 +3,8 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T13:02:34.074031+00:00",
-  "line_count": 75,
+  "exported_at": "2026-07-14T20:09:04.087355+00:00",
+  "line_count": 61,
   "needs_review": 0,
   "lines": [
     {
@@ -15,20 +15,15 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "……手毬のくせに。やるじゃない。"
     },
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "（思い出した……\n『SyngUp！』を結成した理由）",
       "inner_voice": true
-    },
-    {
-      "index": 4,
-      "type": "scene_transition",
-      "text": ""
     },
     {
       "index": 5,
@@ -59,14 +54,9 @@
       "in_flashback": true
     },
     {
-      "index": 9,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
       "index": 10,
       "type": "dialogue",
-      "speaker": "燻羽",
+      "speaker": "燐羽",
       "text": "（あいつらだけが……\n私の隣で歌うのを、嫌がらなかった）",
       "inner_voice": true
     },
@@ -85,7 +75,7 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "燃羽",
+      "speaker": "燐羽",
       "text": "ついてきなさい。\n契約期間は終わっていないから――"
     },
     {
@@ -314,21 +304,11 @@
       "text": "あのとき言ったはずです。\nあなたの目標は叶えられると。"
     },
     {
-      "index": 52,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
       "index": 53,
       "type": "dialogue",
       "speaker": "手毬",
       "text": "私についてこられるなら、だけど。",
       "in_flashback": true
-    },
-    {
-      "index": 54,
-      "type": "scene_transition",
-      "text": ""
     },
     {
       "index": 55,
@@ -392,56 +372,6 @@
     },
     {
       "index": 65,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 66,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 67,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 68,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 69,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 70,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 71,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 72,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 73,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 74,
-      "type": "scene_transition",
-      "text": ""
-    },
-    {
-      "index": 75,
       "type": "scene_transition",
       "text": ""
     }
