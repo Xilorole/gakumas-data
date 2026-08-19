@@ -3,8 +3,8 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:32.704427+00:00",
-  "line_count": 53,
+  "exported_at": "2026-08-19T12:04:45.260347+00:00",
+  "line_count": 54,
   "needs_review": 0,
   "lines": [
     {
@@ -125,7 +125,7 @@
       "index": 20,
       "type": "dialogue",
       "speaker": "広",
-      "text": "地獄のですろ一ど。"
+      "text": "地獄のですろーど。"
     },
     {
       "index": 21,
@@ -283,46 +283,51 @@
       "text": "メジャーになりましょう"
     },
     {
-      "index": 47,
+      "index": 48,
       "type": "dialogue",
       "speaker": "ろんしろ",
       "text": "篠澤広のファンが、変わり者だと\n呼ばれなくなるまで。"
     },
     {
-      "index": 48,
+      "index": 49,
       "type": "dialogue",
       "speaker": "広",
       "text": "……なにをすればいい？"
     },
     {
-      "index": 49,
+      "index": 50,
       "type": "dialogue",
       "speaker": "ろんしろ",
       "text": "ファンクラブの設立と、\nプロモーション。そして――"
     },
     {
-      "index": 50,
+      "index": 51,
       "type": "dialogue",
       "speaker": "広",
       "text": "オーディションに、勝つ。"
     },
     {
-      "index": 51,
+      "index": 52,
       "type": "dialogue",
       "speaker": "ろんしろ",
       "text": "その通り。いまの篠澤さんが参加できる\nオーディションで、"
     },
     {
-      "index": 52,
+      "index": 53,
       "type": "dialogue",
       "speaker": "ろんしろ",
       "text": "勝利を積み重ねていきましょう。"
     },
     {
-      "index": 53,
+      "index": 54,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん……すっごく、むずかしそう！"
+    },
+    {
+      "index": 55,
+      "type": "scene_transition",
+      "text": ""
     }
   ]
 }
