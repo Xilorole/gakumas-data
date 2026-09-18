@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.140391+00:00",
+  "exported_at": "2026-09-18T15:50:50.310928+00:00",
   "line_count": 79,
   "needs_review": 0,
   "lines": [
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "おかえりなさい、広さん。\nー一とうでしたか？"
     },
     {
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それはよかった。\nより苦境に立たされましたね。"
     },
     {
@@ -40,7 +40,7 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ほう……『神格』を上げなさい、と。"
     },
     {
@@ -52,7 +52,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "不思議でもなんでもない。誰かさんの\n神々しいライブを観たのなら。"
     },
     {
@@ -106,7 +106,7 @@
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ほう……ついに……\nそれを言いましたね。"
     },
     {
@@ -118,7 +118,7 @@
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんのなりたい\nアイドルというのは……"
     },
     {
@@ -130,7 +130,7 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ものすごく可愛いと思いますが。\n控えめに言って最高だと思いますが。"
     },
     {
@@ -178,13 +178,13 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ようやく……アイドルらしい悩みを\n持ってくれたな、と。"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "成長した証拠ですよ。嬉しいです。"
     },
     {
@@ -202,13 +202,13 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そうですね……"
     },
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ここで一度、篠澤広の原点に立ち戻る、\nというのはどうでしょう。"
     },
     {
@@ -220,7 +220,7 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "フェスのチケットです。あなたの\n大好きなアイドル『owl』が出ます。"
     },
     {
@@ -238,19 +238,19 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さんのパパが教えてくれました。"
     },
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたがアイドルになりたいと\n話を切り出したとき。"
     },
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "この動画を見せられたのだ、と。"
     },
     {
@@ -292,7 +292,7 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "昨年度、夏に行われた『H.I.F』ですね。"
     },
     {
@@ -310,7 +310,7 @@
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "彼女のライブに行きます。明日。"
     },
     {
@@ -328,7 +328,7 @@
     {
       "index": 54,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『ライブをする。明日』と、\n無茶ぶりをされたことがありまして。"
     },
     {
@@ -358,7 +358,7 @@
     {
       "index": 60,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "素晴らしいライブでしたね、広さん。\nフェスの後半に、もう一度出番が――"
     },
     {
@@ -370,7 +370,7 @@
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さん？　広さん？　まさか……！？"
     },
     {
@@ -382,7 +382,7 @@
     {
       "index": 64,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "驚かせないでください……！"
     },
     {
@@ -394,7 +394,7 @@
     {
       "index": 66,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "こちらの寿命も縮みましたよ……"
     },
     {
@@ -418,7 +418,7 @@
     {
       "index": 70,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "よかったですね。"
     },
     {
@@ -430,7 +430,7 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どういたしまして。\nでは、会いにいきましょう。"
     },
     {
@@ -442,7 +442,7 @@
     {
       "index": 74,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "owlさんに。"
     },
     {
@@ -460,13 +460,13 @@
     {
       "index": 77,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "問題解決のきっかけを探すために\n来たんでしょう？"
     },
     {
       "index": 78,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "直接アドバイスをもらいましょうよ。\n篠澤広のオリジンに。"
     },
     {

@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.157896+00:00",
+  "exported_at": "2026-09-18T15:50:50.317584+00:00",
   "line_count": 58,
   "needs_review": 0,
   "lines": [
@@ -22,13 +22,13 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "聞きましょう。が、その前に……"
     },
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "距離が近いので離れてくれませんか？"
     },
     {
@@ -40,7 +40,7 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "会話がしにくいと言っています。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "話を進めましょう。上機嫌な理由は？"
     },
     {
@@ -118,7 +118,7 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "倉本さんとの対決に、\n心躍らせているんですね。"
     },
     {
@@ -154,13 +154,13 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん期待していますよ。なにせ、\nあなたのプロデューサーの見立てでは、"
     },
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広の勝機は、2％ほど。\n十分に命を賭けられる数字です。"
     },
     {
@@ -178,13 +178,13 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "バカなことを……"
     },
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "常にリスクを最小にするのが\nプロデュースの定石です。"
     },
     {
@@ -196,13 +196,13 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広と共に、\n夢を叶えようというんです。"
     },
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "命くらい賭けねば\n話にならないでしょう。"
     },
     {
@@ -232,7 +232,7 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "今冬の『H.I.F』に、\nプロデューサー生命を賭けます。"
     },
     {
@@ -244,7 +244,7 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "我々の夢と、\n楽しい趣味の時間は終わりです。"
     },
     {
@@ -268,7 +268,7 @@
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "はい。"
     },
     {
@@ -298,7 +298,7 @@
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "嫌ってくれて結構。\nそれが同じ夢を見るということです。"
     },
     {
@@ -310,8 +310,8 @@
     {
       "index": 52,
       "type": "dialogue",
-      "text": "そういうところが……きらい。",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "そういうところが……きらい。"
     },
     {
       "index": 53,

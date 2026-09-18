@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "おおっ、すごいじゃないですか。\n素晴らしい進歩ですね。"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なんと……ついに、ですね。"
     },
     {
@@ -58,13 +58,13 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "恒例のテンションダウンは不要ですよ。\nいまはもう7月です。"
     },
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "2か月前の課題を、ようやく\n達成したわけですから。"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "だめだめです。"
     },
     {
@@ -88,13 +88,13 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……うーん。"
     },
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "最近、篠澤さんを\nプロデュースする夢を見るんです。"
     },
     {
@@ -106,13 +106,13 @@
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夢の篠澤さんは、ステージで元気に\n歌って、踊って……"
     },
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "オーディションにも参加していました。"
     },
     {
@@ -130,7 +130,7 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "くっ……！"
     },
     {
@@ -148,13 +148,13 @@
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夢の話をはじめたのは、篠澤さんを\n満足させるためではなくてですね。"
     },
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "不安になったからなんです。"
     },
     {
@@ -166,13 +166,13 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夢のあなたは、アイドル活動で\n良い結果を出すたびに…………"
     },
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "とても落ち込むんです。"
     },
     {
@@ -184,7 +184,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "恐ろしい悪夢です。"
     },
     {
@@ -196,19 +196,19 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "出会ったばかりの頃、\nあなたは言いましたね。"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アイドルになったのは、自分に\n一番向いていない仕事だからだ、と。"
     },
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ままならない状況であがくこと、\nそのものが夢だったのだ、と。"
     },
     {
@@ -220,13 +220,13 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "では、今後、万が一、あなたの\n努力が実ることがあったなら。"
     },
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広がアイドルとして\n軌道に乗ったなら――"
     },
     {
@@ -268,19 +268,19 @@
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そんな面倒くさいアイドルを、\nどうやってプロデュースすれば……"
     },
     {
       "index": 45,
       "type": "dialogue",
       "speaker": "広",
-      "text": "ろんしろさん。\n怖がる必要はありませんよ。"
+      "text": "{producer}さん。\n怖がる必要はありませんよ。"
     },
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……篠澤さん？"
     },
     {
@@ -298,7 +298,7 @@
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……続けてください。"
     },
     {
@@ -322,7 +322,7 @@
     {
       "index": 53,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……似てませんよ、ちっとも。"
     },
     {
@@ -334,7 +334,7 @@
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ですが、よく……わかりました。"
     },
     {
@@ -346,7 +346,7 @@
     {
       "index": 57,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そうですね……\nー一篠澤さん。"
     },
     {
@@ -358,7 +358,7 @@
     {
       "index": 59,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "明日からは、通常のレッスンを\n受けてください。"
     },
     {
@@ -370,13 +370,13 @@
     {
       "index": 61,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もう、倒れることはないはずです。\nただ……厳しい日々になりますよ。"
     },
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "音を上げたら……わかっていますね？"
     },
     {
@@ -388,13 +388,13 @@
     {
       "index": 64,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "今日のプロデュース状況を\nメモしておこう。"
     },
     {
       "index": 65,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "やっとなのか、遂になのか……\n通常レッスン参加、頑張れ。"
     }
   ]

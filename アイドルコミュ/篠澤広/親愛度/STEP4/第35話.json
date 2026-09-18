@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:37.865042+00:00",
+  "exported_at": "2026-09-18T15:50:50.328671+00:00",
   "line_count": 83,
   "needs_review": 0,
   "lines": [
@@ -22,13 +22,13 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "縁起でもない。せっかく面白く\nなってきたところなんです。"
     },
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "これからも続けさせてくれますね……\n広さん。"
     },
     {
@@ -52,7 +52,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いやいやいやいや……\nちゃんと苦しんでいましたよ。"
     },
     {
@@ -64,13 +64,13 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは……否定しません。\n——では、ままならない状況整理を。"
     },
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "結局、どれほど我々があがこうとも、\nトップアイドルに追いつけはしない。"
     },
     {
@@ -82,13 +82,13 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "追いつけないまま、\nそれでも勝つしかない。"
     },
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なにもかもを……\n賭けてしまいましたから。"
     },
     {
@@ -100,7 +100,7 @@
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お互い様でしょう。"
     },
     {
@@ -130,19 +130,19 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ハハ……期待されても、\nそんなものはありません。"
     },
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "この期に及んで、プロデューサーに\nできることといえば……"
     },
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "担当アイドルのメンタルを、\nわずかに上向かせることくらい。"
     },
     {
@@ -172,19 +172,19 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ハァ……まったく。"
     },
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "こんな土壇場でまで、\nあなたというひとは。"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "——これを。"
     },
     {
@@ -196,7 +196,7 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "手紙ですよ。あなたの《《元学友》》からの。"
     },
     {
@@ -208,13 +208,13 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いいえ。ですから、\nこの手紙の内容はわかりません。"
     },
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さんが読んで、どう思うのか――\nわかりません。《《でも読んでください》》。"
     },
     {
@@ -250,13 +250,13 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もしかしたら——"
     },
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたのテンションが上がるような\nことが、書いてあるかもしれません。"
     },
     {
@@ -274,7 +274,7 @@
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "早く読んでください。"
     },
     {
@@ -392,7 +392,7 @@
     {
       "index": 67,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "補習組のおふたりから\n『はじめての友達』の称号を、\nはく奪しなければいけませんね。"
     },
     {
@@ -404,7 +404,7 @@
     {
       "index": 69,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どうやら賭けに勝ったようです。"
     },
     {
@@ -440,19 +440,19 @@
     {
       "index": 75,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "残念ですね……ここにきて、\n勝率が上がってしまった。ですが、"
     },
     {
       "index": 76,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それはもう、素手のうちです。"
     },
     {
       "index": 77,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さん——"
     },
     {
@@ -469,7 +469,7 @@
     {
       "index": 80,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "では、言わなくて結構。\nなってから聞きますよ。"
     },
     {

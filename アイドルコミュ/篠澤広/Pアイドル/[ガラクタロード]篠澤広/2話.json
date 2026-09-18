@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:39.004139+00:00",
+  "exported_at": "2026-09-18T15:50:50.270461+00:00",
   "line_count": 32,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……突然どうしました？"
     },
     {
@@ -40,19 +40,19 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "話をさえぎってしまって\n申し訳ないのですが。"
     },
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さんとお友達との、\nプロデューサー談議の内容がですね……"
     },
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "プロデューサー科に広まっています。\n心当たりがありますね？"
     },
     {
@@ -64,7 +64,7 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お友達のせいにしてはいけません。\nせめて教室ではお話ししないように。"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "………………………………………………"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "で、なんでしたっけ？"
     },
     {
@@ -112,13 +112,13 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……一番かどうかはわかりませんが。\nすぐに思いつくものだと……"
     },
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "バラエティ番組に出演した広さんが、\n打ち合わせを無視して、\n激辛を注文した瞬間ですね。"
     },
     {
@@ -130,13 +130,13 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "喉をいたわらなければならない\n仕事なのですから……"
     },
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "好物を食べるなとは言いませんが、\n相談の上でお願いします。"
     },
     {
@@ -166,7 +166,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "やはり……一番は、それですね。"
     },
     {
@@ -178,13 +178,13 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたがそれをはじめて口にしたとき。"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "とてもどきどきしましたよ。"
     },
     {

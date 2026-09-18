@@ -10,19 +10,19 @@
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ユニークな経歴だ。彼女の担当プロ\nデューサーはきっと苦労するだろう。"
     },
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "（……女生徒がふらふらと歩いてくる）"
     },
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あの、大丈夫ですか？"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "目が覚めましたか？"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "保健室です。覚えていませんか？\nあなたは急に倒れて――"
     },
     {
@@ -76,13 +76,13 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どういたしまして。どうか、\nベッドに戻って休んでください。"
     },
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ほどなく保健医が戻ってくるはずです。"
     },
     {
@@ -100,8 +100,8 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
-      "text": "プロデューサー科1年、\nろんしろと申します。"
+      "speaker": "プロデューサー",
+      "text": "プロデューサー科1年、\n{producer}と申します。"
     },
     {
       "index": 19,
@@ -118,7 +118,7 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "こちらこそ。"
     },
     {
@@ -142,7 +142,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "きゅ、急ですね。"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたはアイドルに向いていない。"
     },
     {
@@ -172,7 +172,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "（上機嫌になった……？）"
     },
     {
@@ -184,7 +184,7 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "調査済みです。\nあなたは有名ですからね。"
     },
     {
@@ -196,13 +196,13 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "14歳で大学を卒業した天才少女。\n日本有数の頭脳を持つ神童。そして、"
     },
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "入学試験の実技で、初星学園\n始まって以来の点数を叩き出した者。"
     },
     {
@@ -214,7 +214,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "実技が0点なのに、\nよく入学できましたね。"
     },
     {
@@ -226,13 +226,13 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それでも本来ならば\n不合格になるはずです。"
     },
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アイドルが務まるとは、とても……"
     },
     {
@@ -256,13 +256,13 @@
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……そんなバカな。"
     },
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "（学園長にはなにが\n見えているんだ……？）"
     },
     {
@@ -280,7 +280,7 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……あ、ありがとうございます？"
     },
     {
@@ -292,13 +292,13 @@
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……将来を期待されていたあなたは、\nすべてを投げ打って初星学園に。"
     },
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なぜ、アイドルになりたいと？"
     },
     {
@@ -322,7 +322,7 @@
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ちっともわかりません。"
     },
     {
@@ -334,13 +334,13 @@
     {
       "index": 57,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんの事情。\n気にはなりますが……"
     },
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "プロデュースをしろという話なら、\n引き受けることはできません。"
     },
     {
@@ -358,7 +358,7 @@
     {
       "index": 61,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どうしてそこまで……"
     },
     {
@@ -382,13 +382,13 @@
     {
       "index": 65,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いえ……わかりました。"
     },
     {
       "index": 66,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……とりあえず、1ヶ月。"
     },
     {
@@ -424,13 +424,13 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "流れでプロデュースすることに\nなったが……"
     },
     {
       "index": 73,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "不安だ。"
     }
   ]

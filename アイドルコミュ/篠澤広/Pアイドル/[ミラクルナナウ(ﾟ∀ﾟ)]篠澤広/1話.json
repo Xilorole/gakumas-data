@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:34.180839+00:00",
+  "exported_at": "2026-09-18T15:50:50.282507+00:00",
   "line_count": 41,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さん……\nいまの状況がわかっていますか？"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いまのあなたはちゃんとした\nアイドルですよ。……実に感悩深い。"
     },
     {
@@ -70,7 +70,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "だから……\nどうしてそうなるんですか。"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "適切な観光プランを考えてあります。\n抜かりはありませんよ。"
     },
     {
@@ -130,7 +130,7 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "担当アイドルの観光に同行するのを、\n楽しみにしていました。"
     },
     {
@@ -142,7 +142,7 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "観光です。楽しみにしていましたよ。"
     },
     {
@@ -160,13 +160,13 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いくつかプランがありますので、\nその中から選びましょう。"
     },
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "こちらが資料です。"
     },
     {
@@ -184,7 +184,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "プロデューサーなら当然の準備ですよ。\n他意はありません。"
     },
     {
@@ -202,7 +202,7 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ライブ会場付近を巡るプランですね。\n理由はいくつかありますが……"
     },
     {
@@ -214,13 +214,13 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "加えて、リクエストには\nありませんでしたが。"
     },
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "友達に自慢したり、お土産を買ったり、\nしたいでしょう？"
     },
     {
@@ -238,7 +238,7 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "必要ですよ。相談しているこの時間も、\n観光プランに入っていますから。"
     },
     {

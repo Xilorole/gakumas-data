@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.844782+00:00",
+  "exported_at": "2026-09-18T15:50:50.267816+00:00",
   "line_count": 35,
   "needs_review": 0,
   "lines": [
@@ -16,13 +16,13 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "想像以上ですね。参加者も、第一線で\n活躍する有名アイドルばかり……"
     },
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "さすがは倉本グルーブ。\nさすがは十王星南。"
     },
     {
@@ -82,8 +82,8 @@
     {
       "index": 13,
       "type": "dialogue",
-      "text": "わたしより……千奈に相応しい\nパートナーなんて、いるわけない。",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "わたしより……千奈に相応しい\nパートナーなんて、いるわけない。"
     },
     {
       "index": 14,

@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:58:58.326290+00:00",
+  "exported_at": "2026-09-18T15:50:50.264586+00:00",
   "line_count": 61,
   "needs_review": 0,
   "lines": [
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "うわっ！？"
     },
     {
@@ -34,7 +34,7 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "張り切っていますね、月村さん。"
     },
     {
@@ -52,7 +52,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それはすさまじい。なにかきっかけが？"
     },
     {
@@ -82,13 +82,13 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "傲慢で心強い宣言ですね……と、\n褒めたいところですが。"
     },
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いつも通りでは？"
     },
     {
@@ -100,19 +100,19 @@
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村手毬と出逢ってから、\nまだ1年も経っていませんが。"
     },
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "これだけはハッキリしている。\nあなたがアクセルを緩めるわけがない。"
     },
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夢を抱いた瞬間から、\nずっと変わらずベタ踏みでしょう。"
     },
     {
@@ -136,7 +136,7 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "よろしい。では、冬の『H.I.F』に\n向けたミーティングをはじめましょう。"
     },
     {
@@ -148,7 +148,7 @@
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まずはここまでのおさらいを\nしましょう。月村さん、どうぞ。"
     },
     {
@@ -178,13 +178,13 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "当然でしょうね。うちの月村さんに\n勝ったんですから。"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そのくらいはやってもらわないと、\n我々の立つ瀬がありません。"
     },
     {
@@ -196,13 +196,13 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "これによって『H.I.F』の格が\n大幅に上がり、冬の同大会は――"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いまやトップアイドルを決める大会へと\n変貌しています。"
     },
     {
@@ -214,7 +214,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ソロとユニットの部門分けが\nなくなって。優勝者と『{一番星|プリマステラ}』が\nイコールになりました。"
     },
     {
@@ -226,13 +226,13 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "我々にとって、実に好都合。"
     },
     {
       "index": 38,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夏のリベンジを果たす《《ついで》》に、\n目標を達成してしまいましょう。"
     },
     {
@@ -250,13 +250,13 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "遺憾ながら、我々は似た者同士。"
     },
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "無用な気遣いをせずにプロデュース\nできるのは良いことです。"
     },
     {
@@ -274,13 +274,13 @@
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "…………………それは良かった。\nおさらいの続きがどうぞ。"
     },
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夏の『H.I.F』本戦で負けて、\nその後は？"
     },
     {
@@ -322,7 +322,7 @@
     {
       "index": 53,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……良いおさらいでした。\n今後の方針ですが――"
     },
     {
@@ -340,7 +340,7 @@
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それだけではありません。\n『{選抜試験|セレクション}』もまた、成長の機会。"
     },
     {
@@ -358,7 +358,7 @@
     {
       "index": 59,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "初星学園の黄金世代を糧にして、\nさらなる力を付けましょう。"
     },
     {

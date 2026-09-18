@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-03T22:44:50.801229+00:00",
+  "exported_at": "2026-09-18T15:50:50.316070+00:00",
   "line_count": 67,
   "needs_review": 0,
   "lines": [
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "………………………………………………"
     },
     {
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……………………離れてくれませんか。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "誤解です倉本さん！？"
     },
     {
@@ -70,7 +70,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "本気でやめてくれます？"
     },
     {
@@ -106,7 +106,7 @@
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんに過酷な課題を\n与えたという意味です。"
     },
     {

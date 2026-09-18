@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:08:31.136384+00:00",
+  "exported_at": "2026-09-18T15:50:50.303708+00:00",
   "line_count": 39,
   "needs_review": 0,
   "lines": [
@@ -11,7 +11,7 @@
       "index": 1,
       "type": "dialogue",
       "speaker": "広",
-      "text": "プロデューサーー…………………"
+      "text": "プロデューサー……………………"
     },
     {
       "index": 2,
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ずっと見守ってきたのに……\n気の利いた褒め言葉が出てきません。"
     },
     {
@@ -40,7 +40,7 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ぜんぶ……吹き飛んでしまいましたよ。"
     },
     {
@@ -81,7 +81,7 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん。なんでも言ってください。"
     },
     {
@@ -99,7 +99,7 @@
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……えっ。"
     },
     {
@@ -124,12 +124,12 @@
       "index": 20,
       "type": "dialogue",
       "speaker": "千奈",
-      "text": "……お政魔してしまいましたか？"
+      "text": "……お邪魔してしまいましたか？"
     },
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……力尽きて、眠ってしまったんです。\n……激闘でしたね。"
     },
     {
@@ -159,7 +159,7 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どんなふうに言われているのか……\n……聞くのが怖いのですが。"
     },
     {
@@ -177,7 +177,7 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……誤解です。半分ほどは。"
     },
     {
@@ -213,7 +213,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "気が付きましたか？"
     },
     {
@@ -225,7 +225,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ライバルに、恵まれましたね。"
     },
     {

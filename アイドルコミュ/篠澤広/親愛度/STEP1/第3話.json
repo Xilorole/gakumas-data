@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……………………なんて難しいんだ。"
     },
     {
@@ -490,13 +490,13 @@
     {
       "index": 81,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "今日の授業では、\n大事なことを学んだ。"
     },
     {
       "index": 82,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『担当アイドルを深く理解する』……\n諦めるわけにはいかない。"
     }
   ]

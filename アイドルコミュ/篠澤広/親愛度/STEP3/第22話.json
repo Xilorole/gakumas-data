@@ -3,14 +3,14 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:39.329249+00:00",
+  "exported_at": "2026-09-18T15:50:50.307685+00:00",
   "line_count": 77,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さん……調子はいかがですか？"
     },
     {
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ダメそうですね。\nもう少し休んでいきましょう。"
     },
     {
@@ -34,19 +34,19 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "デートではなく息抜きです。\n{選抜試験|セレクション}が始まれば、"
     },
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ゆっくりと過ごす時間は、\n取れなくなるでしょう。"
     },
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そういうわけで、休憩しながら\nミーティングをしましょう。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "息抜きです。"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "怒っていなくてよかった。議題ですが、\n十王星南さんについてです。"
     },
     {
@@ -88,13 +88,13 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ライバルの話です。\nいいですか、広さん。"
     },
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "{『一番星』|プリマステラ}を奪るためには、\n{『一番星』|プリマステラ}を倒さなければならない。"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "彼女の実力……\n目に焼き付いていますか？"
     },
     {
@@ -130,13 +130,13 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夏の『H.I.F』を一緒に観たときの\nことですね。デートではなく。"
     },
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "初星学園一のアイドルを決める\n夏の祭典。――感想は？"
     },
     {
@@ -166,7 +166,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "実力が足りなくて、{選抜試験|セレクション}を\n受けなかったからでしょう。"
     },
     {
@@ -190,20 +190,20 @@
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "彼女は歴代{『一番星』|プリマステラ}の中でも、\n有数の実力者です。"
     },
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まずは、必ず出場してくるであろう\n彼女に勝つ算段を付けましょう。"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "text": "学園一のアイドルを、目印にして進む。\nおこがましいけど……妥当な考え。",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "学園一のアイドルを、目印にして進む。\nおこがましいけど……妥当な考え。"
     },
     {
       "index": 34,
@@ -226,7 +226,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん、たくさんありますよ。"
     },
     {
@@ -250,7 +250,7 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "十王星南さんご本人から、\nアドバイスをいただきましょう。"
     },
     {
@@ -262,7 +262,7 @@
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "後輩であるあなたの頼みなら、\n快く本気の助言をくれるはず。"
     },
     {
@@ -274,7 +274,7 @@
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "面識があるんですか？"
     },
     {
@@ -394,8 +394,8 @@
     {
       "index": 65,
       "type": "dialogue",
-      "text": "はああああああ……………………",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "はああああああ……………………"
     },
     {
       "index": 66,
@@ -448,7 +448,7 @@
     {
       "index": 74,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……妄想かなにかの話ですか？"
     },
     {

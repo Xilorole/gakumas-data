@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:37.989757+00:00",
+  "exported_at": "2026-09-18T15:50:50.324380+00:00",
   "line_count": 74,
   "needs_review": 0,
   "lines": [
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さん！"
     },
     {
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "おめでとうございます！\n見事{『選抜試験』|セレクション}を突破しましたね。"
     },
     {
@@ -52,7 +52,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あのとき……\nそんなに嬉しかったんですね。"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あの日のぶんも、今日、喜べばいい。"
     },
     {
@@ -112,13 +112,13 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "理不尽すぎませんか？"
     },
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "一部始終を見ていた十王会長が、\n俺の無罪を証明してくれるでしょう。"
     },
     {
@@ -178,8 +178,8 @@
     {
       "index": 29,
       "type": "dialogue",
-      "text": "あなたは可愛いライバルよ。\n学ぶべき後輩でもある。",
-      "speaker": "星南"
+      "speaker": "星南",
+      "text": "あなたは可愛いライバルよ。\n学ぶべき後輩でもある。"
     },
     {
       "index": 30,
@@ -226,7 +226,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お察しします……\n想像するだけで胃が痛い。激痛です。"
     },
     {
@@ -328,7 +328,7 @@
     {
       "index": 54,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さんのお気持ち次第です。"
     },
     {

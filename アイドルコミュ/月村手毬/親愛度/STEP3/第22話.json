@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:58:55.678061+00:00",
+  "exported_at": "2026-09-18T15:50:50.253068+00:00",
   "line_count": 49,
   "needs_review": 0,
   "lines": [
@@ -16,13 +16,13 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "（彼女が歌い終えると、\n会場は一瞬、静まり返り——）"
     },
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "（雪崩のような大歓声！）"
     },
     {
@@ -45,7 +45,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "すさまじいステージでしたね。観客の\n心をすべて持っていってしまった。"
     },
     {
@@ -57,13 +57,13 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "はい……正直に言えば。\nそういう月村さんこそ。"
     },
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "手が震えていますよ。"
     },
     {
@@ -143,13 +143,13 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……気持ちはわかります。"
     },
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "こんな雰囲気の中で歌うなど……\nたとえトップアイドルでも難しい。"
     },
     {
@@ -167,13 +167,13 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……すみません。ただ……"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村さんが、楽しそうなので。"
     },
     {
@@ -269,7 +269,7 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "以前、教えてくれましたね。"
     },
     {
@@ -281,7 +281,7 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "でも、もう一度やるんでしょう？\n何度だって、やるんでしょう？"
     },
     {

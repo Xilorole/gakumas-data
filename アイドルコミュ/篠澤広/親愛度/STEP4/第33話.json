@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:37.947733+00:00",
+  "exported_at": "2026-09-18T15:50:50.325620+00:00",
   "line_count": 47,
   "needs_review": 0,
   "lines": [
@@ -170,8 +170,8 @@
     {
       "index": 28,
       "type": "dialogue",
-      "text": "いま！　わたくしは！\nとお～～～～～って",
-      "speaker": "千奈"
+      "speaker": "千奈",
+      "text": "いま！　わたくしは！\nとお～～～～～って"
     },
     {
       "index": 29,
@@ -194,7 +194,7 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いいんですか？\n最後まで見届けなくて。"
     },
     {
@@ -212,7 +212,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん。早くしないと、\n皆さんが待ちくたびれてしまう。"
     },
     {
@@ -224,13 +224,13 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "聴こえませんか？\n地響きのような歓声が。"
     },
     {
       "index": 38,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "倉本千奈のライバル・篠澤広の歌を\n待つ、アイドルファンの願いが。"
     },
     {
@@ -254,19 +254,19 @@
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "さすが倉本さんです。\n親友の趣味を、よく理解している。"
     },
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いわばこれは前哨戦。\n『H.I.F』を前にして――"
     },
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "全国のアイドルファンに、\n篠澤広を見せつけてやりましょう。"
     },
     {

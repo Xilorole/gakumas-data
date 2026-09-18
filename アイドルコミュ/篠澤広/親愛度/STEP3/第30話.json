@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.072341+00:00",
+  "exported_at": "2026-09-18T15:50:50.321007+00:00",
   "line_count": 79,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なんとか……勝てました、ね。"
     },
     {
@@ -34,13 +34,13 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まだ『{選抜試験|セレクション}』だというのに……"
     },
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "実にハイレベルな\nオーディションでした。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ライバルの心配をしている状況ですか？"
     },
     {
@@ -94,13 +94,13 @@
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "フフフ……見ている方も、\n心臓が止まりそうでしたよ。"
     },
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "反響を見るに……篠澤広のファンたち\nも、同じ気持ちだったようです。"
     },
     {
@@ -118,7 +118,7 @@
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それができるのが、\n真のアイドルですよ。"
     },
     {
@@ -130,7 +130,7 @@
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "おおいに。"
     },
     {
@@ -154,13 +154,13 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "不意打ちで灼熱を\nプレゼントしてしまいましたね。"
     },
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "効果はてきめんでした。"
     },
     {
@@ -178,7 +178,7 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それが最新版・篠澤広のライブです。"
     },
     {
@@ -190,7 +190,7 @@
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あまり。この調子だと、\nライブツアーで死人が出ます。"
     },
     {
@@ -208,13 +208,13 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "シャレになっていないんですよ……\nただ、まあ。繰り返しになりますが。"
     },
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『H.I.F』はこれでいきましょう。"
     },
     {
@@ -226,13 +226,13 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "女神のようなアイドル・篠澤広による、\n灼熱のライブです。"
     },
     {
       "index": 38,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "トップアイドルにだって通用する。\nそう信じていますよ。"
     },
     {

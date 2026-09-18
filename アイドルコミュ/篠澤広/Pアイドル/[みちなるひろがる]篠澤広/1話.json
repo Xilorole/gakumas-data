@@ -3,20 +3,20 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.923391+00:00",
+  "exported_at": "2026-09-18T15:50:50.265785+00:00",
   "line_count": 43,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さん。今回のプロデュースですが……"
     },
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『特別なオーディション』に\n参加しようと思います。"
     },
     {
@@ -34,7 +34,7 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "倉本千奈さんとデュオユニットを組む\nパートナーを決めるというものです。"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まだ話の途中ですよ。"
     },
     {
@@ -70,13 +70,13 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "はい。ふたりともソロ活動メイン\nなのは変わりませんが――"
     },
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "今後も、定期的にユニットライブを\nすることになるはずです。"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "思いのほか、乗り気なんですね。"
     },
     {
@@ -124,7 +124,7 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いまの広さんなら、\nそんなことにはなりませんよ。"
     },
     {
@@ -142,7 +142,7 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "偶然です。そこまでの想いとは、\n見抜けなかった。"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……乗り気なのは良いとして。\n今回のオーディション、難関ですよ。"
     },
     {
@@ -178,7 +178,7 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ないって言ってもやるんでしょう？"
     },
     {
@@ -190,13 +190,13 @@
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "オーディションの内容は、テレビカメラ\nと関係者が勢ぞろいしている前で、"
     },
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "スピーチとパフォーマンスを\n披露するというものです。"
     },
     {
@@ -208,7 +208,7 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ご心配なく、いつものことです。"
     },
     {
@@ -226,7 +226,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いや……すこしは遠慮してください。"
     },
     {
@@ -238,13 +238,13 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……ともかく。\n今回のオーディションは、"
     },
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広をプロデュースする上で、\n大きなメリットがあります。"
     },
     {

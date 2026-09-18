@@ -3,14 +3,14 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.638534+00:00",
+  "exported_at": "2026-09-18T15:50:50.277251+00:00",
   "line_count": 41,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広のイメージを悪化させて、\n『H.I.F』での勝率を下げましょう。"
     },
     {
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "おお……\n本当に、一言でわかったようですね。"
     },
     {
@@ -52,13 +52,13 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "その上で……《《広さん》》には、今後なにが\nあろうともアイドル一筋でいくという、"
     },
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "決別宣言をしてもらおうと思います。"
     },
     {
@@ -70,13 +70,13 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "多くの人に、悪い印象を\n持たれるでしょうね。一方で……"
     },
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたの選択を尊重する人間も、\n必ずいます。"
     },
     {
@@ -118,13 +118,13 @@
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あらゆる手段を用いて、経歴公開に\nよるデメリットを最小化します。"
     },
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "約束しますよ。\nいまと変わらぬ日々を送れると。"
     },
     {
@@ -136,13 +136,13 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もうひとつ約束します。"
     },
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あらゆる手段を用いて、経歴公開に\nよるメリットを最小化してみせると。"
     },
     {
@@ -178,19 +178,19 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なにをいまさら。\n素手で挑みたいんでしょう？"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "目の前に武器が転がってきたから\nといって、拾う必要はない。"
     },
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "こっちは本気で、\n趣味をやっているんですから。"
     },
     {
@@ -202,7 +202,7 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "喜ばしいことです。この遊びは、\nここからが面白い。"
     },
     {
@@ -214,7 +214,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "これから上げてくれるんですよ、\nあなたが。"
     },
     {
@@ -226,13 +226,13 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ふたりの夢を叶えるために、\nベストを尽くすことはしない――"
     },
     {
       "index": 38,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まさか手抜きだとは言わないでしょう？"
     },
     {

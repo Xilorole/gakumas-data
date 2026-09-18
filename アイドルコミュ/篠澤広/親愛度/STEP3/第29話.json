@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.116415+00:00",
+  "exported_at": "2026-09-18T15:50:50.319303+00:00",
   "line_count": 79,
   "needs_review": 0,
   "lines": [
@@ -220,7 +220,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……0ではありません。"
     },
     {
@@ -238,19 +238,19 @@
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そうでしょう？\n自慢の担当アイドルなんです。"
     },
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "トップアイドルを向こうに回して、\n競技性の高い新生『H.I.F』で――"
     },
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ー一勝つ可能性がわずかにある。"
     },
     {
@@ -274,13 +274,13 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "出逢ったばかりの頃、あなたには\nアイドルとして見所がなかった。"
     },
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "使うつもりのない学力と、\n美しい外見だけが取り柄だった。"
     },
     {
@@ -292,7 +292,7 @@
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "胃痛と困惑に悩まされる日々でした。"
     },
     {
@@ -310,7 +310,7 @@
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "では、もう一度、お願いします。\nそれだけのことです。"
     },
     {
@@ -346,7 +346,7 @@
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それはそれは……十王星南に予定を\n狂わされてしまいましたね。"
     },
     {
@@ -370,13 +370,13 @@
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "素晴らしい窮地です。そのおかげで……\n十王星南流に言うならば……"
     },
     {
       "index": 63,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広のアイドルパワーが、\n急激に上昇しつつある。"
     },
     {
@@ -388,7 +388,7 @@
     {
       "index": 65,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "趣味ですから。"
     },
     {
@@ -400,7 +400,7 @@
     {
       "index": 67,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "さあ！　まずはより難易度の増した\n『{選抜試験|セレクション}』を突破しなければ！"
     },
     {
@@ -424,7 +424,7 @@
     {
       "index": 71,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "楽しそうですね。"
     },
     {
@@ -466,13 +466,13 @@
     {
       "index": 78,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "わずかな勝機は、《《そこ》》にあります。"
     },
     {
       "index": 79,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "デスゲームを乗り越えた篠澤広が、\n『H.I.F』を和き尽くし――"
     },
     {

@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:58:56.998834+00:00",
+  "exported_at": "2026-09-18T15:50:50.259114+00:00",
   "line_count": 82,
   "needs_review": 0,
   "lines": [
@@ -262,12 +262,12 @@
       "index": 43,
       "type": "dialogue",
       "speaker": "手毬",
-      "text": "——というわけで、\n勝負の約束をしてきました！"
+      "text": "――というわけで、\n勝負の約束をしてきました！"
     },
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村さん……\n事後報告はよくないですよ。"
     },
     {
@@ -291,13 +291,13 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "秦谷さん経由で事情を教えて\nいただきましたので、"
     },
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "諸々の手配はすでに終わっています。\nやりましょう、極月学園との再戦を。"
     },
     {
@@ -309,13 +309,13 @@
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村さんのプロデュースに\n必要なことですから。"
     },
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "他にも……秦谷さんに色々と\n協力してもらっています。"
     },
     {
@@ -327,13 +327,13 @@
     {
       "index": 54,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "一緒に961プロに行ってきました。"
     },
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村さんの特訓の場を\n設けるためにです。"
     },
     {
@@ -345,13 +345,13 @@
     {
       "index": 57,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "961プロの現役アイドルたちの\nレッスンに、"
     },
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まぜてもらえることになりました。\n秦谷さんも一緒にです。"
     },
     {
@@ -363,13 +363,13 @@
     {
       "index": 60,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "本当です。あの超有名アイドルたちと\n切磋琢磨して、"
     },
     {
       "index": 61,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "賀陽さんとの勝負に臨みましょう。\n冬の『H.I.F』に備えましょう。"
     },
     {
@@ -387,13 +387,13 @@
     {
       "index": 64,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "賀陽さん《《たち》》との勝負に負けたら、"
     },
     {
       "index": 65,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村手毬と秦谷美鈴が、卒業後、\n961プロに移籍すると約束しました。"
     },
     {
@@ -411,7 +411,7 @@
     {
       "index": 68,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まあ、もう約束しちゃいましたし。\n過ぎたことはいいですよ。"
     },
     {
@@ -423,7 +423,7 @@
     {
       "index": 70,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "勝てばいいんです。"
     },
     {
@@ -435,13 +435,13 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村手毬は、トップアイドルにだって\n負けはしない。"
     },
     {
       "index": 73,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それを証明するための特訓でしょう？"
     },
     {
@@ -453,13 +453,13 @@
     {
       "index": 75,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "以前、月村手毬は実力が安定しない\nアイドルだと言いましたね。"
     },
     {
       "index": 76,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いままでのプロデュースでは、\nスタミナアップを重視して、\n実力の下ブレを軽減してきました。"
     },
     {
@@ -471,13 +471,13 @@
     {
       "index": 78,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "今回の特訓では、961の実力者たちに\n月村手毬を次々ぶつけて、\n上ブレの上限を引き上げていきます。"
     },
     {
       "index": 79,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ジャイアントキリングの経験を積んで、\n賀陽燐羽を再度撃破しましょう！"
     },
     {
