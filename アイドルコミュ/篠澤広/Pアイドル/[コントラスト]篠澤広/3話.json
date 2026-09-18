@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.332367+00:00",
+  "exported_at": "2026-09-18T15:50:50.274917+00:00",
   "line_count": 48,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん構いませんよ。……ええと。\nなんでしょうか、この大量の資料は。"
     },
     {
@@ -40,7 +40,7 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "この『おじいちゃん』というファイル。\n篠澤さんのお部様ですか？"
     },
     {
@@ -52,7 +52,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "がくえ……篠澤さんは……その……\nいつも予想を超えてきますね。"
     },
     {
@@ -82,7 +82,7 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広の魅力を言語化する……\n改めて、難しい課題ですね。"
     },
     {
@@ -94,13 +94,13 @@
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "わかっているつもりですが……\n言葉で説明するのが難しいんです。"
     },
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "この資料を眺めながら、\n一緒に悩んでみましょうか。"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "では、未提出の資料を\n出してください。"
     },
     {
@@ -124,13 +124,13 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんなら、きっと……"
     },
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "親族や昔の友人知人などにも、\n聞き取りをしているはずです。"
     },
     {
@@ -148,13 +148,13 @@
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広の過去を、アイドル活動に\n使うつもりはないんです。"
     },
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "知りたいだけです。初星学園入学以前の\n……あなたの魅力を。"
     },
     {
@@ -166,7 +166,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "構いません。"
     },
     {
@@ -208,7 +208,7 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広のファンからは、\n決して出てこない意見でしょうね。"
     },
     {
@@ -220,7 +220,7 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そんなことはありませんよ。\nとても参考になると思います。"
     },
     {
@@ -250,7 +250,7 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あるいは……それこそが、\n篠澤広の魅力なのかもしれません。"
     },
     {
@@ -262,7 +262,7 @@
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "無理やり短くまとめるなら、\nそうなります。"
     },
     {
@@ -274,13 +274,13 @@
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "冷たくて、温かくて、無機質で、\n人間らしく、天才にして非才なる者。"
     },
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "摩詞不思議なアイドルですね、\n篠澤さんは。"
     },
     {

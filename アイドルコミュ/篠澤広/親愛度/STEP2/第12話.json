@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-13T12:22:11.717532+00:00",
+  "exported_at": "2026-09-18T15:50:50.295917+00:00",
   "line_count": 45,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いいことです。"
     },
     {
@@ -40,13 +40,13 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『N.I.A』対策に加え、篠澤広の\nステップアップのために、"
     },
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "幾つかの方策を打ちました。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ファンクラブの発足とMVの公開です。\n――これを。"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広の強みを活かしたMVを\n作成しました。"
     },
     {
@@ -100,7 +100,7 @@
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "美しく、神秘的な外見があります。"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "多くのファンや視聴者たちも、\nそう言っていますよー一"
     },
     {
@@ -124,7 +124,7 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "――綺麗で神秘的なアイドルでしょう？"
     },
     {
@@ -136,19 +136,19 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "で……バズりました。"
     },
     {
       "index": 23,
       "type": "dialogue",
-      "text": "……そうなんだ。",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "……そうなんだ。"
     },
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "こちらの想定をはるかに超えて……\nものすごく……バズりました。"
     },
     {
@@ -160,7 +160,7 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ファンの皆さんが、その、どう表現して\nいいか迷うほど……積極的な宣伝を。"
     },
     {
@@ -172,7 +172,7 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "短期間のうちにファンアートが大量に\n作られました。――こちらが資料です。"
     },
     {
@@ -184,13 +184,13 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あまりにも無軌道に\n拡散されていくので、"
     },
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ファンクラブを中心に、最低限の\n制御を試みました。その結果……"
     },
     {
@@ -202,13 +202,13 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アイドル・篠澤広が……\nええと、なんといいますか。"
     },
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "神格化されつつあります。"
     },
     {
@@ -220,7 +220,7 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あくまで『いちアイドルのファン活動』\nに留められたことを褒めてください。"
     },
     {
@@ -238,7 +238,7 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もう無理です。"
     },
     {

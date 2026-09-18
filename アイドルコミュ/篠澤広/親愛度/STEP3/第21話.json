@@ -15,7 +15,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さん、\nミーティングをはじめましょう。"
     },
     {
@@ -28,7 +28,7 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……なんですか、その不満そうな顔は。"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……広さん。\nミーティングをはじめますよ。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まずは現状の共有からです。\nしのさ……広さん、お願いします。"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "してません。"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたのプロデューサーは、\nこう言ったんです。"
     },
     {
@@ -111,7 +111,7 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "返事は、いまも変わりませんか？"
     },
     {
@@ -129,7 +129,7 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まったく……\n本当に、どうしようもない。"
     },
     {
@@ -153,7 +153,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "何度聞いても、\n身の程知らずな台詞ですね。"
     },
     {
@@ -207,13 +207,13 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お疲れさまでした、広さん。\n体力測定の結果ですが……なんと。"
     },
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "中学1年生の平均値にかろうじて、\nタッチしています。"
     },
     {
@@ -225,13 +225,13 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "素晴らしい進歩です。"
     },
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アイドルとしては、\n依然として最低に近い数値ですが。"
     },
     {
@@ -243,13 +243,13 @@
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "落としてなどいませんよ。\nあなたは、その――"
     },
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アイドルとして最低の数値を持つ\n肉体で『N.I.A』を制したのですから。"
     },
     {
@@ -261,7 +261,7 @@
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "両方ですよ。この会話は、\n現状共有の続きですから。"
     },
     {
@@ -273,13 +273,13 @@
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "儚く華奢で……神秘的な印象は\nそのままに、とても健康になった。"
     },
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "出逢った頃よりもずっと、\n可愛く綺麗になりましたよ。"
     },
     {
@@ -302,19 +302,19 @@
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いいですか広さん。あなたのその――\nトップアイドルに勝る神秘的な外見。"
     },
     {
       "index": 53,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アイドルとして最低の数値を持つ肉体。\nこのふたつに、"
     },
     {
       "index": 54,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "一般アイドルレベルのパフォーマンスを\n身につけたのが、現在の篠澤広です。"
     },
     {
@@ -326,21 +326,21 @@
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広は、いまや信仰を集める\n{偶像|アイドル}に相応しい《《神格》》を備えています。",
       "needs_review": true
     },
     {
       "index": 57,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そう、ひとことで言うならば――",
       "needs_review": true
     },
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "雰囲気トップアイドルです。"
     },
     {
@@ -359,13 +359,13 @@
     {
       "index": 61,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "我々にとって現在の目標は、\n冬の『H.I.F』での優勝ですが。"
     },
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さんが「{一番星|プリマステラ}」になれる可能性は、\nいまのところ0パーセントです。",
       "needs_review": true
     },
@@ -390,14 +390,14 @@
     {
       "index": 66,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ですから『H.I.F{選抜試験|セレクション}』までに――",
       "needs_review": true
     },
     {
       "index": 67,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広の勝率を1パーセントにまで\n引き上げましょう！"
     },
     {
@@ -409,7 +409,7 @@
     {
       "index": 69,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "とても厳しい戦いです。弱小チームが、\n甲子園優勝を目指すほどの。"
     },
     {

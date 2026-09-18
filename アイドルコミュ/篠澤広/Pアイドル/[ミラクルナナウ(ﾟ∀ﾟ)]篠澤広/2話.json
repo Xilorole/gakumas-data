@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.764836+00:00",
+  "exported_at": "2026-09-18T15:50:50.283917+00:00",
   "line_count": 48,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "わざわざ外で通話せずとも……"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "（……居心地悪いな）"
     },
     {
@@ -130,8 +130,8 @@
     {
       "index": 21,
       "type": "dialogue",
-      "text": "……それと。",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "……それと。"
     },
     {
       "index": 22,
@@ -256,7 +256,7 @@
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたというひとは……\n毎回毎回、どうしてこう……"
     },
     {
@@ -268,13 +268,13 @@
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "回りくどいと言っています。\n――通話を終えたら、観光の続きを。"
     },
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "担当アイドルの不安を消すのは、\nプロデューサーの仕事です。"
     },
     {
@@ -286,8 +286,8 @@
     {
       "index": 47,
       "type": "dialogue",
-      "text": "うわぁ～～～～～～～～～～～～♡",
-      "speaker": "一同"
+      "speaker": "一同",
+      "text": "うわぁ～～～～～～～～～～～～♡"
     },
     {
       "index": 48,

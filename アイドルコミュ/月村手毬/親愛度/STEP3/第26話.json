@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:58:57.439235+00:00",
+  "exported_at": "2026-09-18T15:50:50.261656+00:00",
   "line_count": 95,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "言ったではないですか。\n賀陽さん《《たち》》との勝負だと。"
     },
     {
@@ -34,13 +34,13 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村さんは、どんなに体力を付けても、\nあるだけ使ってしまうようなので。\n使うことが《《できてしまう》》ようなので。"
     },
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "絶対に負けられない連戦をさせて、\n効率的な体力の使い方を、むりやり\n身につけてもらうことにしました。"
     },
     {
@@ -58,13 +58,13 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "絶対に負けられない勝負です、が。"
     },
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村手毬をさらにステップアップさせる\nためのレッスンでもあります。"
     },
     {
@@ -82,13 +82,13 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "賀陽燐羽ひきいる、より強化された\n極月学園との3連戦。"
     },
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "特訓を経て成長した月村さんにとって、\nちょうどいいレッスンです。"
     },
     {
@@ -146,7 +146,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "連戦なのに、\n初戦から思いっきり歌いましたね。"
     },
     {
@@ -158,7 +158,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それでいい。さあ第2戦です。\n対戦相手はどんどん強くなりますよ。"
     },
     {
@@ -239,7 +239,7 @@
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "黒井理事長。この度は、\nありがとうございました。"
     },
     {
@@ -251,7 +251,7 @@
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お言葉ですが、\nそうはならないと思います。"
     },
     {
@@ -263,13 +263,13 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『疲れていて苦しい』くらいが、彼女の\nベストコンディションなんですよ。"
     },
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "（……最後まで歌い切れれば）"
     },
     {
@@ -287,7 +287,7 @@
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そんな前時代的な嫌がらせでは、\n証拠が残ってしまいますよ。"
     },
     {
@@ -299,7 +299,7 @@
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "極月学園の皆さんは、月村さんと同じ\n控え室にしておきました。"
     },
     {
@@ -317,19 +317,19 @@
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "うちの月村さんは本番直前に、\nたとえ天変地異が起きようと、"
     },
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "良いときは良いですし、\nダメなときはダメなんです。"
     },
     {
       "index": 57,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ハァ〜……フゥ〜……本日は……この\nスリルを……共に楽しみましょう……"
     },
     {

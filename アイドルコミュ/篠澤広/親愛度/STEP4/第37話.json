@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:39.084775+00:00",
+  "exported_at": "2026-09-18T15:50:50.331325+00:00",
   "line_count": 71,
   "needs_review": 0,
   "lines": [
@@ -64,13 +64,13 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "おかえりなさい、広さん。\n前代未聞のスピーチでしたね。"
     },
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "大舞台であんなことを\n言い放った『{一番星|プリマステラ}』は、\n歴代ではじめてでしょう。"
     },
     {
@@ -94,7 +94,7 @@
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "荒れますよ、きっと。"
     },
     {
@@ -124,13 +124,13 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "言われるまでもありません。"
     },
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "先ほども……瞬間最大風速で、\n全員を上回っただけでしたね。"
     },
     {
@@ -148,13 +148,13 @@
     {
       "index": 24,
       "type": "dialogue",
-      "text": "ハハ……",
-      "speaker": "ろんしろ"
+      "speaker": "プロデューサー",
+      "text": "ハハ……"
     },
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "本当に……勝ってしまうとは……\n思いませんでした。"
     },
     {
@@ -166,7 +166,7 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "実は……心中するような\n気持ちで送り出したんです。"
     },
     {
@@ -214,19 +214,19 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "伝わってきましたよ。"
     },
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "きっと会場の全員が、\nあなたに共感していた。\n皆が篠澤広と共鳴していた。"
     },
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "だからこそ勝てたのだ、\nと、そう思います。"
     },
     {
@@ -243,7 +243,7 @@
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そうですね。こんなやり方は\n今回限りにしましょう。"
     },
     {
@@ -255,7 +255,7 @@
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "よくはないです。"
     },
     {
@@ -267,13 +267,13 @@
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "断じてよくはないですが……"
     },
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いくら趣味でも、こんなに\n怖い思いは二度とごめんです。"
     },
     {
@@ -285,7 +285,7 @@
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……………………"
     },
     {
@@ -297,7 +297,7 @@
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ああ、そんなことより……\n言い忘れていました。"
     },
     {
@@ -308,7 +308,7 @@
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ありがとう、広さん。"
     },
     {
@@ -332,13 +332,13 @@
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なんとも我々らしい。"
     },
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "やれやれ……\n明日から大変ですよ。"
     },
     {
@@ -350,7 +350,7 @@
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "つとまるワケがないでしょう。\nあまり調子に乗らないように。"
     },
     {
@@ -362,7 +362,7 @@
     {
       "index": 60,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それが楽しいんでしょう？"
     },
     {
@@ -398,7 +398,7 @@
     {
       "index": 66,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "また、同じ夢を見てもいいですか？"
     },
     {

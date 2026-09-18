@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.679657+00:00",
+  "exported_at": "2026-09-18T15:50:50.276157+00:00",
   "line_count": 36,
   "needs_review": 0,
   "lines": [
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "続きとは……篠澤広・強化プランの\nことでしょうか。"
     },
     {
@@ -46,13 +46,13 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広が、夢への通過点として、\n『{一番星|プリマステラ}』を目指す。"
     },
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ハハ……おさらいをするたびに、\n正気を疑いますね。"
     },
     {
@@ -70,7 +70,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ネガティブな感情が多めなんですが。"
     },
     {
@@ -82,7 +82,7 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "最悪です。その似てない物真似は\nやめるようにと言ったはず。"
     },
     {
@@ -94,8 +94,8 @@
     {
       "index": 15,
       "type": "dialogue",
-      "text": "ハァ……",
-      "speaker": "ろんしろ"
+      "speaker": "プロデューサー",
+      "text": "ハァ……"
     },
     {
       "index": 16,
@@ -124,13 +124,13 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん。"
     },
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "これほどの苦難の道を歩く機会なんて、\nそうそうないでしょうから。"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "奇跡を起こさないと、無理でしょうね。"
     },
     {
@@ -172,13 +172,13 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いいでしょう。これから少し難解な話を\nしますので……‥"
     },
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もしわからなかったら、\nそう言ってくださいね。"
     },
     {
@@ -196,13 +196,13 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "とんでもない。それでは、\n大卒の天才少女・篠澤広さん。"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "一言だけで、当ててみてください。"
     },
     {
@@ -214,7 +214,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広のイメージを悪化させて、\n『H.I.F』での勝率を下げましょう。"
     },
     {

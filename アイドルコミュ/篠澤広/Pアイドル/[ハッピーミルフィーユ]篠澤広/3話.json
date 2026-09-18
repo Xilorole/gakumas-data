@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.923130+00:00",
+  "exported_at": "2026-09-18T15:50:50.281467+00:00",
   "line_count": 36,
   "needs_review": 0,
   "lines": [
@@ -34,7 +34,7 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……こしゃくな作戦で、\n他の選択肢を潰された結果です。"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは、そうですね……\nおっしゃる通り。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "一刻も早く料理が上達したいのは、\n本当なんでしょう？"
     },
     {
@@ -70,7 +70,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なら、雑談している場合ではない。\nさっそく特訓しましょう――"
     },
     {
@@ -82,19 +82,19 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ー一などと言っている間に、\n部屋を探検しないでください。"
     },
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いいですか。料理中、\n気を付けるべきことは、4つ。"
     },
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "レシピ通り作ること。味見をすること。\n予定通りに作ること。集中すること。"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "でしょうね。"
     },
     {
@@ -124,7 +124,7 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "美味しくできましたね。\nできるではないですか、料理。"
     },
     {
@@ -136,7 +136,7 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは思い上がりすぎですね。"
     },
     {
@@ -154,13 +154,13 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "たわ言はやめてください。"
     },
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "せめて常人並みの握力を手に入れてから\n言ってくださいね。"
     },
     {
@@ -184,13 +184,13 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どういたしまして。\nあなたが『本当に作りたいもの』……"
     },
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "作れそうですか？"
     },
     {

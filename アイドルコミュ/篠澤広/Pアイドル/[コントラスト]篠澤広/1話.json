@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.632670+00:00",
+  "exported_at": "2026-09-18T15:50:50.272780+00:00",
   "line_count": 41,
   "needs_review": 0,
   "lines": [
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "最近の篠澤さんは、\nなんとか……辛うじて……"
     },
     {
@@ -40,7 +40,7 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そこで、新たな課題を与えます。"
     },
     {
@@ -52,13 +52,13 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "プロデューサーの\n好きなところではなく、"
     },
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広というアイドルの魅力について、\n言語化してみてください。"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あるからこそ、ファンに\nなってくれた人たちがいます。"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "変わり者のファンたちに\n好かれるのを、どう思いますか？"
     },
     {
@@ -100,13 +100,13 @@
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なら……皆さんが篠澤さんの\nどこに魅力を感じているのか。"
     },
     {
       "index": 17,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "自分でわかっていなければ。"
     },
     {
@@ -142,13 +142,13 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんのファンは、\n篠澤さんのことを……"
     },
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "頭がいいとは、\n思っていないのでは？"
     },
     {
@@ -172,7 +172,7 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは弱点です。"
     },
     {
@@ -190,7 +190,7 @@
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "その危うい武器は、\nなるべく早く卒業しましょう。"
     },
     {
@@ -208,7 +208,7 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "じっとこちらを見て、どうしました？"
     },
     {
@@ -226,7 +226,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そうですね。強い武器だと思います。"
     },
     {

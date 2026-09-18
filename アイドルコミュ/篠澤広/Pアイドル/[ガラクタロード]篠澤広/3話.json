@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.964237+00:00",
+  "exported_at": "2026-09-18T15:50:50.271702+00:00",
   "line_count": 40,
   "needs_review": 0,
   "lines": [
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "レッスンお疲れさまでした。\n段々と良くなってきましたね。"
     },
     {
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ご希望はありますか？"
     },
     {
@@ -40,7 +40,7 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もうしたではないですか。"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "しなくていいです。"
     },
     {
@@ -76,19 +76,19 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ふぅ…………では。"
     },
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それなりに長い期間、広さんの\nプロデュースをしてきましたが。"
     },
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "一番良かったプロデュースは？"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それが篠澤広にとって、\nベストなプロデュースですからね。"
     },
     {
@@ -124,7 +124,7 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "すべて乗り越えてきたではないですか。"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん、好きでやっています。"
     },
     {
@@ -178,13 +178,13 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは……\nプロデュースではないでしょう。"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "担当アイドルに、{体|てい}よく、\nわがままを押し付けただけです。"
     },
     {
@@ -226,19 +226,19 @@
     {
       "index": 37,
       "type": "dialogue",
-      "text": "ハ……バカなことを。",
-      "speaker": "ろんしろ"
+      "speaker": "プロデューサー",
+      "text": "ハ……バカなことを。"
     },
     {
       "index": 38,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "急に……やめてください……\n他愛のない雑談のつもりだったのに。"
     },
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ー一こちらこそ。ありがとう、広さん。"
     },
     {

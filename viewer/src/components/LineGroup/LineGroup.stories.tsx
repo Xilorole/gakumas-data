@@ -83,24 +83,24 @@ export const 複数行の発話が3回連続: Story = {
   args: {
     group: {
       type: "dialogue",
-      speaker: "ろんしろ",
+      speaker: "プロデューサー",
       lines: [
         {
           index: 1,
           type: "dialogue",
-          speaker: "ろんしろ",
+          speaker: "プロデューサー",
           text: "バラエティ番組に出演した広さんが、\n打ち合わせを無視して、\n激辛を注文した瞬間ですね。",
         },
         {
           index: 2,
           type: "dialogue",
-          speaker: "ろんしろ",
+          speaker: "プロデューサー",
           text: "補習組のおふたりから\n『はじめての友達』の称号を、\nはく奪しなければいけませんね。",
         },
         {
           index: 3,
           type: "dialogue",
-          speaker: "ろんしろ",
+          speaker: "プロデューサー",
           text: "きっと会場の全員が、\nあなたに共感していた。\n皆が篠澤広と共鳴していた。",
         },
       ],

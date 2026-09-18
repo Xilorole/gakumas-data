@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.740580+00:00",
+  "exported_at": "2026-09-18T15:50:50.269260+00:00",
   "line_count": 52,
   "needs_review": 0,
   "lines": [
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……こちらからも質問を。\nなぜ、アイドルだったんですか？"
     },
     {
@@ -160,13 +160,13 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "その条件を満たす職業は、\n他にもあるはずです。"
     },
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なぜ、アイドルという仕事が\n面白そうだと？"
     },
     {
@@ -202,7 +202,7 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "笑いません。"
     },
     {
@@ -244,7 +244,7 @@
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いい動機ですね。応援しますよ。"
     },
     {
@@ -262,13 +262,13 @@
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お試し契約などという制度は、\nありません。"
     },
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "最初から本契約をしていて、\nすでに一蓮托生だということです。"
     },
     {
@@ -298,7 +298,7 @@
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あと半年、よろしくお願いします。"
     },
     {

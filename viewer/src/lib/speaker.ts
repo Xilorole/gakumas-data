@@ -24,9 +24,14 @@ export function speakerHue(name: string | undefined): number | null {
   return h;
 }
 
-/** プロデューサー（実データでは自称カスタム名「ろんしろ」で入る）の発話かどうか。
- *  プロデューサーの発話だけ画面右寄せにするための判定に使う。 */
-const PRODUCER_NAMES = new Set(["プロデューサー", "ろんしろ"]);
+/** プロデューサーの表示名。公開データの本文は、プレイヤーが設定した自称名を
+ *  `{producer}` プレースホルダで持つ（パイプライン側 `store/alias.py`）ので、
+ *  描画時にこの名前へ展開する（lib/richtext）。 */
+export const PRODUCER_DISPLAY = "プロデューサー";
+
+/** プロデューサーの発話かどうか（公開データは「プロデューサー」に統一済みだが、
+ *  古い自称カスタム名入りの JSON も右寄せできるよう残してある）。 */
+const PRODUCER_NAMES = new Set([PRODUCER_DISPLAY, "ろんしろ"]);
 
 export function isProducer(name: string | undefined): boolean {
   return name != null && PRODUCER_NAMES.has(name);

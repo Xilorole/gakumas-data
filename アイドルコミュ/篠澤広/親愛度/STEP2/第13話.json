@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:32.770447+00:00",
+  "exported_at": "2026-09-18T15:50:50.297461+00:00",
   "line_count": 69,
   "needs_review": 0,
   "lines": [
@@ -142,13 +142,13 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "誤解です。説明が難しいのですが……\n篠澤さんのファンたちは、いま。"
     },
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "複数の派閥に分かれて独自ルールを\n作ったり……しているようなんです。"
     },
     {
@@ -160,7 +160,7 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "残念ながら現在進行形のできごとです。"
     },
     {
@@ -172,7 +172,7 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "次のライブまでには、なんとかします。"
     },
     {

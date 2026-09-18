@@ -52,7 +52,7 @@ export const 単一の発話が3行_実データ: Story = {
     line: {
       index: 19,
       type: "dialogue",
-      speaker: "ろんしろ",
+      speaker: "プロデューサー",
       text: "バラエティ番組に出演した広さんが、\n打ち合わせを無視して、\n激辛を注文した瞬間ですね。",
     },
   },

@@ -3,15 +3,15 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.849259+00:00",
+  "exported_at": "2026-09-18T15:50:50.279257+00:00",
   "line_count": 36,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "text": "プロデューサー、プロデューサー。",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "プロデューサー、プロデューサー。"
     },
     {
       "index": 2,
@@ -22,7 +22,7 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "構いませんよ。\nどんな料理を作りたいんです？"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "毎回毎回……結局、要望を聞くことに\nなるので、無駄な会話を省いたんです。"
     },
     {
@@ -64,7 +64,7 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ふー…………唐突ですね。\n今日はなにを企んでいるんです？"
     },
     {
@@ -76,8 +76,8 @@
     {
       "index": 12,
       "type": "dialogue",
-      "text": "……………………………………………………………………………………",
-      "speaker": "ろんしろ"
+      "speaker": "プロデューサー",
+      "text": "……………………………………………………………………………………"
     },
     {
       "index": 13,
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それで……\nどんな料理を作りたいんです？"
     },
     {
@@ -118,7 +118,7 @@
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……事情はわかりました。\nなら、色々作ってみましょうか。"
     },
     {
@@ -136,13 +136,13 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それもありますし………\nあなたには、全体的に……"
     },
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "料理の腕を上げてほしいんです。"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "調理実習が壊滅的だからです。"
     },
     {
@@ -166,13 +166,13 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "当然、把握していましたよ。"
     },
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "補習の補習などという単語は、\nはじめて聞きました。"
     },
     {
@@ -184,7 +184,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あやうくアイドル活動に\n制限がかかるところでした。"
     },
     {
@@ -196,13 +196,13 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "プロデューサーの骨は、\nぎりぎりアウトになりそうです。"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "通常の授業でつまずいてしまっては、\n趣味どころではありませんよ。"
     },
     {

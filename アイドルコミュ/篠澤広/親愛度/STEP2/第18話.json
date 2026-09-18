@@ -3,20 +3,20 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-03T22:44:50.368322+00:00",
+  "exported_at": "2026-09-18T15:50:50.302614+00:00",
   "line_count": 18,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さん、我々が参加する\nオーディションは―――"
     },
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『FINALE』です。"
     },
     {
@@ -51,7 +51,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "予想していましたよ……花海佑芽さんに\n勝ったあの瞬間から。"
     },
     {
@@ -63,13 +63,13 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "当時の心境を正直に吐露します、が。"
     },
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『すごいな。本当に勝って\nしまったぞ』と、思いました。"
     },
     {
@@ -81,19 +81,19 @@
     {
       "index": 13,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そのくらいの大金星だった\nということです。"
     },
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "決戦の前に、テンションを\n下げたくないのですが……"
     },
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたを……思いっ切り\n褒めてもいいでしょうか？"
     },
     {

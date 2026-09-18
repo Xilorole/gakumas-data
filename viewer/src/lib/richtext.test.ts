@@ -41,6 +41,21 @@ describe("tokenizeRich", () => {
     ]);
   });
 
+  it("{producer} をプロデューサーの表示名へ展開する", () => {
+    expect(tokenizeRich("{producer}さん。")).toEqual([
+      { type: "text", value: "プロデューサーさん。" },
+    ]);
+  });
+
+  it("展開した表示名と傍点・ルビが共存できる", () => {
+    expect(tokenizeRich("《《{producer}》》と{一番星|プリマステラ}へ")).toEqual([
+      { type: "bouten", children: [{ type: "text", value: "プロデューサー" }] },
+      { type: "text", value: "と" },
+      { type: "ruby", base: "一番星", reading: "プリマステラ" },
+      { type: "text", value: "へ" },
+    ]);
+  });
+
   it("空文字は空配列", () => {
     expect(tokenizeRich("")).toEqual([]);
   });

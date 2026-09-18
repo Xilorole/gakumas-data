@@ -3,15 +3,15 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:38.031821+00:00",
+  "exported_at": "2026-09-18T15:50:50.322692+00:00",
   "line_count": 80,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "text": "ふぅぅ～～～～～～～～～～…………",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "ふぅぅ～～～～～～～～～～…………"
     },
     {
       "index": 2,
@@ -22,13 +22,13 @@
     {
       "index": 3,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "前回よりも、さらに良かったですよ。"
     },
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ライバルたちが良い刺激を\nもたらしてくれましたか？"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そうやって積み上がっていくものが、\nアイドルの魅力になる。そう思います。"
     },
     {
@@ -106,7 +106,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "我々にとって一番身近な\nトップアイドルが、\nお手本を見せてくれましたね。"
     },
     {
@@ -153,7 +153,7 @@
     {
       "index": 26,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "たったいま、消え失せましたね。"
     },
     {
@@ -165,7 +165,7 @@
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ミーティングを続けましょう。\n今回のリザルトですが……"
     },
     {
@@ -177,7 +177,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "自信たっぷりですね。\n実際、その通りです。\n素晴らしい歌声でした。"
     },
     {
@@ -195,7 +195,7 @@
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "よほど気に入っているんですね、\nその呼び名。"
     },
     {
@@ -213,7 +213,7 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いっそその名前のまま、\n臨時ユニットを組みますか？"
     },
     {
@@ -231,19 +231,19 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……期待していますよ。\nあなたがたのユニットライブを。"
     },
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "さて、{『選抜試験』|セレクション}もあとひとつを\n残すのみとなりました。"
     },
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そろそろ本戦での戦略について\n話しておきましょう。"
     },
     {
@@ -255,13 +255,13 @@
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "新生『H.I.F』は2ラウンドに\n分かれていて、"
     },
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "各アイドルは、\n課題曲と自由曲を歌います。"
     },
     {
@@ -273,7 +273,7 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "その通り。先ほどのライブを見る限り、\n問題なく戦えそうですね。"
     },
     {
@@ -291,7 +291,7 @@
     {
       "index": 49,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いいえ、まったく。\nただ……本心ですよ。"
     },
     {
@@ -303,13 +303,13 @@
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もちろん篠澤広の歌唱力は、いまだ\nトップアイドルレベルとは言えません。"
     },
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まとう『神聖』を加味すれば……\nあるいは、といったところでしょうか。"
     },
     {
@@ -333,7 +333,7 @@
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "0.9％ほど……いまさらながら、\n数字にするのはナンセンスですね。"
     },
     {
@@ -345,13 +345,13 @@
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ええ……あとすこしで、\nふたたび命が賭けられる数字になる。"
     },
     {
       "index": 59,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そのためには……"
     },
     {
@@ -363,13 +363,13 @@
     {
       "index": 61,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "わかっているようですね。\n篠澤広が歌う自由曲こそが、"
     },
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "奇跡を起こすための、最後のピース。"
     },
     {
@@ -387,8 +387,8 @@
     {
       "index": 65,
       "type": "dialogue",
-      "text": "わたしの灼熱を……こめていく。",
-      "speaker": "広"
+      "speaker": "広",
+      "text": "わたしの灼熱を……こめていく。"
     },
     {
       "index": 66,
@@ -417,13 +417,13 @@
     {
       "index": 70,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "俺は……いや、我々は。"
     },
     {
       "index": 71,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "夢を捨て、趣味に走った愚者。\nそう思われているようです。"
     },
     {
@@ -441,13 +441,13 @@
     {
       "index": 74,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "他のプロデューサーや、\nアイドルたちからすれば、"
     },
     {
       "index": 75,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なんとも中途半端で、真剣味に欠ける、\n腹立たしい存在かもしれません。"
     },
     {
@@ -459,13 +459,13 @@
     {
       "index": 77,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "真面目に夢に取り組む彼ら・彼女らを\n抜き去ろうというのなら。"
     },
     {
       "index": 78,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "我々は、すべてを賭けなくては。"
     },
     {

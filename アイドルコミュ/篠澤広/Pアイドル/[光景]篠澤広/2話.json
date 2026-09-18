@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:33.995972+00:00",
+  "exported_at": "2026-09-18T15:50:50.287041+00:00",
   "line_count": 52,
   "needs_review": 0,
   "lines": [
@@ -46,7 +46,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あまり褒められている気がしませんが、\n曲が気に入ったんですね？"
     },
     {
@@ -76,7 +76,7 @@
     {
       "index": 12,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは……よかった。\n楽しく歌えそうですか？"
     },
     {
@@ -88,13 +88,13 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "やる気十分ですね。"
     },
     {
       "index": 15,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "では、次のライブまでに、きっちり\n仕上げましょう。できますか？"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……ネガティブな結論を口にするとき、\n得意げに笑むのって、なんなんです？"
     },
     {
@@ -124,13 +124,13 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "可愛すぎてお腹が痛くなってきました。"
     },
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それで、無理かもしれない\n理由を聞いても？"
     },
     {
@@ -148,7 +148,7 @@
     {
       "index": 24,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ふむ……まずは振り付けを\n動画で確認してください。"
     },
     {
@@ -166,13 +166,13 @@
     {
       "index": 27,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どうも。……すぐ必要だと思ったので、\n自分で用意したのですが……"
     },
     {
       "index": 28,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そんなことより振り付けに集中して\n覚えてください。"
     },
     {
@@ -184,7 +184,7 @@
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "早いですね。\n……ちなみに歌詞は？"
     },
     {
@@ -196,13 +196,13 @@
     {
       "index": 32,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "相変わらず、長所と短所が凄まじい。"
     },
     {
       "index": 33,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "——振り付け、いかがでしょうか？"
     },
     {
@@ -214,7 +214,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どうぞ。……というか、\n覚悟が必要な行為なんですね。"
     },
     {
@@ -244,7 +244,7 @@
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "関節の可動域の問題ですね。"
     },
     {
@@ -274,7 +274,7 @@
     {
       "index": 45,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "よく自己分析できていますね。\n動画を確認して、どうですか？"
     },
     {
@@ -292,7 +292,7 @@
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……心臓に悪いので、\nその前振りはやめましょう。"
     },
     {
@@ -310,7 +310,7 @@
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "プロデューサーですからね。"
     },
     {

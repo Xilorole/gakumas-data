@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:39.409181+00:00",
+  "exported_at": "2026-09-18T15:50:50.305217+00:00",
   "line_count": 72,
   "needs_review": 0,
   "lines": [
@@ -16,7 +16,7 @@
     {
       "index": 2,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "すこし大丈夫です。"
     },
     {
@@ -34,13 +34,13 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……人生でもっともキツい\n十数分でした。"
     },
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お伝えすることが……ありますが……\n整理する時間を……ください……"
     },
     {
@@ -64,7 +64,7 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そのような……ものかもしれません。"
     },
     {
@@ -112,13 +112,13 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんのご両親が娘の進路について、\n実際、どう思っているのか。"
     },
     {
       "index": 19,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どうしても直接会って、\n話しておきたかったんです。"
     },
     {
@@ -136,7 +136,7 @@
     {
       "index": 22,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それでもプロデューサーとしては、\n確認が必要でした。"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "とても理知的で……\nシニカルな方ですね。"
     },
     {
@@ -190,7 +190,7 @@
     {
       "index": 31,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『ない』であろうものを『ある』とは\n言えません。"
     },
     {
@@ -208,7 +208,7 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんが、いかにダメなアイドルか、\n包み隠さずお伝えしていました。"
     },
     {
@@ -226,13 +226,13 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤広の時間と才能を、アイドル活動で\n消費してしまうことについて……"
     },
     {
       "index": 38,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "どう考えているのか、と、\n問われたんです。"
     },
     {
@@ -244,19 +244,19 @@
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "広さんも、我々も……《《そんなこと》》は\n気にしなくていいんです。"
     },
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "彼女が『趣味で友達に勝つ』\nことの方が、ずっと大切ですよ、と。"
     },
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お父さんは……同感だ、と、\n深く頷いていました。"
     },
     {
@@ -280,7 +280,7 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "…………そうです。"
     },
     {
@@ -304,7 +304,7 @@
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "………………篠澤さん。"
     },
     {
@@ -322,7 +322,7 @@
     {
       "index": 53,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "では……広さん。"
     },
     {
@@ -339,7 +339,7 @@
     {
       "index": 56,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "以前……『あなたは俺の夢の役には\n立たない』と、そう言いましたね。"
     },
     {
@@ -369,13 +369,13 @@
     {
       "index": 61,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたは……\nアイドルにまったく向いていない。"
     },
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "トップアイドルになど到底なれない。\n俺の夢は、きっと叶わない。"
     },
     {
@@ -387,13 +387,13 @@
     {
       "index": 64,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アイドルは、我々にとって\n共通の趣味ですが……"
     },
     {
       "index": 65,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "趣味のまま、\n夢を見たっていいでしょう。"
     },
     {

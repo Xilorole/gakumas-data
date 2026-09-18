@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-15T14:06:32.903780+00:00",
+  "exported_at": "2026-09-18T15:50:50.301711+00:00",
   "line_count": 67,
   "needs_review": 0,
   "lines": [
@@ -70,7 +70,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "だめですよ。死にますよ。"
     },
     {
@@ -220,8 +220,8 @@
     {
       "index": 36,
       "type": "dialogue",
-      "text": "はい？",
-      "speaker": "千奈"
+      "speaker": "千奈",
+      "text": "はい？"
     },
     {
       "index": 37,
@@ -382,8 +382,8 @@
     {
       "index": 63,
       "type": "dialogue",
-      "text": "――させないけどね。",
-      "speaker": "佑芽"
+      "speaker": "佑芽",
+      "text": "――させないけどね。"
     },
     {
       "index": 64,

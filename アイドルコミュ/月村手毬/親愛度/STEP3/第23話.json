@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-14T22:58:56.121389+00:00",
+  "exported_at": "2026-09-18T15:50:50.255409+00:00",
   "line_count": 112,
   "needs_review": 5,
   "lines": [
@@ -215,7 +215,7 @@
     {
       "index": 35,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "おかえりなさい、月村さん。\nすぐに帰って反省会をしましょう。"
     },
     {
@@ -227,7 +227,7 @@
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そういう反応だと思いましたよ。\n気が合いますね。"
     },
     {
@@ -239,13 +239,13 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "今大会の参加者は皆、トップアイドルに\n片足を突っ込んだような者ばかり……"
     },
     {
       "index": 40,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "非常にレベルの高い大会だった。"
     },
     {
@@ -257,13 +257,13 @@
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "これは断じて慰めではなく。\n負け惜しみでもなく。"
     },
     {
       "index": 43,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "——いい勝負でした。"
     },
     {
@@ -281,19 +281,19 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あのとき会場の空気は、秦谷さん\nの歌で塗りつぶされてしまっていた。"
     },
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "まともに他のアイドルの審査を\nできるような状況ではなかった。"
     },
     {
       "index": 48,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なのに、いい勝負でした。\n誰もがそう感じたはずです。"
     },
     {
@@ -305,19 +305,19 @@
     {
       "index": 50,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ええ。月村手毬の出番が\n秦谷美鈴の直後でなければ"
     },
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "もっと盛り下がった大会に\nなっていたはずです。あるいは、"
     },
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『{一番星|プリマステラ}』になる人物さえ……\n変わっていたかもしれない。"
     },
     {
@@ -329,13 +329,13 @@
     {
       "index": 54,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "月村手毬の歌が、皆の目を覚ました。\n異様な空気を{払拭|ふっしょく}して、"
     },
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "大会を成功に導いたのだ……と、\nそう思っています。"
     },
     {
@@ -377,13 +377,13 @@
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたもすごかった。\n紙一重の敗北だった。"
     },
     {
       "index": 63,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "俺が審査員なら、\nあなたこそが『{一番星|プリマステラ}』です。",
       "needs_review": true
     },
@@ -437,7 +437,7 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "うかがいましょう。"
     },
     {
@@ -456,7 +456,7 @@
     {
       "index": 75,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは良い考えですね。"
     },
     {
@@ -485,13 +485,13 @@
     {
       "index": 81,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "元『SyngUp！』の3人で特訓。\n素晴らしいアイデアです。\nぜひやりましょう。しかし、"
     },
     {
       "index": 82,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "解散ライブは許可できません。"
     },
     {
@@ -503,13 +503,13 @@
     {
       "index": 84,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなた方にとって解散ライブは、\nそんな軽いものではないはず。"
     },
     {
       "index": 85,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "必ず二兎を追う結果になる。\n『H.I.F』の調整にはなりません。"
     },
     {
@@ -551,13 +551,13 @@
     {
       "index": 92,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "構いません。ただし、その頃には、\n月村手毬はトップアイドルです。"
     },
     {
       "index": 93,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "困りますよ。\n足を引っ張ってもらっては。"
     },
     {
@@ -569,7 +569,7 @@
     {
       "index": 95,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "賀陽さんにも、どうか、\nそのままお伝えください。"
     },
     {
@@ -598,7 +598,7 @@
     {
       "index": 100,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "伝わりませんでしたか？"
     },
     {
@@ -616,7 +616,7 @@
     {
       "index": 103,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ほどなく……十王星南が、\nトップアイドルになります。"
     },
     {
@@ -628,7 +628,7 @@
     {
       "index": 105,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "『H.I.F』の価値が上がり『{一番星|プリマステラ}』が\nトップアイドルの称号になる。"
     },
     {
@@ -646,13 +646,13 @@
     {
       "index": 108,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "予想もなにも……うちの月村さんに\n勝ったんですから。"
     },
     {
       "index": 109,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "当然でしょう、《《そのくらい》》。\nきっとすぐです。"
     },
     {

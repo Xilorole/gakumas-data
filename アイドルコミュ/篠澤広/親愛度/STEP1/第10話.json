@@ -34,7 +34,7 @@
     {
       "index": 5,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ほー、そうなんですね。"
     },
     {
@@ -46,7 +46,7 @@
     {
       "index": 7,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "…………………………………………"
     },
     {
@@ -58,7 +58,7 @@
     {
       "index": 9,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "希望を叶えるとテンションが下がる\nアイドルがいてですね、熟考中です。"
     },
     {
@@ -70,7 +70,7 @@
     {
       "index": 11,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "行かなくていいのでは。\n休日はちゃんと休みませんか？"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……はい。"
     },
     {
@@ -100,7 +100,7 @@
     {
       "index": 16,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "嬉しそうですね。"
     },
     {
@@ -112,7 +112,7 @@
     {
       "index": 18,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なら、来てよかった。\nどこから回りますか？"
     },
     {
@@ -124,13 +124,13 @@
     {
       "index": 20,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "連日ずっとレッスン漬けで、\nついこの間ライブをしたばかり。"
     },
     {
       "index": 21,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "疲労が溜まっていて当然です。"
     },
     {
@@ -142,7 +142,7 @@
     {
       "index": 23,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "落ち着きましたか？"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なら、もう少し\nゆっくりしていきましょう。"
     },
     {
@@ -178,13 +178,13 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "単に、事前調査済みだったから、\nというのもありますし……"
     },
     {
       "index": 30,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "篠澤さんの過去の経歴は、\n極力使わないと決めたからです。"
     },
     {
@@ -208,7 +208,7 @@
     {
       "index": 34,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "それは……そう言うでしょうね。\n業界関係者なら、誰でも。"
     },
     {
@@ -220,13 +220,13 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いままでの人生すべてが、\nアイドルにとっては武器ですから。"
     },
     {
       "index": 37,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "とりわけ篠澤さんの武器は、強力です。\n使い道はいくらでもある。"
     },
     {
@@ -238,7 +238,7 @@
     {
       "index": 39,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "素手で挑みたいんでしょう？"
     },
     {
@@ -250,13 +250,13 @@
     {
       "index": 41,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なら、そうすればいい。"
     },
     {
       "index": 42,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ファンに篠澤広の経歴は公表しない。\n身一つで挑みましょう。"
     },
     {
@@ -268,7 +268,7 @@
     {
       "index": 44,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なにか？"
     },
     {
@@ -280,13 +280,13 @@
     {
       "index": 46,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……こちらからも質問を。"
     },
     {
       "index": 47,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なぜ、アイドルだったんですか？"
     },
     {
@@ -310,13 +310,13 @@
     {
       "index": 51,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "その条件を満たす職業は、\n他にもあるはずです。"
     },
     {
       "index": 52,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なぜ、アイドルという仕事が\n面白そうだと？"
     },
     {
@@ -334,7 +334,7 @@
     {
       "index": 55,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "笑いません。"
     },
     {
@@ -352,13 +352,13 @@
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "いい動機ですね。"
     },
     {
       "index": 59,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "応援しますよ。"
     },
     {
@@ -376,13 +376,13 @@
     {
       "index": 62,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "その件ですが……"
     },
     {
       "index": 63,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "お試し契約などという制度は、\nありません。"
     },
     {
@@ -394,7 +394,7 @@
     {
       "index": 65,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "最初から本契約をしていて、\nすでに一蓮托生だということです。"
     },
     {
@@ -406,7 +406,7 @@
     {
       "index": 67,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "はい。その方が\n良い結果になるだろうと。"
     },
     {
@@ -418,7 +418,7 @@
     {
       "index": 69,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "そのわりに、\nやりたい放題やっていたような……"
     },
     {
@@ -436,7 +436,7 @@
     {
       "index": 72,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "すみません。"
     },
     {

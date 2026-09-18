@@ -3,7 +3,7 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-06-16T07:16:39.207613+00:00",
+  "exported_at": "2026-09-18T15:50:50.312670+00:00",
   "line_count": 79,
   "needs_review": 0,
   "lines": [
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……広さんのこんな様子は、\nはじめて見ますね。新鮮です。"
     },
     {
@@ -40,7 +40,7 @@
     {
       "index": 6,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "意外と余裕あります？"
     },
     {
@@ -52,7 +52,7 @@
     {
       "index": 8,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ノックしますよ。"
     },
     {
@@ -70,8 +70,8 @@
     {
       "index": 11,
       "type": "dialogue",
-      "text": "――どうぞ。",
-      "speaker": "？？？"
+      "speaker": "？？？",
+      "text": "――どうぞ。"
     },
     {
       "index": 12,
@@ -136,8 +136,8 @@
     {
       "index": 22,
       "type": "dialogue",
-      "text": "前置きが多くて、ごめんなさい。\nもうひとつだけ……",
-      "speaker": "owl"
+      "speaker": "owl",
+      "text": "前置きが多くて、ごめんなさい。\nもうひとつだけ……"
     },
     {
       "index": 23,
@@ -352,7 +352,7 @@
     {
       "index": 58,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "オリジンとの対話。\n成果はありましたか？"
     },
     {
@@ -394,7 +394,7 @@
     {
       "index": 65,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なんとかしましょう。近々。では……\n例の『神格』の上げ方については？"
     },
     {
@@ -406,7 +406,7 @@
     {
       "index": 67,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "なんとかしましょう。いま、ここで。"
     },
     {
@@ -424,13 +424,13 @@
     {
       "index": 70,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "思い出してください。"
     },
     {
       "index": 71,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あなたが俺の目前で、\nはじめて奇跡を起こした日のことを。"
     },
     {
@@ -454,7 +454,7 @@
     {
       "index": 75,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "アレ、もう一回やりましょう。"
     },
     {
@@ -472,13 +472,13 @@
     {
       "index": 78,
       "type": "dialogue",
-      "text": "篠澤広の『神格』を上げる方法。\n狙って奇跡を起こす方法は……",
-      "speaker": "ろんしろ"
+      "speaker": "プロデューサー",
+      "text": "篠澤広の『神格』を上げる方法。\n狙って奇跡を起こす方法は……"
     },
     {
       "index": 79,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "我々が共に、\n窮地へと飛び込むことです！"
     }
   ]

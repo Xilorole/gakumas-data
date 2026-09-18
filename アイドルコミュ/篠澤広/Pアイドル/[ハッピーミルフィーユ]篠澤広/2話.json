@@ -3,14 +3,14 @@
   "title": null,
   "idol": null,
   "comm_type": null,
-  "exported_at": "2026-07-03T22:44:49.921064+00:00",
+  "exported_at": "2026-09-18T15:50:50.280306+00:00",
   "line_count": 38,
   "needs_review": 0,
   "lines": [
     {
       "index": 1,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "では……さっそく明日から、\n料理の特訓を――"
     },
     {
@@ -28,7 +28,7 @@
     {
       "index": 4,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "ふむ、『一刻も早く』……でしたね。\nなら、今日から始めましょうか。"
     },
     {
@@ -64,7 +64,7 @@
     {
       "index": 10,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "……ええと。"
     },
     {
@@ -88,7 +88,7 @@
     {
       "index": 14,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "困ってしまいましたね……花海さん、\n倉本さん、理由をうかがっても？"
     },
     {
@@ -154,7 +154,7 @@
     {
       "index": 25,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "たったいま、仲良く密談を……"
     },
     {
@@ -178,7 +178,7 @@
     {
       "index": 29,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "明日までって……\nまた、ピンポイントな。"
     },
     {
@@ -220,7 +220,7 @@
     {
       "index": 36,
       "type": "dialogue",
-      "speaker": "ろんしろ",
+      "speaker": "プロデューサー",
       "text": "あー…………ないですね。\n残念、今日は諦めましょう。"
     },
     {
