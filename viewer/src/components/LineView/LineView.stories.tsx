@@ -1,5 +1,7 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import { LineView } from "./LineView";
+import { LineGroup } from "../LineGroup/LineGroup";
+import { FlashbackBlock } from "../FlashbackBlock/FlashbackBlock";
 
 const meta = {
   title: "本文/LineView",
@@ -55,5 +57,47 @@ export const 単一の発話が3行_実データ: Story = {
       speaker: "プロデューサー",
       text: "バラエティ番組に出演した広さんが、\n打ち合わせを無視して、\n激辛を注文した瞬間ですね。",
     },
+  },
+};
+
+export const ト書きとセリフ: Story = {
+  args: {
+    line: { index: 2, type: "dialogue", text: "広が端末を差し出す。\n画面には、水色の石が写っている。" },
+    plain: true,
+  },
+  render: ({ line }) => {
+    const content = (
+      <>
+        <LineGroup
+          group={{
+            type: "dialogue",
+            speaker: "広",
+            lines: [{ index: 1, type: "dialogue", speaker: "広", text: "写真、見て。" }],
+          }}
+        />
+        <LineGroup
+          group={{
+            type: "dialogue",
+            lines: [
+              line,
+              { index: 3, type: "dialogue", text: "プロデューサーがうなずく。", needs_review: true },
+            ],
+          }}
+        />
+        <LineGroup
+          group={{
+            type: "dialogue",
+            speaker: "プロデューサー",
+            lines: [{ index: 4, type: "dialogue", speaker: "プロデューサー", text: "よく似合っています。" }],
+          }}
+        />
+      </>
+    );
+    return (
+      <div style={{ maxWidth: 390, padding: 18, background: "var(--surface)" }}>
+        {content}
+        <FlashbackBlock>{content}</FlashbackBlock>
+      </div>
+    );
   },
 };

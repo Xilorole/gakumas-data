@@ -32,16 +32,16 @@
   justify-self: end;
 }
 
-/* ナレーション（話者なし）行は吹き出し化せず、地の文として中央に寄せる。
-   縁取り・影は無しのまま、背景だけ薄いグレーで軽く囲って視認性を確保する
-   （白背景の上に素の黒文字だけだと沈んで見づらいため）。 */
+/* ト書きはセリフと区別し、テーマに応じた控えめな文字だけを中央に置く。 */
 .plain {
   justify-self: center;
   text-align: center;
-  background: var(--surface-2);
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  background: transparent;
   box-shadow: none;
-  border-radius: 10px;
-  padding: 6px 14px;
+  border-radius: 0;
+  padding: 6px 0;
 }
 
 /* 要確認行：見た目は他の発話と変えない（このビューアは基本的に正しいとされる
