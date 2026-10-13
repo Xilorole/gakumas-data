@@ -420,19 +420,88 @@
     "needs_review": 0
   },
   {
-    "path": "アイドルコミュ/篠澤広/オリジナルコミュ/服の下にも.json",
+    "path": "アイドルコミュ/篠澤広/オリジナルコミュ/服の下にも/1話.json",
     "segments": [
       "アイドルコミュ",
       "篠澤広",
       "オリジナルコミュ",
-      "服の下にも"
+      "服の下にも",
+      "1話"
     ],
-    "session": "hiro_original_fuku_no_shita_nimo",
-    "title": "服の下にも（非公式オリジナルコミュ）",
+    "session": "hiro_original_fuku_no_shita_nimo_1",
+    "title": "1話（非公式オリジナルコミュ）",
     "idol": "篠澤広",
     "comm_type": "オリジナルコミュ",
-    "exported_at": "2026-10-13T13:49:28.981959+00:00",
-    "line_count": 262,
+    "exported_at": "2026-10-13T14:01:25.031198+00:00",
+    "line_count": 48,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/オリジナルコミュ/服の下にも/2話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "オリジナルコミュ",
+      "服の下にも",
+      "2話"
+    ],
+    "session": "hiro_original_fuku_no_shita_nimo_2",
+    "title": "2話（非公式オリジナルコミュ）",
+    "idol": "篠澤広",
+    "comm_type": "オリジナルコミュ",
+    "exported_at": "2026-10-13T14:01:25.031198+00:00",
+    "line_count": 40,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/オリジナルコミュ/服の下にも/3話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "オリジナルコミュ",
+      "服の下にも",
+      "3話"
+    ],
+    "session": "hiro_original_fuku_no_shita_nimo_3",
+    "title": "3話（非公式オリジナルコミュ）",
+    "idol": "篠澤広",
+    "comm_type": "オリジナルコミュ",
+    "exported_at": "2026-10-13T14:01:25.031198+00:00",
+    "line_count": 61,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/オリジナルコミュ/服の下にも/4話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "オリジナルコミュ",
+      "服の下にも",
+      "4話"
+    ],
+    "session": "hiro_original_fuku_no_shita_nimo_4",
+    "title": "4話（非公式オリジナルコミュ）",
+    "idol": "篠澤広",
+    "comm_type": "オリジナルコミュ",
+    "exported_at": "2026-10-13T14:01:25.031198+00:00",
+    "line_count": 48,
+    "needs_review": 0
+  },
+  {
+    "path": "アイドルコミュ/篠澤広/オリジナルコミュ/服の下にも/5話.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "オリジナルコミュ",
+      "服の下にも",
+      "5話"
+    ],
+    "session": "hiro_original_fuku_no_shita_nimo_5",
+    "title": "5話（非公式オリジナルコミュ）",
+    "idol": "篠澤広",
+    "comm_type": "オリジナルコミュ",
+    "exported_at": "2026-10-13T14:01:25.031198+00:00",
+    "line_count": 65,
     "needs_review": 0
   },
   {

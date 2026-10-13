@@ -68,6 +68,23 @@ describe("seriesNeighbors", () => {
     const tree = buildTree(otherEntries);
     expect(seriesNeighbors(tree, otherEntries[0])).toEqual({ prev: null, next: null });
   });
+
+  it("オリジナルコミュは作品内で数値順に前後へ移動する", () => {
+    const base = "アイドルコミュ/篠澤広/オリジナルコミュ";
+    const episodes = [5, 3, 1, 4, 2].map((n) => entry(`${base}/服の下にも/${n}話.json`));
+    const tree = buildTree([
+      ...episodes,
+      entry(`${base}/別の作品/1話.json`),
+      entry(`${base}/単発.json`),
+    ]);
+    for (const episode of episodes) {
+      const n = episodeKey(episode.segments.at(-1)!);
+      const neighbors = seriesNeighbors(tree, episode);
+      expect(neighbors.prev?.path ?? null).toBe(n === 1 ? null : `${base}/服の下にも/${n - 1}話.json`);
+      expect(neighbors.next?.path ?? null).toBe(n === 5 ? null : `${base}/服の下にも/${n + 1}話.json`);
+    }
+    expect(seriesNeighbors(tree, entry(`${base}/単発.json`))).toEqual({ prev: null, next: null });
+  });
 });
 
 describe("filterEntries", () => {

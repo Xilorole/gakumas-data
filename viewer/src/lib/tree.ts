@@ -64,9 +64,9 @@ function findNode(root: TreeNode, segments: string[]): TreeNode | null {
 }
 
 /**
- * 同じシリーズ内での前後の話を返す（親愛度コミュ / Pアイドルコミュのみ対応）。
+ * 同じシリーズ内での前後の話を返す（親愛度 / Pアイドル / オリジナルコミュ）。
  * 親愛度コミュは STEP をまたいで連続ナビゲートできるよう、STEP の 1 つ上
- * （「親愛度」グループ）を単位にする。Pアイドルコミュはカードのフォルダ単位。
+ * （「親愛度」グループ）を単位にする。Pアイドルはカード、オリジナルは作品のフォルダ単位。
  * それ以外のカテゴリ（初星コミュ・サポートコミュ等）は次話/前話の概念が
  * 無いため { prev: null, next: null } を返す。
  */
@@ -77,11 +77,12 @@ export function seriesNeighbors(
   const segs = entry.segments;
   const affinityIdx = segs.indexOf("親愛度");
   const pIdolIdx = segs.indexOf("Pアイドル");
+  const originalIdx = segs.indexOf("オリジナルコミュ");
 
   let seriesSegs: string[] | null = null;
   if (affinityIdx !== -1) {
     seriesSegs = segs.slice(0, affinityIdx + 1);
-  } else if (pIdolIdx !== -1) {
+  } else if (pIdolIdx !== -1 || (originalIdx !== -1 && segs.length > originalIdx + 2)) {
     seriesSegs = segs.slice(0, -1);
   }
   if (!seriesSegs) return { prev: null, next: null };
