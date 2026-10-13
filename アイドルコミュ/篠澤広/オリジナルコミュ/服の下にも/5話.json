@@ -3,8 +3,8 @@
   "title": "5話",
   "idol": "篠澤広",
   "comm_type": "オリジナルコミュ",
-  "exported_at": "2026-10-13T14:06:33.857420+00:00",
-  "line_count": 58,
+  "exported_at": "2026-10-13T14:18:18.479829+00:00",
+  "line_count": 59,
   "needs_review": 0,
   "lines": [
     {
@@ -13,60 +13,66 @@
       "text": "5．その夜・広の部屋"
     },
     {
-      "index": 2,
       "type": "dialogue",
-      "text": "机の明かりだけがついている。読みかけの本の上に、端末。窓の外で車の音がして、遠ざかる。"
+      "speaker": "広（心の声）",
+      "text": "……さっきから、同じページ。\n今日はもう、本、進まないね。",
+      "inner_voice": true,
+      "index": 2
     },
     {
-      "index": 3,
       "type": "dialogue",
       "speaker": "広",
-      "text": "……三枚。"
+      "text": "写真、三枚も送ってた。",
+      "index": 3
     },
     {
       "index": 4,
-      "type": "dialogue",
-      "text": "送った写真が、会話のいちばん下に並んでいる。"
-    },
-    {
-      "index": 5,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "一枚だけ、見せるつもりだった。"
     },
     {
-      "index": 6,
+      "index": 5,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "いちばんよく撮れたのを選んで。\nそれを見てもらえば、十分だと思ってた。"
     },
     {
-      "index": 7,
+      "index": 6,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "でも、プロデューサーが、\n端末を近くに寄せたから。"
     },
     {
-      "index": 8,
+      "index": 7,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "ちゃんと見ようとしてくれたから。"
     },
     {
-      "index": 9,
+      "index": 8,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "……ああいう顔をすると、増えるんだよ。\n見せたいもの。"
     },
     {
-      "index": 10,
       "type": "dialogue",
-      "text": "写真を一枚、開く。少し前まで画面の中にしかなかった水色が、今は服の下にもある。"
+      "speaker": "広（心の声）",
+      "text": "写真の中の水色が、\nいまは、わたしの服の下にもある。",
+      "inner_voice": true,
+      "index": 9
+    },
+    {
+      "type": "dialogue",
+      "speaker": "広（心の声）",
+      "text": "……ふふ。つけたんだ、わたし。",
+      "inner_voice": true,
+      "index": 10
     },
     {
       "index": 11,
@@ -76,11 +82,11 @@
       "text": "最初に、してみたいと言ったとき。"
     },
     {
-      "index": 12,
       "type": "dialogue",
       "speaker": "広（心の声）",
+      "text": "隣に座っていいかって、聞かれた。\nこっちを向いて、話を聞いてくれた。",
       "inner_voice": true,
-      "text": "椅子を引く音がした。\nこっちを向いて、座り直してくれた。"
+      "index": 12
     },
     {
       "index": 13,
@@ -126,218 +132,229 @@
     {
       "index": 19,
       "type": "dialogue",
-      "text": "小さく笑って、画面を伏せる。部屋が少し暗くなる。"
+      "speaker": "広（心の声）",
+      "inner_voice": true,
+      "text": "決める日は、\nもっと簡単だと思ってた。"
     },
     {
       "index": 20,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "決める日は、\nもっと簡単だと思ってた。"
+      "text": "したい。調べる。相談する。\nできるなら、する。"
     },
     {
       "index": 21,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "したい。調べる。相談する。\nできるなら、する。"
+      "text": "それなのに、いざ聞かれたら、\n色の話をした。"
     },
     {
       "index": 22,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "それなのに、いざ聞かれたら、\n色の話をした。"
+      "text": "水色にするなんて、\nもう決めてたのに。"
     },
     {
       "index": 23,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "水色にするなんて、\nもう決めてたのに。"
+      "text": "少し、怖かった。"
     },
     {
       "index": 24,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "少し、怖かった。"
+      "text": "痛いだろうな、もあった。\nその先の、自分ではまだ知らないことも。"
     },
     {
       "index": 25,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "痛いだろうな、もあった。\nその先の、自分ではまだ知らないことも。"
+      "text": "プロデューサーに、似合うと、\nもう一回言ってほしかった。"
     },
     {
       "index": 26,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "プロデューサーに、似合うと、\nもう一回言ってほしかった。"
+      "text": "言われたら決められる、というのとは、\nすこし違う。"
     },
     {
       "index": 27,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "言われたら決められる、というのとは、\nすこし違う。"
+      "text": "……ううん。"
     },
     {
       "index": 28,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "……ううん。"
+      "text": "すこしは、そうだったかも。"
     },
     {
       "index": 29,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "すこしは、そうだったかも。"
-    },
-    {
-      "index": 30,
-      "type": "dialogue",
-      "text": "伏せた端末の横に指を置く。動かさず、そのまま。"
-    },
-    {
-      "index": 31,
-      "type": "dialogue",
-      "speaker": "広（心の声）",
-      "inner_voice": true,
       "text": "すすめられたら、\nあなたがそう言ったから、って。"
     },
     {
-      "index": 32,
+      "index": 30,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "冗談にできた。"
     },
     {
-      "index": 33,
+      "index": 31,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "でも、プロデューサーは、\n似合うって言うだけだった。"
     },
     {
-      "index": 34,
+      "index": 32,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "わたしが黙ると、黙って待った。"
     },
     {
-      "index": 35,
+      "index": 33,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "あの時間、落ち着かなかったな。"
     },
     {
-      "index": 36,
+      "index": 34,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "早く続きを言わなきゃ、と思うのに、\n急かしてくれない。"
     },
     {
-      "index": 37,
+      "index": 35,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "……いまは、うれしい。"
     },
     {
-      "index": 38,
+      "index": 36,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "あそこで、わたしが言うまで\n待ってくれたの。"
     },
     {
-      "index": 39,
       "type": "dialogue",
-      "text": "端末を表に返す。三枚目の写真を開く。昼間、プロデューサーが一枚目まで戻って見比べていたのを思い出す。"
+      "speaker": "広（心の声）",
+      "text": "三枚目を見せたら、一枚目に戻って、\n見比べてくれたんだよね。",
+      "inner_voice": true,
+      "index": 37
     },
     {
-      "index": 40,
+      "type": "dialogue",
+      "speaker": "広（心の声）",
+      "text": "どれも、わたしが選んだ写真。\n……全部、見せてよかった。",
+      "inner_voice": true,
+      "index": 38
+    },
+    {
+      "index": 39,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "自分で気に入ったものを、\n見せに行った。"
     },
     {
-      "index": 41,
+      "index": 40,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "それで、あの人も、気に入ってくれた。"
     },
     {
-      "index": 42,
+      "index": 41,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "順番は、そう。"
     },
     {
-      "index": 43,
+      "index": 42,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "でも、また選ぶことがあったら、\nきっと聞いちゃうね。"
     },
     {
-      "index": 44,
+      "index": 43,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
       "text": "どっちが好き、って。"
     },
     {
-      "index": 45,
+      "index": 44,
       "type": "dialogue",
       "speaker": "広",
       "text": "……同じの、好きでいてほしいし。"
     },
     {
-      "index": 46,
       "type": "dialogue",
-      "text": "声にすると、部屋が静かなことに気づく。広は一度、口を閉じる。"
+      "speaker": "広（心の声）",
+      "text": "この気持ち、いま伝えるなら……",
+      "inner_voice": true,
+      "index": 45
     },
     {
-      "index": 47,
       "type": "dialogue",
-      "text": "会話の入力欄に、「今日、うれしかった」と打つ。少し眺めてから、その下にもう一行。"
+      "speaker": "広",
+      "text": "今日、うれしかった……と。",
+      "index": 46
     },
     {
-      "index": 48,
       "type": "dialogue",
-      "text": "「三枚とも見てくれて、ありがとう」"
+      "speaker": "広",
+      "text": "三枚とも見てくれて、ありがとう。",
+      "index": 47
+    },
+    {
+      "type": "dialogue",
+      "speaker": "広（心の声）",
+      "text": "……そう書くと、\n写真を見てもらっただけ、みたい。",
+      "inner_voice": true,
+      "index": 48
     },
     {
       "index": 49,
       "type": "dialogue",
       "speaker": "広（心の声）",
       "inner_voice": true,
-      "text": "……写真を見てもらっただけ、みたい。"
-    },
-    {
-      "index": 50,
-      "type": "dialogue",
-      "speaker": "広（心の声）",
-      "inner_voice": true,
       "text": "それだけじゃないのに。"
     },
     {
-      "index": 51,
       "type": "dialogue",
-      "text": "時計を見る。日付が変わろうとしている。二行を消して、端末を本の横へ置く。"
+      "speaker": "広",
+      "text": "……もう、こんな時間。",
+      "index": 50
+    },
+    {
+      "type": "dialogue",
+      "speaker": "広（心の声）",
+      "text": "まだ送ってないし。……消そう。\nうまく書けるまで、起きてることになる。",
+      "inner_voice": true,
+      "index": 51
     },
     {
       "index": 52,
@@ -354,30 +371,42 @@
       "text": "会って、言いたい。\nまた、こっちを向いてほしい。"
     },
     {
-      "index": 54,
       "type": "dialogue",
-      "text": "本にしおりを挟み、閉じる。明かりを消そうとして、今日の声を思い出す。家で喜んでいたところも見たかった、と言われた。"
+      "speaker": "広（心の声）",
+      "text": "家で喜んでたところも、見たかったって。\nプロデューサー、残念そうだったな。",
+      "inner_voice": true,
+      "index": 54
     },
     {
-      "index": 55,
+      "type": "dialogue",
+      "speaker": "広（心の声）",
+      "text": "いま、思い出して笑ってるところは、\nもっと見せられない。",
+      "inner_voice": true,
+      "index": 55
+    },
+    {
       "type": "dialogue",
       "speaker": "広",
-      "text": "……そっちは、いまも撮れないね。"
+      "text": "……あなたのこと、考えてる顔だよ。",
+      "index": 56
     },
     {
-      "index": 56,
       "type": "dialogue",
-      "text": "誰もいない部屋で笑う。写真は、もう増やさなかった。"
+      "speaker": "広（心の声）",
+      "text": "写真にしたら、明日きっと困る。\n……わたしが。",
+      "inner_voice": true,
+      "index": 57
     },
     {
-      "index": 57,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "ふふ。おやすみ、プロデューサー。",
+      "index": 58
+    },
+    {
+      "index": 59,
       "type": "dialogue",
       "text": "机の明かりが消える。"
-    },
-    {
-      "index": 58,
-      "type": "dialogue",
-      "text": "コミュ終了。"
     }
   ]
 }

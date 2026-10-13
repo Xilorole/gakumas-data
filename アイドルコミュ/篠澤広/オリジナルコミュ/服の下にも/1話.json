@@ -3,8 +3,8 @@
   "title": "1話",
   "idol": "篠澤広",
   "comm_type": "オリジナルコミュ",
-  "exported_at": "2026-10-13T14:06:33.857420+00:00",
-  "line_count": 46,
+  "exported_at": "2026-10-13T14:18:18.479829+00:00",
+  "line_count": 43,
   "needs_review": 0,
   "lines": [
     {
@@ -13,15 +13,16 @@
       "text": "1．事務所・衣装打ち合わせのあと"
     },
     {
-      "index": 2,
-      "type": "dialogue",
-      "text": "打ち合わせが終わっても、広は衣装の参考写真を見ていた。"
-    },
-    {
-      "index": 3,
       "type": "dialogue",
       "speaker": "プロデューサー",
-      "text": "その衣装、気に入りましたか？"
+      "text": "打ち合わせが終わっても、\nその写真を見ていますね。",
+      "index": 2
+    },
+    {
+      "type": "dialogue",
+      "speaker": "プロデューサー",
+      "text": "その衣装、気に入りましたか？",
+      "index": 3
     },
     {
       "index": 4,
@@ -32,54 +33,56 @@
     {
       "index": 5,
       "type": "dialogue",
-      "text": "指先が、写真の小さな光を示す。"
-    },
-    {
-      "index": 6,
-      "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "へそのピアスですか。"
     },
     {
-      "index": 7,
+      "index": 6,
       "type": "dialogue",
       "speaker": "広",
       "text": "これ、踊ったら、揺れるね。"
     },
     {
-      "index": 8,
+      "index": 7,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "撮影なら、穴を開けずにつける飾りも\nありますよ。"
     },
     {
-      "index": 9,
+      "index": 8,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "衣装担当の方に聞いてみましょうか。"
     },
     {
-      "index": 10,
+      "index": 9,
       "type": "dialogue",
       "speaker": "広",
       "text": "……本物だったら？"
     },
     {
-      "index": 11,
+      "index": 10,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "本物？"
     },
     {
-      "index": 12,
+      "index": 11,
       "type": "dialogue",
       "speaker": "広",
       "text": "わたしが、してみたかったら。"
     },
     {
-      "index": 13,
       "type": "dialogue",
-      "text": "プロデューサーが椅子を引き、広の隣に座り直す。"
+      "speaker": "プロデューサー",
+      "text": "……少し、隣に座ってもいいですか？",
+      "index": 12
+    },
+    {
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "うん。",
+      "index": 13
     },
     {
       "index": 14,
@@ -150,128 +153,113 @@
     {
       "index": 25,
       "type": "dialogue",
-      "text": "広が、写真を自分の方へ向け直す。"
-    },
-    {
-      "index": 26,
-      "type": "dialogue",
       "speaker": "広",
       "text": "……これ、わたしだったら、\nどうなるかな。"
     },
     {
-      "index": 27,
+      "index": 26,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "さっき、似合いそうだと。"
     },
     {
-      "index": 28,
+      "index": 27,
       "type": "dialogue",
       "speaker": "広",
       "text": "思った。\n言ってみたら、ちょっと違った。"
     },
     {
-      "index": 29,
+      "index": 28,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "違った？"
     },
     {
-      "index": 30,
+      "index": 29,
       "type": "dialogue",
       "speaker": "広",
       "text": "写真を見てるだけじゃ、なくなった。"
     },
     {
-      "index": 31,
-      "type": "dialogue",
-      "text": "プロデューサーも、もう一度写真を見る。"
-    },
-    {
-      "index": 32,
+      "index": 30,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "実際に開けるなら、身体への負担も、\n活動への影響も確認が必要です。"
     },
     {
-      "index": 33,
+      "index": 31,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "広さんの場合はどうか、\n専門家にも相談しないと。"
     },
     {
-      "index": 34,
+      "index": 32,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん。すぐにはできないの、調べた。"
     },
     {
-      "index": 35,
+      "index": 33,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "それでも気になりますか。"
     },
     {
-      "index": 36,
+      "index": 34,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん。……どんな感じか、知りたい。"
     },
     {
-      "index": 37,
+      "index": 35,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "つけた姿が？"
     },
     {
-      "index": 38,
+      "index": 36,
       "type": "dialogue",
       "speaker": "広",
       "text": "それも。開けるときも。そのあとも。"
     },
     {
-      "index": 39,
-      "type": "dialogue",
-      "text": "広が画面を拡大する。石が大きくなりすぎて、少し戻す。"
-    },
-    {
-      "index": 40,
       "type": "dialogue",
       "speaker": "広",
-      "text": "……でも、これがついてなかったら、\n別にいい。"
+      "text": "……でも、この石がついてなかったら、\n別にいい。",
+      "index": 37
     },
     {
-      "index": 41,
+      "index": 38,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "その飾りが気に入ったんですね。"
     },
     {
-      "index": 42,
+      "index": 39,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん。まず、似たのをつけてみたい。"
     },
     {
-      "index": 43,
+      "index": 40,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "では、撮影用のものから。"
     },
     {
-      "index": 44,
+      "index": 41,
       "type": "dialogue",
       "speaker": "広",
       "text": "それで満足しちゃったら？"
     },
     {
-      "index": 45,
+      "index": 42,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "気に入るものが見つかった、\nということでしょう。"
     },
     {
-      "index": 46,
+      "index": 43,
       "type": "dialogue",
       "speaker": "広",
       "text": "……そっか。じゃあ、楽しみにしとく。"
