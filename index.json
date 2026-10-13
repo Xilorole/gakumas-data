@@ -420,6 +420,22 @@
     "needs_review": 0
   },
   {
+    "path": "アイドルコミュ/篠澤広/オリジナルコミュ/服の下にも.json",
+    "segments": [
+      "アイドルコミュ",
+      "篠澤広",
+      "オリジナルコミュ",
+      "服の下にも"
+    ],
+    "session": "hiro_original_fuku_no_shita_nimo",
+    "title": "服の下にも（非公式オリジナルコミュ）",
+    "idol": "篠澤広",
+    "comm_type": "オリジナルコミュ",
+    "exported_at": "2026-10-13T13:44:37.585435+00:00",
+    "line_count": 212,
+    "needs_review": 0
+  },
+  {
     "path": "アイドルコミュ/篠澤広/親愛度/STEP1/第10.5話.json",
     "segments": [
       "アイドルコミュ",
