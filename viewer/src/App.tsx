@@ -10,7 +10,7 @@ import styles from "./App.module.css";
 
 export function App() {
   const manifest = useManifest();
-  const [selectedPath, select] = useHashSelection();
+  const [selectedPath, select] = useHashSelection(manifest.entries);
   const [drawerOpen, setDrawerOpen] = useState(false);
 
   const root = useMemo(() => buildTree(manifest.entries), [manifest.entries]);

@@ -2,6 +2,8 @@
 export interface ManifestEntry {
   /** リポジトリルートからの相対パス（例: "アイドルコミュ/篠澤広/.../1話.json"）。 */
   path: string;
+  /** 保存パスに依存しない英数字の共有用ID。旧マニフェストでは省略可。 */
+  share_id?: string;
   /** path をグループ階層＋末尾の話ラベルに分解したもの。 */
   segments: string[];
   session?: string;

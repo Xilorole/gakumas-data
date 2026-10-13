@@ -13,7 +13,9 @@ REPO_ROOT 省略時はこのスクリプトの 1 つ上（リポジトリルー�
 
 from __future__ import annotations
 
+import hashlib
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -49,15 +51,28 @@ def _entry(path: Path, rel: Path) -> dict | None:
     for key in _META_KEYS:
         if data.get(key) is not None:
             entry[key] = data[key]
+    share_id = data.get("share_id", data.get("session"))
+    if share_id is None and "share_id" not in data:
+        share_id = "commu-" + hashlib.sha256(rel.as_posix().encode()).hexdigest()[:16]
+    if not isinstance(share_id, str) or not re.fullmatch(
+        r"[A-Za-z0-9_-][A-Za-z0-9_.-]*(?:/[A-Za-z0-9_-][A-Za-z0-9_.-]*)*", share_id
+    ):
+        raise ValueError(f"{rel}: share_id/session must be an ASCII URL identifier")
+    entry["share_id"] = share_id
     return entry
 
 
 def build_manifest(root: Path) -> list[dict]:
     """root 配下の全 transcript からマニフェスト（エントリ配列）を組み立てる。"""
     entries = []
+    ids: dict[str, str] = {}
     for path, rel in _iter_transcripts(root):
         entry = _entry(path, rel)
         if entry is not None:
+            share_id = entry["share_id"]
+            if share_id in ids:
+                raise ValueError(f"Duplicate share_id {share_id}: {ids[share_id]} and {rel}")
+            ids[share_id] = rel.as_posix()
             entries.append(entry)
     return entries
 
