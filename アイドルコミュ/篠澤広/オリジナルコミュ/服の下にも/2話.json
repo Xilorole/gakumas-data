@@ -3,8 +3,8 @@
   "title": "2話",
   "idol": "篠澤広",
   "comm_type": "オリジナルコミュ",
-  "exported_at": "2026-10-13T14:06:33.857420+00:00",
-  "line_count": 37,
+  "exported_at": "2026-10-13T14:18:18.479829+00:00",
+  "line_count": 29,
   "needs_review": 0,
   "lines": [
     {
@@ -13,209 +13,169 @@
       "text": "2．後日・撮影の控室"
     },
     {
-      "index": 2,
       "type": "dialogue",
-      "text": "撮影用の装飾を試した写真が、モニターに映っている。広は衣装から普段着に戻り、写真を見に来た。"
+      "speaker": "プロデューサー",
+      "text": "お着替え、お疲れさまです。\n今日の写真、確認しますか？",
+      "index": 2
     },
     {
       "index": 3,
-      "type": "dialogue",
-      "speaker": "プロデューサー",
-      "text": "いい仕上がりですね。"
-    },
-    {
-      "index": 4,
       "type": "dialogue",
       "speaker": "広",
       "text": "うんっ。これ、好き。"
     },
     {
-      "index": 5,
       "type": "dialogue",
       "speaker": "プロデューサー",
-      "text": "スタッフの皆さんにも好評でした。"
+      "text": "撮影用の飾りも、よく合っていました。\nスタッフの皆さんにも好評でした。",
+      "index": 4
     },
     {
-      "index": 6,
+      "index": 5,
       "type": "dialogue",
       "speaker": "広",
       "text": "聞こえた。もう一枚、撮りたくなった。"
     },
     {
-      "index": 7,
+      "index": 6,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "撮りましたね。"
     },
     {
-      "index": 8,
+      "index": 7,
       "type": "dialogue",
       "speaker": "広",
       "text": "撮った。"
     },
     {
-      "index": 9,
-      "type": "dialogue",
-      "text": "モニターの写真が切り替わる。広は小さく笑ったあと、自分の服に目を落とす。"
-    },
-    {
-      "index": 10,
+      "index": 8,
       "type": "dialogue",
       "speaker": "広",
       "text": "……なくなった。"
     },
     {
-      "index": 11,
+      "index": 9,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "飾りですか？"
     },
     {
-      "index": 12,
       "type": "dialogue",
       "speaker": "広",
-      "text": "うん。返した。"
+      "text": "うん。着替えるときに返した。",
+      "index": 10
     },
     {
-      "index": 13,
-      "type": "dialogue",
-      "text": "広がモニターから離れ、鏡の前に立つ。"
-    },
-    {
-      "index": 14,
+      "index": 11,
       "type": "dialogue",
       "speaker": "広",
       "text": "いまも、あったらいいなって。"
     },
     {
-      "index": 15,
+      "index": 12,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "気に入ったんですね。\n次は、別の衣装でも――"
     },
     {
-      "index": 16,
       "type": "dialogue",
       "speaker": "広",
-      "text": "次の衣装じゃなくて。これ。"
+      "text": "次の衣装じゃなくて。\nいま着てる、いつもの服。",
+      "index": 13
     },
     {
-      "index": 17,
-      "type": "dialogue",
-      "text": "広が、着替えたばかりの普段着を示す。"
-    },
-    {
-      "index": 18,
+      "index": 14,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "……ああ。今日、つけて帰りたかった。"
     },
     {
-      "index": 19,
+      "index": 15,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん。たぶん。"
     },
     {
-      "index": 20,
-      "type": "dialogue",
-      "text": "鏡を見てから、モニターの写真に目を戻す。"
-    },
-    {
-      "index": 21,
+      "index": 16,
       "type": "dialogue",
       "speaker": "広",
       "text": "今日、すこし……お腹、気に入った。"
     },
     {
-      "index": 22,
+      "index": 17,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "お腹。"
     },
     {
-      "index": 23,
+      "index": 18,
       "type": "dialogue",
       "speaker": "広",
       "text": "そんなに正確に繰り返さなくていい。"
     },
     {
-      "index": 24,
+      "index": 19,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "すみません。続けてください。"
     },
     {
-      "index": 25,
+      "index": 20,
       "type": "dialogue",
       "speaker": "広",
       "text": "いつも、ここの力が抜けたとか、\n姿勢が悪いとか。そういうの、見てる。"
     },
     {
-      "index": 26,
-      "type": "dialogue",
-      "text": "写真を一枚戻す。"
-    },
-    {
-      "index": 27,
       "type": "dialogue",
       "speaker": "広",
-      "text": "さっきは、ここが見える方、選んだ。"
+      "text": "さっきは、お腹の飾りがよく見える\n写真の方、選んだ。",
+      "index": 21
     },
     {
-      "index": 28,
+      "index": 22,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "その写真、俺も好きです。"
     },
     {
-      "index": 29,
+      "index": 23,
       "type": "dialogue",
       "speaker": "広",
       "text": "……うん。"
     },
     {
-      "index": 30,
-      "type": "dialogue",
-      "text": "広はしばらく写真を見てから、鏡へ向き直る。"
-    },
-    {
-      "index": 31,
+      "index": 24,
       "type": "dialogue",
       "speaker": "広",
       "text": "帰ってからも、見たかったな。"
     },
     {
-      "index": 32,
-      "type": "dialogue",
-      "text": "広は鏡を離れ、バッグから端末を取り出す。撮影写真ではなく、保存していたピアスの画像を開く。"
-    },
-    {
-      "index": 33,
       "type": "dialogue",
       "speaker": "広",
-      "text": "こっちの話も、続けたい。"
+      "text": "本物のピアスの話も、続けたい。",
+      "index": 25
     },
     {
-      "index": 34,
+      "index": 26,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "はい。時間を取りましょう。"
     },
     {
-      "index": 35,
+      "index": 27,
       "type": "dialogue",
       "speaker": "広",
       "text": "その前に。写真、送ってほしい。"
     },
     {
-      "index": 36,
+      "index": 28,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "送りますよ。"
     },
     {
-      "index": 37,
+      "index": 29,
       "type": "dialogue",
       "speaker": "広",
       "text": "ふふ。今日のわたしも、持って帰る。"

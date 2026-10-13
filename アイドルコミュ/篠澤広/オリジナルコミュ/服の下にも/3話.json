@@ -3,8 +3,8 @@
   "title": "3話",
   "idol": "篠澤広",
   "comm_type": "オリジナルコミュ",
-  "exported_at": "2026-10-13T14:06:33.857420+00:00",
-  "line_count": 58,
+  "exported_at": "2026-10-13T14:18:18.479829+00:00",
+  "line_count": 52,
   "needs_review": 0,
   "lines": [
     {
@@ -13,84 +13,88 @@
       "text": "3．しばらく後・事務所"
     },
     {
-      "index": 2,
-      "type": "dialogue",
-      "text": "一度、広は希望していた時期を見送った。「そこまでして、その日にしたい理由は、なかった」と言って。"
-    },
-    {
-      "index": 3,
-      "type": "dialogue",
-      "text": "その後、専門家への相談と活動予定の調整を重ねた。今日は、広がどうするかを伝えに来ている。"
-    },
-    {
-      "index": 4,
       "type": "dialogue",
       "speaker": "プロデューサー",
-      "text": "どうしますか。"
+      "text": "専門家に相談した内容に合わせて、\n衣装と活動予定を調整しました。",
+      "index": 2
     },
     {
-      "index": 5,
+      "type": "dialogue",
+      "speaker": "プロデューサー",
+      "text": "前に希望していた時期からは、\nずいぶん延びましたが……",
+      "index": 3
+    },
+    {
       "type": "dialogue",
       "speaker": "広",
-      "text": "……考えてる。"
+      "text": "うん。でも、あの日にするために、\n決まってた仕事を変えるのは、違った。",
+      "index": 4
     },
     {
-      "index": 6,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "そこまでして、\nその日にしたい理由は、なかった。",
+      "index": 5
+    },
+    {
       "type": "dialogue",
       "speaker": "プロデューサー",
-      "text": "はい。"
+      "text": "その後、気持ちはどうですか。",
+      "index": 6
     },
     {
       "index": 7,
       "type": "dialogue",
       "speaker": "広",
-      "text": "できない間は、ずっと、したかった。"
+      "text": "……考えてる。"
     },
     {
       "index": 8,
       "type": "dialogue",
       "speaker": "プロデューサー",
-      "text": "今は、変わりましたか？"
+      "text": "はい。"
     },
     {
       "index": 9,
       "type": "dialogue",
       "speaker": "広",
-      "text": "したい。……それは、変わってない。"
+      "text": "できない間は、ずっと、したかった。"
     },
     {
       "index": 10,
       "type": "dialogue",
-      "text": "広が端末を机に置く。水色の石と、透明な石。二枚の画像を並べる。"
+      "speaker": "プロデューサー",
+      "text": "今は、変わりましたか？"
     },
     {
       "index": 11,
       "type": "dialogue",
       "speaker": "広",
-      "text": "でも、決めていいって言われたら、\n急に、落ち着かなくなった。"
+      "text": "したい。……それは、変わってない。"
     },
     {
       "index": 12,
+      "type": "dialogue",
+      "speaker": "広",
+      "text": "でも、決めていいって言われたら、\n急に、落ち着かなくなった。"
+    },
+    {
+      "index": 13,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "もう少し考えてもいいんですよ。"
     },
     {
-      "index": 13,
+      "index": 14,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん。"
     },
     {
-      "index": 14,
-      "type": "dialogue",
-      "text": "しばらく、二枚を見比べる。"
-    },
-    {
-      "index": 15,
       "type": "dialogue",
       "speaker": "広",
-      "text": "どっちが好き？"
+      "text": "……ねえ。水色と、透明。\nこの二つだったら、どっちが好き？",
+      "index": 15
     },
     {
       "index": 16,
@@ -131,215 +135,185 @@
     {
       "index": 22,
       "type": "dialogue",
-      "text": "透明な石の画像を閉じる。"
-    },
-    {
-      "index": 23,
-      "type": "dialogue",
       "speaker": "広",
       "text": "プロデューサーは、\nわたしがするの、どう思う？"
     },
     {
-      "index": 24,
+      "index": 23,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "似合うと思います。ただ、決めるのは――"
     },
     {
-      "index": 25,
+      "index": 24,
       "type": "dialogue",
       "speaker": "広",
       "text": "わたし。知ってる。"
     },
     {
-      "index": 26,
+      "index": 25,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "……失礼。"
     },
     {
-      "index": 27,
+      "index": 26,
       "type": "dialogue",
       "speaker": "広",
       "text": "決めてほしいんじゃない。"
     },
     {
-      "index": 28,
+      "index": 27,
       "type": "dialogue",
       "speaker": "広",
       "text": "どう思うか、\nもう一回、聞きたかった。"
     },
     {
-      "index": 29,
+      "index": 28,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "では、よく似合うと思います。\n写真を見せられたときから。"
     },
     {
-      "index": 30,
+      "index": 29,
       "type": "dialogue",
       "speaker": "広",
       "text": "……うん。"
     },
     {
-      "index": 31,
-      "type": "dialogue",
-      "text": "広が端末を自分の方へ向ける。"
-    },
-    {
-      "index": 32,
+      "index": 30,
       "type": "dialogue",
       "speaker": "広",
       "text": "しばらくしたら、飽きちゃうかもね。"
     },
     {
-      "index": 33,
+      "index": 31,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "かもしれません。"
     },
     {
-      "index": 34,
+      "index": 32,
       "type": "dialogue",
       "speaker": "広",
       "text": "そこは、否定してくれない。"
     },
     {
-      "index": 35,
+      "index": 33,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "俺には約束できませんから。"
     },
     {
-      "index": 36,
+      "index": 34,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん。わたしも。"
     },
     {
-      "index": 37,
-      "type": "dialogue",
-      "text": "水色の写真を閉じる。黒くなった画面に、天井の照明が映る。"
-    },
-    {
-      "index": 38,
+      "index": 35,
       "type": "dialogue",
       "speaker": "広",
       "text": "あとが残ることも、聞いた。\nやめたら元どおり、じゃないんだね。"
     },
     {
-      "index": 39,
+      "index": 36,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "ええ。"
     },
     {
-      "index": 40,
+      "index": 37,
       "type": "dialogue",
       "speaker": "広",
       "text": "それで、いったん、写真を見るのやめた。"
     },
     {
-      "index": 41,
+      "index": 38,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "そうだったんですか。"
     },
     {
-      "index": 42,
+      "index": 39,
       "type": "dialogue",
       "speaker": "広",
       "text": "でも、着替えると、思い出す。\nここにあったら、って。"
     },
     {
-      "index": 43,
-      "type": "dialogue",
-      "text": "広は自分の服に目を落とし、それから顔を上げる。"
-    },
-    {
-      "index": 44,
+      "index": 40,
       "type": "dialogue",
       "speaker": "広",
       "text": "……する。わたし、つけたい。"
     },
     {
-      "index": 45,
+      "index": 41,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "分かりました。"
     },
     {
-      "index": 46,
+      "index": 42,
       "type": "dialogue",
       "speaker": "広",
       "text": "ふぅ……。"
     },
     {
-      "index": 47,
+      "index": 43,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "まだ、落ち着きませんか。"
     },
     {
-      "index": 48,
+      "index": 44,
       "type": "dialogue",
       "speaker": "広",
       "text": "うん。言ったら、もっと。"
     },
     {
-      "index": 49,
+      "index": 45,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "今日言ったからといって、\n変えられなくなるわけではありませんよ。"
     },
     {
-      "index": 50,
+      "index": 46,
       "type": "dialogue",
       "speaker": "広",
       "text": "わかってる。変わったら、言う。"
     },
     {
-      "index": 51,
-      "type": "dialogue",
-      "text": "広が端末をしまう。プロデューサーは、まだこちらを見ている。"
-    },
-    {
-      "index": 52,
+      "index": 47,
       "type": "dialogue",
       "speaker": "広",
       "text": "今日は、驚かないんだね。"
     },
     {
-      "index": 53,
+      "index": 48,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "ずいぶん、相談しましたから。"
     },
     {
-      "index": 54,
+      "index": 49,
       "type": "dialogue",
       "speaker": "広",
       "text": "そっか。"
     },
     {
-      "index": 55,
-      "type": "dialogue",
-      "text": "少し考えてから、広が笑う。"
-    },
-    {
-      "index": 56,
+      "index": 50,
       "type": "dialogue",
       "speaker": "広",
       "text": "……びっくりしなくていいから。"
     },
     {
-      "index": 57,
+      "index": 51,
       "type": "dialogue",
       "speaker": "広",
       "text": "できたら、見てほしい。"
     },
     {
-      "index": 58,
+      "index": 52,
       "type": "dialogue",
       "speaker": "プロデューサー",
       "text": "はい。"
